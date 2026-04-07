@@ -1,0 +1,8352 @@
+{
+  "gate": {
+    "meaning": "n. 大门；出入口；门道\\nvt. 给…装大门\\nn. (Gate)人名；(英)盖特；(法、瑞典)加特",
+    "phonetic": "geɪt",
+    "tags": []
+  },
+  "grantsmanship": {
+    "meaning": "suf. 表示“技艺”, “技巧”, “为取得策略上的优势而运用某种手段的做法或艺术”：grantsmanship",
+    "phonetic": "mənʃip",
+    "tags": []
+  },
+  "gian": {
+    "meaning": "[网络] teryㄧgian",
+    "phonetic": "",
+    "tags": []
+  },
+  "gangster": {
+    "meaning": "suf. 制造...的人,使用...的人：punster, songster; 做...的, 操作...的人, 从事...的人：teamster; 表示; 与...有关者参考...的人：gangster",
+    "phonetic": "stə",
+    "tags": []
+  },
+  "gce": {
+    "meaning": "n. 英国GCE考试甲级标准",
+    "phonetic": "",
+    "tags": []
+  },
+  "grade": {
+    "meaning": "(a-grade 的复数) 甲级",
+    "phonetic": "",
+    "tags": []
+  },
+  "gun": {
+    "meaning": "abbr. 美国地理学家协会（Association of American Geographers）；高射炮（Anti-Aircraft Gun）",
+    "phonetic": "",
+    "tags": []
+  },
+  "group": {
+    "meaning": "abbr. Argonne Accelerator Users Group <美国>阿贡加速器用户小组",
+    "phonetic": "",
+    "tags": []
+  },
+  "gap": {
+    "meaning": "abbr. 气骨导间距（air bone gap）",
+    "phonetic": "",
+    "tags": []
+  },
+  "gases": {
+    "meaning": "动脉血气（arterial blood gases）",
+    "phonetic": "",
+    "tags": []
+  },
+  "gismondite": {
+    "meaning": "(=gismondite)水钙沸石",
+    "phonetic": "'æbrә,zait",
+    "tags": []
+  },
+  "growth": {
+    "meaning": "abbr. Australian Cane Growers Association 澳大利亚甘蔗种植协会; Arizona Cotton Growers Association 亚利桑那州棉花种植协会; Australian Citrus Growers Association 澳大利亚柑橘种植协会; Association for Corporate Growth 社团发展协会",
+    "phonetic": "",
+    "tags": []
+  },
+  "gooderham": {
+    "meaning": "艾奇逊(①姓氏 ②Dean Gooderham, 1893-1971, 于1949-1953年任美国国务卿)",
+    "phonetic": "'ætʃisn",
+    "tags": []
+  },
+  "g": {
+    "meaning": "[医] G字酸性茜素绿",
+    "phonetic": "",
+    "tags": []
+  },
+  "gr": {
+    "meaning": "[化] 酸性大红GR",
+    "phonetic": "",
+    "tags": []
+  },
+  "gg": {
+    "meaning": "[化] 酸性媒介深黄GG",
+    "phonetic": "",
+    "tags": []
+  },
+  "ggn": {
+    "meaning": "[化] 酸性络合蓝GGN",
+    "phonetic": "",
+    "tags": []
+  },
+  "gynecologists": {
+    "meaning": "abbr. 美国妇产科学会（American College of Obstetricians and Gynecologists）",
+    "phonetic": "",
+    "tags": []
+  },
+  "generator": {
+    "meaning": "abbr. arbitrary diode function generator 二极管任意函数发生器",
+    "phonetic": "",
+    "tags": []
+  },
+  "gesellschaft": {
+    "meaning": "abbr. （德意志联邦共和国）通用电力公司（Allgemeine Elektrizitts Gesellschaft）",
+    "phonetic": "",
+    "tags": []
+  },
+  "greece": {
+    "meaning": "abbr. Agrinion, Greece 希腊，艾格瑞尼昂机场（代码）",
+    "phonetic": "",
+    "tags": []
+  },
+  "guidance": {
+    "meaning": "abbr. 美国国际集团（American International Group Inc）；全惯性制导（All-Inertial Guidance）",
+    "phonetic": "",
+    "tags": []
+  },
+  "great": {
+    "meaning": "n. 阿克巴（印度莫卧儿帝国皇帝, 等于Akbar the Great）",
+    "phonetic": "'ækbɑ:",
+    "tags": []
+  },
+  "grass": {
+    "meaning": "＝ Johnson grass",
+    "phonetic": "",
+    "tags": []
+  },
+  "gba": {
+    "meaning": "[机] 阿果黄GBA",
+    "phonetic": "",
+    "tags": []
+  },
+  "granada": {
+    "meaning": "(=Alhambresque)一种装饰艺术流派, 以西班牙南部格拉纳达(Granada)的摩尔人宫殿装饰为基础, 以图案花纹的复杂、细致著称",
+    "phonetic": "æl'hæmbraik",
+    "tags": []
+  },
+  "general": {
+    "meaning": "abbr. allgemein (German=general) （德语）一般的，普通的，综合的",
+    "phonetic": "'əlɪɡ",
+    "tags": []
+  },
+  "gcp": {
+    "meaning": "[建] 茜士林蓝GCP, 原色还原青",
+    "phonetic": "",
+    "tags": []
+  },
+  "germany": {
+    "meaning": "abbr. Allemagne (French=Germany) （法语）德国",
+    "phonetic": "",
+    "tags": []
+  },
+  "germander": {
+    "meaning": "[网络] 美国germander",
+    "phonetic": "",
+    "tags": []
+  },
+  "god": {
+    "meaning": " [男子名] 埃米亚斯来源于拉丁语, 含义是“爱+上帝”(love+God)",
+    "phonetic": "",
+    "tags": []
+  },
+  "glaucoma": {
+    "meaning": "abbr. 急性狭角青光眼（acute narrow angle glaucoma）",
+    "phonetic": "",
+    "tags": []
+  },
+  "gryphus": {
+    "meaning": "【鸟类】兀鹰,鹫(Vultur gryphus)",
+    "phonetic": "",
+    "tags": []
+  },
+  "gordy": {
+    "meaning": "n. (Gordy)人名；(英、法)戈迪",
+    "phonetic": "",
+    "tags": []
+  },
+  "gore": {
+    "meaning": "v. （动物）用角撞伤, 用牙刺破( gore的过去式和过去分词 )",
+    "phonetic": "gɔ:d",
+    "tags": []
+  },
+  "gorge": {
+    "meaning": "v. （用食物把自己）塞饱, 填饱( gorge的过去式和过去分词 ); 作呕",
+    "phonetic": "gɔ:dʒd",
+    "tags": []
+  },
+  "gorgoneion": {
+    "meaning": "n. gorgoneion的变形",
+    "phonetic": "",
+    "tags": []
+  },
+  "goreham": {
+    "meaning": " [人名] [英格兰人姓氏] 戈勒姆 Goreham的变体; [地名] [美国] 戈勒姆",
+    "phonetic": "",
+    "tags": []
+  },
+  "goria": {
+    "meaning": "n. (Goria)人名；(意、罗)戈里亚",
+    "phonetic": "",
+    "tags": []
+  },
+  "gory": {
+    "meaning": "a. 沾满血污的, 充满暴力和血腥的( gory的比较级 )",
+    "phonetic": "ˈgɔ:ri:ə",
+    "tags": []
+  },
+  "gorilla": {
+    "meaning": "n. 大猩猩( gorilla的复数形式 ); 暴徒, 打手",
+    "phonetic": "ɡəˈriləz",
+    "tags": []
+  },
+  "goring": {
+    "meaning": " [人名] [英格兰人姓氏] 戈林 Goring的变体; [地名] [俄罗斯] 戈林",
+    "phonetic": "",
+    "tags": []
+  },
+  "gourmand": {
+    "meaning": "n. =gourmand",
+    "phonetic": "'ɡɔːmənd",
+    "tags": []
+  },
+  "gourmandism": {
+    "meaning": "n. =gourmandism",
+    "phonetic": "'ɡɔ:məndizəm",
+    "tags": []
+  },
+  "gormandize": {
+    "meaning": "v. 大吃大喝( gormandize的过去式和过去分词 )",
+    "phonetic": "ˈgɔ:mənˌdaɪzd",
+    "tags": []
+  },
+  "gormless": {
+    "meaning": "n. gormless的变形",
+    "phonetic": "",
+    "tags": []
+  },
+  "gormley": {
+    "meaning": "n. (Gormley)人名；(英)戈姆利",
+    "phonetic": "",
+    "tags": []
+  },
+  "goro": {
+    "meaning": "n. (Goro)人名；(塞、匈、意)戈罗；(日)后吕 (姓)",
+    "phonetic": "",
+    "tags": []
+  },
+  "gossage": {
+    "meaning": " [人名] [英格兰人姓氏] 戈萨奇 Gossage的变体",
+    "phonetic": "",
+    "tags": []
+  },
+  "gort": {
+    "meaning": "n. (Gort)人名；(英)戈特",
+    "phonetic": "",
+    "tags": []
+  },
+  "gosden": {
+    "meaning": "n. (Gosden)人名；(英)戈斯登",
+    "phonetic": "",
+    "tags": []
+  },
+  "gosling": {
+    "meaning": " [人名] [英格兰人姓氏] 戈斯林 Gosling的变体",
+    "phonetic": "",
+    "tags": []
+  },
+  "gospel": {
+    "meaning": "n. 真理( gospel的复数形式 ); 福音音乐; <新约>四福音书; 原则",
+    "phonetic": "ˈɡɔspəlz",
+    "tags": []
+  },
+  "gosse": {
+    "meaning": " [人名] [英格兰人姓氏] 戈塞特 Gosse的昵称",
+    "phonetic": "",
+    "tags": []
+  },
+  "gossip": {
+    "meaning": "n. 流言( gossip的名词复数 ); 闲谈; 爱拨弄是非的人; 八卦",
+    "phonetic": "ˈɡɔsips",
+    "tags": []
+  },
+  "gosub": {
+    "meaning": "[计] 转子程序语句, GOSUB语句",
+    "phonetic": "",
+    "tags": []
+  },
+  "got": {
+    "meaning": "vt. get的变形\\nget 的过去式和一种过去分词\\nv. aux. [口语] =must 或 have got (后接不定式)",
+    "phonetic": "ɡɒt",
+    "tags": []
+  },
+  "gothic": {
+    "meaning": "adv. Gothic的变形",
+    "phonetic": "",
+    "tags": []
+  },
+  "gothick": {
+    "meaning": "(Gothick 的复数) 描写恐怖和凄凉体裁的, 哥特式的",
+    "phonetic": "",
+    "tags": []
+  },
+  "goethite": {
+    "meaning": "(=goethite)针铁矿",
+    "phonetic": "'^әutait",
+    "tags": []
+  },
+  "gott": {
+    "meaning": "n. (Gott)人名；(英、俄)戈特",
+    "phonetic": "",
+    "tags": []
+  },
+  "get": {
+    "meaning": "get的过去分词",
+    "phonetic": "'gɒtn",
+    "tags": []
+  },
+  "gotti": {
+    "meaning": "n. (Gotti)人名；(法、意)戈蒂",
+    "phonetic": "",
+    "tags": []
+  },
+  "gotto": {
+    "meaning": "n. (Gotto)人名；(英、德)戈托",
+    "phonetic": "",
+    "tags": []
+  },
+  "gottschalk": {
+    "meaning": "n. (Gottschalk)人名；(英、法、德、瑞典)戈特沙尔克",
+    "phonetic": "",
+    "tags": []
+  },
+  "gough": {
+    "meaning": " [人名] [威尔士人姓氏] 高奇 Gough的变体; [地名] [阿根廷] 古奇",
+    "phonetic": "",
+    "tags": []
+  },
+  "goldie": {
+    "meaning": " [人名] [苏格兰人姓氏] 高迪 Goldie的变体",
+    "phonetic": "",
+    "tags": []
+  },
+  "goudronhighway": {
+    "meaning": "焦油, 沥青 goudronhighway 沥青路",
+    "phonetic": "'^әudrәn",
+    "tags": []
+  },
+  "gouge": {
+    "meaning": "v. 凿( gouge的过去式和过去分词 ); 乱要价; （在…中）抠出…; 挖出…",
+    "phonetic": "gaʊdʒd",
+    "tags": []
+  },
+  "gold": {
+    "meaning": " [人名] [英格兰人姓氏] 古尔登 Gold的变体",
+    "phonetic": "",
+    "tags": []
+  },
+  "goul": {
+    "meaning": "(goul 的过去时)  [人名] 高尔",
+    "phonetic": "",
+    "tags": []
+  },
+  "gourami": {
+    "meaning": "丝足鱼, 吻口鱼（产于东南亚）( gourami的名词复数 )",
+    "phonetic": "",
+    "tags": []
+  },
+  "gourd": {
+    "meaning": "n. 葫芦( gourd的复数形式 )",
+    "phonetic": "gɔ:dz",
+    "tags": []
+  },
+  "gourlay": {
+    "meaning": " [人名] [苏格兰人姓氏] 古尔利 Gourlay的变体",
+    "phonetic": "",
+    "tags": []
+  },
+  "gourmandise": {
+    "meaning": "n. , vt., vi. -dized,-dizing [主美国英语] =gourmandise",
+    "phonetic": "'ɡuəməndaiz",
+    "tags": []
+  },
+  "gourmandize": {
+    "meaning": "n. gourmandize的变形",
+    "phonetic": "",
+    "tags": []
+  },
+  "gourmet": {
+    "meaning": "n. 讲究吃喝的人, 美食家( gourmet的复数形式 )",
+    "phonetic": "gʊəˈmeɪz",
+    "tags": []
+  },
+  "gourmont": {
+    "meaning": "n. (Gourmont)人名；(法)古尔蒙",
+    "phonetic": "",
+    "tags": []
+  },
+  "gouty": {
+    "meaning": "adv. gouty的变形",
+    "phonetic": "",
+    "tags": []
+  },
+  "gout": {
+    "meaning": "n. [遗][外科] 痛风；一滴；一团\\nn. (Gout)人名；(法)古",
+    "phonetic": "gaʊt",
+    "tags": []
+  },
+  "govern": {
+    "meaning": "n. govern的变形",
+    "phonetic": "",
+    "tags": []
+  },
+  "governer": {
+    "meaning": "(governer 的复数)  调节器; 调速器",
+    "phonetic": "",
+    "tags": []
+  },
+  "governess": {
+    "meaning": "n. 女家庭教师( governess的复数形式 )",
+    "phonetic": "ˈgʌvənɪsiz",
+    "tags": []
+  },
+  "governmental": {
+    "meaning": "adv. governmental的变形",
+    "phonetic": "",
+    "tags": []
+  },
+  "government": {
+    "meaning": "n. 政权；政府；可转让政府证券（government的复数）",
+    "phonetic": "",
+    "tags": []
+  },
+  "governor": {
+    "meaning": "n. 主管( governor的复数形式 ); 理事; （美国的）州长; （学校、学院、医院等机构的）董事",
+    "phonetic": "ˈɡʌvənəz",
+    "tags": []
+  },
+  "govinda": {
+    "meaning": "n. (Govinda)人名；(尼)戈文达",
+    "phonetic": "",
+    "tags": []
+  },
+  "gowaned": {
+    "meaning": "a. [苏格兰和英格兰北部英语] =gowaned",
+    "phonetic": "'ɡaʊənɪ",
+    "tags": []
+  },
+  "gowda": {
+    "meaning": "n. (Gowda)人名；(印)高达",
+    "phonetic": "",
+    "tags": []
+  },
+  "gower": {
+    "meaning": " [人名] [英格兰人姓氏] 高尔斯取自父名，来源于Gower,含义是“高尔之子”(son of Gower)",
+    "phonetic": "",
+    "tags": []
+  },
+  "gown": {
+    "meaning": "vt.&vi. 穿长袍（gown的过去式与过去分词形式）",
+    "phonetic": "gaʊnd",
+    "tags": []
+  },
+  "gowrie": {
+    "meaning": "n. (Gowrie)人名；(英)高里",
+    "phonetic": "",
+    "tags": []
+  },
+  "goyen": {
+    "meaning": "n. (Goyen)人名；(荷)霍延",
+    "phonetic": "",
+    "tags": []
+  },
+  "goy": {
+    "meaning": "goy的复数",
+    "phonetic": "'^ɔiim",
+    "tags": []
+  },
+  "gp": {
+    "meaning": "[网络] GP炸弹",
+    "phonetic": "",
+    "tags": []
+  },
+  "gallon": {
+    "meaning": "abbr. grains per gallon 格令/加仑",
+    "phonetic": "",
+    "tags": []
+  },
+  "guildpartyquest": {
+    "meaning": "n. [冒险岛]GuildPartyQuest,家族任务。",
+    "phonetic": "",
+    "tags": []
+  },
+  "gpss": {
+    "meaning": "[计] 通用系统模拟, 程序语言GPSS语言",
+    "phonetic": "",
+    "tags": []
+  },
+  "grab": {
+    "meaning": "v. 攫取；捕获；强夺；匆忙地做（grab的过去分词形式）",
+    "phonetic": "",
+    "tags": []
+  },
+  "grabble": {
+    "meaning": "v. 搜索( grabble的过去式和过去分词 ); 匍匐搜索; 爬; 夺取",
+    "phonetic": "ˈɡræbld",
+    "tags": []
+  },
+  "grabe": {
+    "meaning": "n. (Grabe)人名；(德、瑞典)格拉贝",
+    "phonetic": "",
+    "tags": []
+  },
+  "gracchus": {
+    "meaning": "n. (Gracchus)人名；(德)格拉胡斯",
+    "phonetic": "",
+    "tags": []
+  },
+  "grace": {
+    "meaning": "v. 使优美（grace的过去式与过去分词形式）",
+    "phonetic": "",
+    "tags": []
+  },
+  "graceless": {
+    "meaning": "n. graceless的变形",
+    "phonetic": "",
+    "tags": []
+  },
+  "gracey": {
+    "meaning": "n. (Gracey)人名；(英)格雷西",
+    "phonetic": "",
+    "tags": []
+  },
+  "gracile": {
+    "meaning": "n. gracile的变形",
+    "phonetic": "ɡræ'siliti",
+    "tags": []
+  },
+  "gracioso": {
+    "meaning": "（西班牙喜剧中的）小丑, 丑角( gracioso的名词复数 )",
+    "phonetic": "",
+    "tags": []
+  },
+  "gradate": {
+    "meaning": "v. （使）逐渐转化, 顺次排列( gradate的过去式和过去分词 )",
+    "phonetic": "ɡrəˈdeitid",
+    "tags": []
+  },
+  "gradation": {
+    "meaning": "n. （从一事物到另一事物的）渐变( gradation的复数形式 ); （事物划分的）阶段; 等级; 刻度",
+    "phonetic": "ɡrəˈdeiʃənz",
+    "tags": []
+  },
+  "grader": {
+    "meaning": "分级机\\n分类机\\n…年级学生\\n[建] 平地机（grader的复数）",
+    "phonetic": "",
+    "tags": []
+  },
+  "gradient": {
+    "meaning": "n. 道路的斜度( gradient的复数形式 ); 坡度; 变化程度; （温度、压力等的）变化率",
+    "phonetic": "ˈgreɪdi:ənts",
+    "tags": []
+  },
+  "grading": {
+    "meaning": "(grading 的复数) [经] 分级, 归类",
+    "phonetic": "",
+    "tags": []
+  },
+  "gradualism": {
+    "meaning": "a. gradualism的变形",
+    "phonetic": "",
+    "tags": []
+  },
+  "gradualist": {
+    "meaning": "(gradualist 的复数)  渐进主义者（的）",
+    "phonetic": "",
+    "tags": []
+  },
+  "graduation": {
+    "meaning": "n. 毕业, 毕业典礼( graduation的复数形式 )",
+    "phonetic": "ˈgrædʒu:ˈeɪʃənz",
+    "tags": []
+  },
+  "graecize": {
+    "meaning": "v. <主英>=Graecize",
+    "phonetic": "'^ri:saiz",
+    "tags": []
+  },
+  "greco": {
+    "meaning": "(=Greco-)表示“希腊,希腊人”之义",
+    "phonetic": "'^ri:kәj",
+    "tags": []
+  },
+  "graffitist": {
+    "meaning": "(graffitist 的复数) (在公共场所的墙壁等处)乱涂乱写者",
+    "phonetic": "",
+    "tags": []
+  },
+  "graft": {
+    "meaning": "v. <农>移植( graft的过去式和过去分词 ); 嫁接; 使（思想、制度等）成为（…的一部份）; 植根",
+    "phonetic": "ɡrɑ:ftid",
+    "tags": []
+  },
+  "graeae": {
+    "meaning": "[复]n.=Graeae",
+    "phonetic": "'^reii:,'^rai-",
+    "tags": []
+  },
+  "grainger": {
+    "meaning": "n. (Grainger)人名；(英)格兰杰",
+    "phonetic": "",
+    "tags": []
+  },
+  "grainne": {
+    "meaning": "n. (Grainne)人名；(英)格兰妮",
+    "phonetic": "",
+    "tags": []
+  },
+  "grainstone": {
+    "meaning": "(grainstone 的复数)  粒状灰岩",
+    "phonetic": "",
+    "tags": []
+  },
+  "grammatical": {
+    "meaning": "abbr. grammatical 语法的",
+    "phonetic": "",
+    "tags": []
+  },
+  "grama": {
+    "meaning": "=grama",
+    "phonetic": "",
+    "tags": []
+  },
+  "grammarian": {
+    "meaning": "n. 文法家, 文法教师, 文法学者( grammarian的复数形式 )",
+    "phonetic": "ɡvəˈmɛəriənz",
+    "tags": []
+  },
+  "grammar": {
+    "meaning": "n. 语法( grammar的复数形式 ); 语法书; 语法学; （人的）语言知识及运用能力",
+    "phonetic": "ˈɡræməz",
+    "tags": []
+  },
+  "grammaticalization": {
+    "meaning": "(grammaticalization 的复数) 语法化",
+    "phonetic": "",
+    "tags": []
+  },
+  "grammaticize": {
+    "meaning": "vt., vi. grammaticize的变形",
+    "phonetic": "",
+    "tags": []
+  },
+  "gramophone": {
+    "meaning": "n. 留声机( gramophone的复数形式 )",
+    "phonetic": "ˈgræməˌfəʊnz",
+    "tags": []
+  },
+  "grampian": {
+    "meaning": "(Grampian 的复数) 格兰扁区[英国苏格兰行政区名]",
+    "phonetic": "",
+    "tags": []
+  },
+  "grampus": {
+    "meaning": "n. 灰海豚, 虎鲸( grampus的名词复数 )",
+    "phonetic": "ˈɡræmpəsiz",
+    "tags": []
+  },
+  "gram": {
+    "meaning": "n. 克（gram的复数形式）",
+    "phonetic": "",
+    "tags": []
+  },
+  "granum": {
+    "meaning": "n. 基粒（granum的复数形式）",
+    "phonetic": "'ɡrænә. 'ɡreinә",
+    "tags": []
+  },
+  "granado": {
+    "meaning": "(granado 的复数)  [地名] [秘鲁] 格拉纳多",
+    "phonetic": "",
+    "tags": []
+  },
+  "granary": {
+    "meaning": "n. 谷仓, 粮仓( granary的名词复数 )",
+    "phonetic": "ˈgrænəri:z",
+    "tags": []
+  },
+  "granate": {
+    "meaning": "n. (Granate)人名；(葡、罗)格拉纳特",
+    "phonetic": "",
+    "tags": []
+  },
+  "grandaddy": {
+    "meaning": "n. <非正>祖师爷, 老祖宗； 爷爷, 祖父( grandaddy的复数形式 )",
+    "phonetic": "",
+    "tags": []
+  },
+  "grandad": {
+    "meaning": "n. 爷爷( grandad的复数形式 )",
+    "phonetic": "ˈɡrændædz",
+    "tags": []
+  },
+  "granddad": {
+    "meaning": "(granddad 的复数) 爷爷, 老太爷, 外公",
+    "phonetic": "",
+    "tags": []
+  },
+  "granddaughter": {
+    "meaning": "n. （外）孙女( granddaughter的复数形式 )",
+    "phonetic": "ˈgrænˌdɔ:təz",
+    "tags": []
+  },
+  "grandee": {
+    "meaning": "n. 贵族, 大公, 显贵者( grandee的复数形式 )",
+    "phonetic": "ɡrænˈdi:z",
+    "tags": []
+  },
+  "grand": {
+    "meaning": "较大的\\n较宏伟的（grand的比较级）",
+    "phonetic": "",
+    "tags": []
+  },
+  "grandfather": {
+    "meaning": "a. 祖父级的\\nv. 给…特权；不受新法律规定的约束（grandfather的过去分词）",
+    "phonetic": "",
+    "tags": []
+  },
+  "grandi": {
+    "meaning": "n. (Grandi)人名；(法)格朗迪；(德、葡、意)格兰迪",
+    "phonetic": "",
+    "tags": []
+  },
+  "grandiloquent": {
+    "meaning": "adv. grandiloquent的变形",
+    "phonetic": "",
+    "tags": []
+  },
+  "grandiose": {
+    "meaning": "adv. grandiose的变形",
+    "phonetic": "",
+    "tags": []
+  },
+  "granson": {
+    "meaning": " [人名] [英格兰人、苏格兰人姓氏] 格兰迪森住所名称，来源于纳沙泰尔湖畔的Granson",
+    "phonetic": "",
+    "tags": []
+  },
+  "grandma": {
+    "meaning": "n. <非正>奶奶, 外婆( grandma的复数形式 )",
+    "phonetic": "ˈɡrænmɑ:z",
+    "tags": []
+  },
+  "grandmaster": {
+    "meaning": "(grandmaster 的复数)  大师（最高棋手等的称号）",
+    "phonetic": "",
+    "tags": []
+  },
+  "grandmother": {
+    "meaning": "n. （外）祖母( grandmother的复数形式 )",
+    "phonetic": "ˈɡrændˌmʌðəz",
+    "tags": []
+  },
+  "grandpap": {
+    "meaning": "n. [方言、口语] =grandfather [亦作 grandpap]",
+    "phonetic": "'ɡrænd'pæpɪ",
+    "tags": []
+  },
+  "grandparent": {
+    "meaning": "n. 祖父母；祖父或祖母；外祖父母；外祖父或外祖母 (grandparent的变形)",
+    "phonetic": "",
+    "tags": []
+  },
+  "grandpa": {
+    "meaning": "n. <非正>爷爷, 外公, 老太爷( grandpa的复数形式 )",
+    "phonetic": "ˈɡrænpɑ:z",
+    "tags": []
+  },
+  "grandson": {
+    "meaning": "n. （外）孙( grandson的复数形式 )",
+    "phonetic": "ˈgrændˌsʌnz",
+    "tags": []
+  },
+  "grandstand": {
+    "meaning": "vi. 为博取观众喝彩而卖弄技巧（grandstand的过去式与过去分词形式）",
+    "phonetic": "",
+    "tags": []
+  },
+  "graner": {
+    "meaning": "n. (Graner)人名；(瑞典)格拉纳；(德、英、瑞典)格拉纳；(法、西)格拉内尔",
+    "phonetic": "",
+    "tags": []
+  },
+  "grangerize": {
+    "meaning": "vt.<主英>=grangerize",
+    "phonetic": "'^reindʒәraiz",
+    "tags": []
+  },
+  "grange": {
+    "meaning": "n. 农庄( grange的复数形式 )",
+    "phonetic": "ɡreindʒz",
+    "tags": []
+  },
+  "granite": {
+    "meaning": "n. 花岗岩, 花岗石( granite的复数形式 )",
+    "phonetic": "ɡ'rænɪts",
+    "tags": []
+  },
+  "granny": {
+    "meaning": "n. 奶奶, 外婆, 老奶奶( granny的复数形式 )",
+    "phonetic": "ˈgræni:z",
+    "tags": []
+  },
+  "granophyre": {
+    "meaning": " 表示花岗岩的, 似花岗岩的：granolith,granophyre",
+    "phonetic": "'ɡrænəu",
+    "tags": []
+  },
+  "gran": {
+    "meaning": "n. <英·非正>奶奶, 外祖母( gran的复数形式 )",
+    "phonetic": "",
+    "tags": []
+  },
+  "gm": {
+    "meaning": "a. （英国学校）由中央政府拨款（或出资）的（缩略形式为GM）",
+    "phonetic": "",
+    "tags": []
+  },
+  "gam": {
+    "meaning": "n. 格兰塔河（英格兰东部河流名, 等于Gam）；格兰塔出版社（出版社名）",
+    "phonetic": "'ɡræntə",
+    "tags": []
+  },
+  "grantchester": {
+    "meaning": "n. (Grantchester)人名；(英)格兰切斯特",
+    "phonetic": "",
+    "tags": []
+  },
+  "grant": {
+    "meaning": "v. （退一步）承认( grant的现在分词 ); （尤指正式地或法律上）同意; 准许; 让渡",
+    "phonetic": "ɡ'rɑ:ntɪŋ",
+    "tags": []
+  },
+  "grantor": {
+    "meaning": "n. 授予者；委托人；让渡人（grantor的复数形式）",
+    "phonetic": "",
+    "tags": []
+  },
+  "granular": {
+    "meaning": "adv. granular的变形",
+    "phonetic": "",
+    "tags": []
+  },
+  "granulate": {
+    "meaning": "v. 使成颗粒, 使成粒状( granulate的第三人称单数 ); 使表面粗糙",
+    "phonetic": "ˈgrænjəˌleɪts",
+    "tags": []
+  },
+  "granule": {
+    "meaning": "n. 小颗粒, 小硬粒( granule的复数形式 )",
+    "phonetic": "grænju:ls",
+    "tags": []
+  },
+  "granulocyte": {
+    "meaning": "(granulocyte 的复数) [医] 粒细胞, 粒性白细胞",
+    "phonetic": "",
+    "tags": []
+  },
+  "granuloma": {
+    "meaning": "n. 肉芽肿，肉芽瘤( granuloma的名词复数 )",
+    "phonetic": ",ɡrænju'ləumətə",
+    "tags": []
+  },
+  "grapefruit": {
+    "meaning": "n. 葡萄柚, 西柚, 柚子( grapefruit的复数形式 )",
+    "phonetic": "ɡ'reɪpfru:ts",
+    "tags": []
+  },
+  "grapevine": {
+    "meaning": "n. 传闻( grapevine的复数形式 ); 小道消息; 通过小道消息; 根据传闻",
+    "phonetic": "ˈgreɪpˌvaɪnz",
+    "tags": []
+  },
+  "graphemic": {
+    "meaning": "a. 字形；字素的, 书写单位的 (graphemic的变形)",
+    "phonetic": "",
+    "tags": []
+  },
+  "graphical": {
+    "meaning": "n. graphic的变形；graphical的变形",
+    "phonetic": "",
+    "tags": []
+  },
+  "graphitize": {
+    "meaning": "a. graphitize的变形",
+    "phonetic": "",
+    "tags": []
+  },
+  "graph": {
+    "meaning": "n. 图形, 图表；曲线图（graph的复数）",
+    "phonetic": "",
+    "tags": []
+  },
+  "grappelli": {
+    "meaning": "n. (Grappelli)人名；(法、意)格拉佩利",
+    "phonetic": "",
+    "tags": []
+  },
+  "grapple": {
+    "meaning": "v. 抓住( grapple的过去式和过去分词 ); 搏斗; 与…格斗; 努力应付困境（或解决难题）",
+    "phonetic": "ˈgræpəld",
+    "tags": []
+  },
+  "graptolite": {
+    "meaning": "a. graptolite的变形",
+    "phonetic": ",ɡræptə'litik",
+    "tags": []
+  },
+  "grasp": {
+    "meaning": "v. 抓住( grasp的过去式和过去分词 ); 了解; 急忙抓住; 急切（或贪婪）地抓住",
+    "phonetic": "ɡrɑ:spt",
+    "tags": []
+  },
+  "grasshopper": {
+    "meaning": "n. 蚱蜢( grasshopper的复数形式 ); 蝗虫; 蚂蚱; （孩子）矮小的",
+    "phonetic": "ˈgræsˌhɔpəz",
+    "tags": []
+  },
+  "grassy": {
+    "meaning": "a. 被草覆盖的, 长满草的( grassy的比较级 )",
+    "phonetic": "ˈgræsi:ə",
+    "tags": []
+  },
+  "grassland": {
+    "meaning": "n. 草原, 牧场( grassland的复数形式 )",
+    "phonetic": "ɡ'rɑ:slændz",
+    "tags": []
+  },
+  "greet": {
+    "meaning": "greet的过去式",
+    "phonetic": "^ræt",
+    "tags": []
+  },
+  "grata": {
+    "meaning": "n. (Grata)人名；(塞)格拉塔",
+    "phonetic": "",
+    "tags": []
+  },
+  "grater": {
+    "meaning": "n. 摩擦者, 擦菜板( grater的复数形式 )",
+    "phonetic": "ɡ'reɪtəz",
+    "tags": []
+  },
+  "grate": {
+    "meaning": "n. 炉格, 炉箅( grate的名词复数 )\\nv. 磨碎, 压碎( grate的第三人称单数 ); 发出刺耳的摩擦声; 使人烦恼难受",
+    "phonetic": "greɪts",
+    "tags": []
+  },
+  "gratify": {
+    "meaning": "v. 使高兴, 使满意( gratify的过去式和过去分词 )",
+    "phonetic": "ˈgrætəˌfaɪd",
+    "tags": []
+  },
+  "grating": {
+    "meaning": "n. 格栅, 栅栏, 格子( grating的复数形式 )",
+    "phonetic": "ɡ'reɪtɪŋz",
+    "tags": []
+  },
+  "gratin": {
+    "meaning": "n. （通常由面包屑和溶化的干酪制的浅棕色）脆皮( gratin的名词复数 ); 有脆皮的烘烤菜肴",
+    "phonetic": "ˈɡræt(ŋ)",
+    "tags": []
+  },
+  "grattan": {
+    "meaning": "n. (Grattan)人名；(英)格拉顿",
+    "phonetic": "",
+    "tags": []
+  },
+  "gratuity": {
+    "meaning": "n. 报酬( gratuity的复数形式 ); 小账; 小费; 养老金",
+    "phonetic": "grəˈtu:ɪti:z",
+    "tags": []
+  },
+  "gratuitous": {
+    "meaning": "n. gratuitous（免费的, 无偿的, 无报酬的, 不收酬劳的）的变形",
+    "phonetic": "ɡrə'tju:itəs",
+    "tags": []
+  },
+  "gratulate": {
+    "meaning": "v. 欢迎, 祝( gratulate的现在分词 )",
+    "phonetic": "ˈɡrætjuleitɪŋ",
+    "tags": []
+  },
+  "grau": {
+    "meaning": "(grau 的复数)  [人名] 格劳",
+    "phonetic": "",
+    "tags": []
+  },
+  "gravamen": {
+    "meaning": "n. 不平, 苦诉, 控诉要旨( gravamen的名词复数 )",
+    "phonetic": "",
+    "tags": []
+  },
+  "grave": {
+    "meaning": "grave的过去式和过去分词",
+    "phonetic": "",
+    "tags": []
+  },
+  "gravedigger": {
+    "meaning": "n. 挖墓人, 埋葬虫（一种甲虫）( gravedigger的复数形式 )",
+    "phonetic": "",
+    "tags": []
+  },
+  "gravel": {
+    "meaning": "n. 沙砾( gravel的名词复数 ); 砾石; 石子; 结石",
+    "phonetic": "ˈɡrævəlz",
+    "tags": []
+  },
+  "gravestone": {
+    "meaning": "n. 墓碑( gravestone的复数形式 )",
+    "phonetic": "ˈgreɪvˌstəʊnz",
+    "tags": []
+  },
+  "graveyard": {
+    "meaning": "n. 墓地( graveyard的复数形式 ); 垃圾场; 废物堆积处; 收容所",
+    "phonetic": "ˈgreɪvˌjɑ:dz",
+    "tags": []
+  },
+  "gravid": {
+    "meaning": "n. gravid（怀孕的，妊娠的）的变形",
+    "phonetic": "'ɡrævid",
+    "tags": []
+  },
+  "gravy": {
+    "meaning": "n. 肉汁( gravy的名词复数 ); 肉卤; 意外之财; 飞来福",
+    "phonetic": "ˈɡreiviz",
+    "tags": []
+  },
+  "gravitate": {
+    "meaning": "v. 受重力作用( gravitate的过去式和过去分词 ); 被吸引",
+    "phonetic": "ˈgrævɪˌteɪtid",
+    "tags": []
+  },
+  "gravitational": {
+    "meaning": "adv. gravitational（万有引力的）的变形",
+    "phonetic": ",ɡrævi'teiʃənəli",
+    "tags": []
+  },
+  "graydon": {
+    "meaning": "(graydon 的复数)  [人名] 格雷顿",
+    "phonetic": "",
+    "tags": []
+  },
+  "gray": {
+    "meaning": "n. 灰色( gray的名词复数 ); 灰马; 灰色颜料; 暗淡的光线",
+    "phonetic": "ɡreiz",
+    "tags": []
+  },
+  "graze": {
+    "meaning": "a. graze的变形",
+    "phonetic": "",
+    "tags": []
+  },
+  "grazia": {
+    "meaning": "n. (Grazia)人名；(法、意)格拉齐亚；(西、瑞典)格拉西亚",
+    "phonetic": "",
+    "tags": []
+  },
+  "graziani": {
+    "meaning": "n. (Graziani)人名；(法、意)格拉齐亚尼；(西)格拉西亚尼",
+    "phonetic": "",
+    "tags": []
+  },
+  "graziano": {
+    "meaning": "n. (Graziano)人名；(英、意)格拉齐亚诺",
+    "phonetic": "",
+    "tags": []
+  },
+  "grea": {
+    "meaning": "n. (Grea)人名；(意)格雷亚",
+    "phonetic": "",
+    "tags": []
+  },
+  "grease": {
+    "meaning": "n. 动物油脂( grease的名词复数 ); 油膏, 油脂",
+    "phonetic": "ɡri:siz",
+    "tags": []
+  },
+  "greasy": {
+    "meaning": "a. 脂肪的( greasy的比较级 ); （人或其行为）圆滑的; 油腻的; （指人、举止）谄媚的",
+    "phonetic": "ˈgri:si:ə",
+    "tags": []
+  },
+  "grandchild": {
+    "meaning": "n. 曾孙，曾孙女( great-grandchild的名词复数 )",
+    "phonetic": "ɡ'reɪtɡr'æntʃɪldrən",
+    "tags": []
+  },
+  "greatcoat": {
+    "meaning": "n. （厚质的）外套, 大衣( greatcoat的复数形式 )",
+    "phonetic": "ˈɡreitkəuts",
+    "tags": []
+  },
+  "greatest": {
+    "meaning": "(greatest 的复数) [计] 最大的",
+    "phonetic": "",
+    "tags": []
+  },
+  "greathearted": {
+    "meaning": "adv. greathearted的变形",
+    "phonetic": "",
+    "tags": []
+  },
+  "greedy": {
+    "meaning": "a. 贪吃的( greedy的比较级 ); 贪心的; 贪婪的; 渴望的",
+    "phonetic": "ˈɡri:diə",
+    "tags": []
+  },
+  "greek": {
+    "meaning": "n. 希腊人（Greek的复数）",
+    "phonetic": "",
+    "tags": []
+  },
+  "greely": {
+    "meaning": "n. (Greely)人名；(英)格里利",
+    "phonetic": "",
+    "tags": []
+  },
+  "greenacre": {
+    "meaning": "n. (Greenacre)人名；(英)格里纳克",
+    "phonetic": "",
+    "tags": []
+  },
+  "greenall": {
+    "meaning": "n. (Greenall)人名；(英)格里诺尔",
+    "phonetic": "",
+    "tags": []
+  },
+  "greenback": {
+    "meaning": "n. <美, 非正>美钞( greenback的复数形式 )",
+    "phonetic": "ˈgri:nˌbæks",
+    "tags": []
+  },
+  "greenbank": {
+    "meaning": "n. (Greenbank)人名；(英)格林班克",
+    "phonetic": "",
+    "tags": []
+  },
+  "greenbaum": {
+    "meaning": "n. (Greenbaum)人名；(英)戈林鲍姆",
+    "phonetic": "",
+    "tags": []
+  },
+  "greenbul": {
+    "meaning": "(greenbul 的复数)  绿鸭; 绿鹎",
+    "phonetic": "",
+    "tags": []
+  },
+  "green": {
+    "meaning": "a. 绿色的；青春的\\nn. 绿色；青春\\nvt. 使…变绿色\\nvi. 变绿色\\nn. (Green)人名；(英、意)格林；(瑞典、芬)格伦",
+    "phonetic": "griːn",
+    "tags": []
+  },
+  "greenery": {
+    "meaning": "温室, 草木( greenery的名词复数 )",
+    "phonetic": "",
+    "tags": []
+  },
+  "greenfly": {
+    "meaning": "n. 青梅子, 青李子（蚜虫的一种）( greenfly的复数形式 )",
+    "phonetic": "",
+    "tags": []
+  },
+  "greengage": {
+    "meaning": "n. 青梅( greengage的复数形式 )",
+    "phonetic": "ˈɡri:nˈɡeidʒz",
+    "tags": []
+  },
+  "greengrocer": {
+    "meaning": "n. 蔬菜水果商, 菜贩( greengrocer的复数形式 )",
+    "phonetic": "ˈɡri:nɡrəusəz",
+    "tags": []
+  },
+  "greenham": {
+    "meaning": "n. (Greenham)人名；(英)格里纳姆",
+    "phonetic": "",
+    "tags": []
+  },
+  "greenhill": {
+    "meaning": "n. (Greenhill)人名；(英)格林希尔",
+    "phonetic": "",
+    "tags": []
+  },
+  "greenhouse": {
+    "meaning": "n. 温室, 花房( greenhouse的复数形式 )",
+    "phonetic": "ɡ'ri:nhaʊzɪz",
+    "tags": []
+  },
+  "greenish": {
+    "meaning": "n. greenish的变形",
+    "phonetic": "",
+    "tags": []
+  },
+  "grindley": {
+    "meaning": " [人名] [英格兰人姓氏] 格林利 Grindley的变体",
+    "phonetic": "",
+    "tags": []
+  },
+  "greenroom": {
+    "meaning": "n. 演员休息室( greenroom的复数形式 )",
+    "phonetic": "",
+    "tags": []
+  },
+  "greenwell": {
+    "meaning": "n. (Greenwell)人名；(英)格林韦尔",
+    "phonetic": "",
+    "tags": []
+  },
+  "greer": {
+    "meaning": "n. (Greer)人名；(英)格里尔",
+    "phonetic": "",
+    "tags": []
+  },
+  "grieve": {
+    "meaning": " [人名] [苏格兰人姓氏] 格里森取自父名，来源于Grieve,含义是“格里夫之子”(son of Grieve)",
+    "phonetic": "",
+    "tags": []
+  },
+  "greeting": {
+    "meaning": "n. 问候; 招呼( greeting的复数形式 ); 问候; 祝贺; 祝词",
+    "phonetic": "ɡ'ri:tɪŋz",
+    "tags": []
+  },
+  "greave": {
+    "meaning": " [人名] [英格兰人姓氏] 格里夫斯 Greave的变体",
+    "phonetic": "",
+    "tags": []
+  },
+  "gregory": {
+    "meaning": "n. 格雷格（男子名, 等于Gregory）",
+    "phonetic": "greg",
+    "tags": []
+  },
+  "gregarinae": {
+    "meaning": "(pl.gregarinae)簇虫",
+    "phonetic": ",^re^ә'rainә",
+    "tags": []
+  },
+  "gregg": {
+    "meaning": " [人名] [英格兰人姓氏] 格雷格斯取自父名，来源于Gregg,含义是“格雷格之子”(son of Gregg)",
+    "phonetic": "",
+    "tags": []
+  },
+  "gregoire": {
+    "meaning": "n. (Gregoire)人名；(英)格雷瓜尔",
+    "phonetic": "",
+    "tags": []
+  },
+  "gregson": {
+    "meaning": "n. (Gregson)人名；(英)格雷格森",
+    "phonetic": "",
+    "tags": []
+  },
+  "graham": {
+    "meaning": " [人名] [苏格兰人姓氏] 格雷姆 Graham的变体",
+    "phonetic": "",
+    "tags": []
+  },
+  "gremlin": {
+    "meaning": "n. 小鬼( gremlin的复数形式 )",
+    "phonetic": "ˈɡremlinz",
+    "tags": []
+  },
+  "grenade": {
+    "meaning": "abbr. grenade 手榴弹",
+    "phonetic": "",
+    "tags": []
+  },
+  "grenadier": {
+    "meaning": "n. 手榴弹兵, 精锐部队的士兵( grenadier的复数形式 )",
+    "phonetic": "ˌɡrenəˈdiəz",
+    "tags": []
+  },
+  "grenfell": {
+    "meaning": "n. (Grenfell)人名；(英)格伦费尔",
+    "phonetic": "",
+    "tags": []
+  },
+  "grenier": {
+    "meaning": "n. (Grenier)人名；(西)格雷涅尔；(法)格勒尼耶；(英、德)格雷尼尔",
+    "phonetic": "",
+    "tags": []
+  },
+  "garnon": {
+    "meaning": " [人名] [英格兰人姓氏] 格伦南 Garnon的变体",
+    "phonetic": "",
+    "tags": []
+  },
+  "gresham": {
+    "meaning": "n. (Gresham)人名；(英)格雷沙姆",
+    "phonetic": "",
+    "tags": []
+  },
+  "gresley": {
+    "meaning": "n. (Gresley)人名；(英)格雷斯利",
+    "phonetic": "",
+    "tags": []
+  },
+  "gretta": {
+    "meaning": "n. 格里塔（女子名, Margaret的昵称, 等于Gretta）",
+    "phonetic": "'^retә",
+    "tags": []
+  },
+  "grete": {
+    "meaning": "n. (Grete)人名；(德、挪、罗)格雷特, 格蕾特 (女名)",
+    "phonetic": "",
+    "tags": []
+  },
+  "gretel": {
+    "meaning": "n. (Gretel)人名；(法)格雷泰尔, 格蕾泰尔(女名)",
+    "phonetic": "",
+    "tags": []
+  },
+  "greuze": {
+    "meaning": "n. (Greuze)人名；(法)格勒兹",
+    "phonetic": "",
+    "tags": []
+  },
+  "greven": {
+    "meaning": "n. (Greven)人名；(德)格雷文",
+    "phonetic": "",
+    "tags": []
+  },
+  "grow": {
+    "meaning": "grow的过去式",
+    "phonetic": "gru:",
+    "tags": []
+  },
+  "greybeard": {
+    "meaning": "(greybeard 的复数)  老人",
+    "phonetic": "",
+    "tags": []
+  },
+  "greycoat": {
+    "meaning": "(greycoat 的复数)  穿灰色衣服的人",
+    "phonetic": "",
+    "tags": []
+  },
+  "grey": {
+    "meaning": "vt. 使变成灰色（grey的过去式与过去分词形式）",
+    "phonetic": "",
+    "tags": []
+  },
+  "greyhound": {
+    "meaning": "n. 灰狗, 快速船( greyhound的复数形式 )",
+    "phonetic": "ˈɡreihaundz",
+    "tags": []
+  },
+  "grice": {
+    "meaning": "(Grice 的现在分词) 仔猪",
+    "phonetic": "",
+    "tags": []
+  },
+  "griddle": {
+    "meaning": "v. 筛, 烘( griddle的过去式和过去分词 )",
+    "phonetic": "ˈɡridld",
+    "tags": []
+  },
+  "gride": {
+    "meaning": "v. 擦刮( gride的过去式和过去分词 )",
+    "phonetic": "ɡraidid",
+    "tags": []
+  },
+  "grealey": {
+    "meaning": " [人名] [英格兰人姓氏] 格里德利 Grealey的变体; [地名] [美国] 格里德利",
+    "phonetic": "",
+    "tags": []
+  },
+  "gridlock": {
+    "meaning": "n. 交通全面大堵塞（gridlock的复数形式）",
+    "phonetic": "",
+    "tags": []
+  },
+  "grid": {
+    "meaning": "n. 格子( grid的复数形式 ); 地图上的坐标方格; （输电线路、天然气管道等的）系统网络; （汽车比赛）赛车起跑线",
+    "phonetic": "ɡ'rɪdz",
+    "tags": []
+  },
+  "grief": {
+    "meaning": "a. grief的变形",
+    "phonetic": "",
+    "tags": []
+  },
+  "grierson": {
+    "meaning": "n. (Grierson)人名；(英)格里尔森",
+    "phonetic": "",
+    "tags": []
+  },
+  "griet": {
+    "meaning": "n. (Griet)人名；(法)格里耶",
+    "phonetic": "",
+    "tags": []
+  },
+  "grievance": {
+    "meaning": "n. 垒块；抱怨, 不平（grievance的复数形式）",
+    "phonetic": "",
+    "tags": []
+  },
+  "grievous": {
+    "meaning": "n. grievous的变形",
+    "phonetic": "",
+    "tags": []
+  },
+  "griffin": {
+    "meaning": " [人名] [爱尔兰姓氏] 格里菲 Griffin的变体",
+    "phonetic": "",
+    "tags": []
+  },
+  "griffith": {
+    "meaning": " [人名] [威尔士人姓氏] 格里菲斯 Griffith的变体",
+    "phonetic": "",
+    "tags": []
+  },
+  "grift": {
+    "meaning": "诈骗( grift的过去式和过去分词 )",
+    "phonetic": "",
+    "tags": []
+  },
+  "griseofulvin": {
+    "meaning": "(=griseofulvin)灰黄霉素",
+    "phonetic": "^ri'fulvin",
+    "tags": []
+  },
+  "grigori": {
+    "meaning": "n. (Grigori)人名；(俄)格里戈里",
+    "phonetic": "",
+    "tags": []
+  },
+  "grigory": {
+    "meaning": "n. (Grigory)人名；(俄)格里戈里",
+    "phonetic": "",
+    "tags": []
+  },
+  "grigg": {
+    "meaning": " [人名] [英格兰人姓氏] 格里格森取自父名，来源于Grigg,含义是“格里格之子”(son of Grigg)",
+    "phonetic": "",
+    "tags": []
+  },
+  "gril": {
+    "meaning": "n. (Gril)人名；(塞、德)格里尔；(法)格里伊",
+    "phonetic": "",
+    "tags": []
+  },
+  "grille": {
+    "meaning": "n. 格子, 格栅( grille的复数形式 ); （汽车散热器的）护栅",
+    "phonetic": "grɪlz",
+    "tags": []
+  },
+  "grillo": {
+    "meaning": "n. (Grillo)人名；(法)格里约；(德、葡、意)格里洛；(西)格里略",
+    "phonetic": "",
+    "tags": []
+  },
+  "grill": {
+    "meaning": "n. 烤架( grill的名词复数 ); （一盘）烤肉; 格板; 烧烤餐馆\\nv. 烧烤( grill的第三人称单数 ); 拷问, 盘问",
+    "phonetic": "ɡrilz",
+    "tags": []
+  },
+  "grimace": {
+    "meaning": "v. 扮鬼相, 做鬼脸( grimace的过去式和过去分词 )",
+    "phonetic": "ˈgrɪmɪst",
+    "tags": []
+  },
+  "grimaldi": {
+    "meaning": "n. (Grimaldi)人名；(英)格里马尔迪；(法、德、西、罗、意)格里马尔迪",
+    "phonetic": "",
+    "tags": []
+  },
+  "grimble": {
+    "meaning": "n. (Grimble)人名；(英)格林布尔",
+    "phonetic": "",
+    "tags": []
+  },
+  "grime": {
+    "meaning": "v. 污垢( grime的过去式和过去分词 )",
+    "phonetic": "graɪmd",
+    "tags": []
+  },
+  "grimy": {
+    "meaning": "沾满污垢的, 满是灰尘的, 肮脏的( grimy的最高级 )",
+    "phonetic": "",
+    "tags": []
+  },
+  "grimley": {
+    "meaning": "n. (Grimley)人名；(英)格里姆利",
+    "phonetic": "",
+    "tags": []
+  },
+  "grim": {
+    "meaning": "a. 严酷的( grim的比较级 ); 严厉的; 阴冷的; 讨厌的",
+    "phonetic": "ɡrimə",
+    "tags": []
+  },
+  "grimward": {
+    "meaning": " [人名] [英格兰人姓氏] 格里姆伍德 Grimward的变体",
+    "phonetic": "",
+    "tags": []
+  },
+  "grind": {
+    "meaning": "vt. 磨碎；磨快\\nvi. 磨碎；折磨\\nn. 磨；苦工作\\nn. (Grind)人名；(法、德)格林德",
+    "phonetic": "graɪnd",
+    "tags": []
+  },
+  "grinder": {
+    "meaning": "n. 螺纹磨床；天电干扰声；磨工工人（grinder的复数）",
+    "phonetic": "",
+    "tags": []
+  },
+  "grindstone": {
+    "meaning": "n. 磨石( grindstone的复数形式 ); 砂轮; 持续辛勤地工作; 努力不懈",
+    "phonetic": "ˈgraɪndˌstəʊnz",
+    "tags": []
+  },
+  "grin": {
+    "meaning": "v. 露齿而笑（grin的变形词）",
+    "phonetic": "",
+    "tags": []
+  },
+  "grinning": {
+    "meaning": "(grinning 的复数)  笑嘻嘻",
+    "phonetic": "",
+    "tags": []
+  },
+  "griot": {
+    "meaning": "(griot 的复数)  （西非, 尤指旧时的）部族史（或传统）说唱艺人",
+    "phonetic": "",
+    "tags": []
+  },
+  "gripe": {
+    "meaning": "v. 感到或引起腹或肠绞痛( gripe的过去式和过去分词 ); 抱怨（某人[某事物]）, 发牢骚",
+    "phonetic": "graɪpt",
+    "tags": []
+  },
+  "grip": {
+    "meaning": "v. 抓紧( grip的过去式和过去分词 ); 吸引; 引起; 使感兴趣",
+    "phonetic": "ɡript",
+    "tags": []
+  },
+  "gripping": {
+    "meaning": "adv. gripping的变形",
+    "phonetic": "",
+    "tags": []
+  },
+  "grisha": {
+    "meaning": "n. (Grisha)人名；(塞、保)格里沙",
+    "phonetic": "",
+    "tags": []
+  },
+  "grisham": {
+    "meaning": "n. (Grisham)人名；(英)格里沙姆",
+    "phonetic": "",
+    "tags": []
+  },
+  "grisly": {
+    "meaning": "恐怖的, 可怕的( grisly的比较级 )",
+    "phonetic": "",
+    "tags": []
+  },
+  "gristly": {
+    "meaning": "n. gristly的变形",
+    "phonetic": "",
+    "tags": []
+  },
+  "grit": {
+    "meaning": "v. 以沙砾覆盖（某物）, 撒沙砾于( grit的过去式和过去分词 ); 咬紧牙关",
+    "phonetic": "grɪtid",
+    "tags": []
+  },
+  "gritter": {
+    "meaning": "(gritter 的复数) 铺砂机",
+    "phonetic": "",
+    "tags": []
+  },
+  "gritty": {
+    "meaning": "a. 多沙的, 刚强的( gritty的比较级 )",
+    "phonetic": "ˈɡritiə",
+    "tags": []
+  },
+  "grizzly": {
+    "meaning": "abbr. grizzly 铁栅筛，棒栅筛",
+    "phonetic": "ɡ'rɪz",
+    "tags": []
+  },
+  "grizel": {
+    "meaning": " [女子名] 格丽泽尔 Grizel的变体",
+    "phonetic": "",
+    "tags": []
+  },
+  "grizzle": {
+    "meaning": "v. （尤指儿童）哭着不停地抱怨（某事）( grizzle的第三人称单数 )",
+    "phonetic": "ˈɡrizlz",
+    "tags": []
+  },
+  "groan": {
+    "meaning": "v. 呻吟( groan的过去式和过去分词 ); 发牢骚; 抱怨; 受苦",
+    "phonetic": "ɡrəund",
+    "tags": []
+  },
+  "gross": {
+    "meaning": " [人名] [英格兰人姓氏] 格罗斯 Gross的变体",
+    "phonetic": "",
+    "tags": []
+  },
+  "grocer": {
+    "meaning": "n. 食品杂货商( grocer的复数形式 )",
+    "phonetic": "ˈɡrəusəz",
+    "tags": []
+  },
+  "grocerteria": {
+    "meaning": "n. <美>自助食品杂货店(亦作grocerteria)",
+    "phonetic": ",^rәusә'tiәriә",
+    "tags": []
+  },
+  "greenland": {
+    "meaning": "abbr. Groenlandia (Italian or Spanish=Greenland) （意大利语或西班牙语）<丹>格陵兰岛; Groenlandia (Portuguese=Greenland) （葡萄牙语）格陵兰岛（丹麦）",
+    "phonetic": "",
+    "tags": []
+  },
+  "grogan": {
+    "meaning": "n. (Grogan)人名；(英)格罗根",
+    "phonetic": "",
+    "tags": []
+  },
+  "groggy": {
+    "meaning": "a. 不会的, 不稳的, 摇摆的( groggy的比较级 )",
+    "phonetic": "ˈgrɔgi:ə",
+    "tags": []
+  },
+  "groin": {
+    "meaning": "n. 腹股沟, （水利工程）交叉拱( groin的名词复数 )",
+    "phonetic": "ɡrɔinz",
+    "tags": []
+  },
+  "grommet": {
+    "meaning": "abbr. grommet 索环，索眼",
+    "phonetic": "",
+    "tags": []
+  },
+  "gromet": {
+    "meaning": "n. 金属眼孔；索环\\nn. (Gromet)人名；(法)格罗梅",
+    "phonetic": "",
+    "tags": []
+  },
+  "grooms": {
+    "meaning": " [人名] [英格兰人姓氏] 格鲁姆布里奇住所名称，来源于中世纪英语，含义是“格鲁姆家的桥”(the bridge of the Grooms)",
+    "phonetic": "",
+    "tags": []
+  },
+  "groom": {
+    "meaning": " [人名] [英格兰人姓氏] 格鲁姆 Groom的变体",
+    "phonetic": "",
+    "tags": []
+  },
+  "groomer": {
+    "meaning": "(groomer 的复数) 美容师",
+    "phonetic": "",
+    "tags": []
+  },
+  "groomsman": {
+    "meaning": "n. 男傧相, 伴郎( groomsman的名词复数 )",
+    "phonetic": "'ɡru:mzmən",
+    "tags": []
+  },
+  "groot": {
+    "meaning": "n. (Groot)人名；(德、俄、丹、瑞典)格罗特；(荷)赫罗特",
+    "phonetic": "",
+    "tags": []
+  },
+  "groove": {
+    "meaning": "n. 沟( groove的名词复数 ); 槽; 老一套; （某种）音乐节奏\\nv. 沟( groove的第三人称单数 ); 槽; 老一套; （某种）音乐节奏",
+    "phonetic": "ɡru:vz",
+    "tags": []
+  },
+  "grope": {
+    "meaning": "v. 暗中摸, 摸索( grope的过去式和过去分词 ); 探索, 搜寻",
+    "phonetic": "ɡrəupt",
+    "tags": []
+  },
+  "groper": {
+    "meaning": "(groper 的复数)  咸猪手",
+    "phonetic": "",
+    "tags": []
+  },
+  "gropius": {
+    "meaning": "n. (Gropius)人名；(英)格罗皮厄斯；(德)格罗皮乌斯",
+    "phonetic": "",
+    "tags": []
+  },
+  "grose": {
+    "meaning": "n. (Grose)人名；(英)格罗斯",
+    "phonetic": "",
+    "tags": []
+  },
+  "grossman": {
+    "meaning": "n. (Grossman)人名；(德、英、捷)格罗斯曼",
+    "phonetic": "",
+    "tags": []
+  },
+  "grosz": {
+    "meaning": "grosz的复数形",
+    "phonetic": "",
+    "tags": []
+  },
+  "george": {
+    "meaning": "格罗特(①姓氏 ②George, 1794-1871, 英国历史学家)",
+    "phonetic": "^rәut",
+    "tags": []
+  },
+  "grotesquery": {
+    "meaning": "n. 怪诞，古怪( grotesquery的名词复数 )",
+    "phonetic": "grəʊˈteskəri:z",
+    "tags": []
+  },
+  "grotty": {
+    "meaning": "a. 难看的, 令人不愉快的( grotty的比较级 )",
+    "phonetic": "ˈɡrɔtiə",
+    "tags": []
+  },
+  "grotto": {
+    "meaning": "n. （吸引人的）岩洞, 洞穴, （人挖的）洞室( grotto的复数形式 )",
+    "phonetic": "ɡ'rɒtəʊz",
+    "tags": []
+  },
+  "grouch": {
+    "meaning": "n. 爱抱怨的人( grouch的名词复数 ); 脾气坏的人; 牢骚; 生气",
+    "phonetic": "graʊtʃiz",
+    "tags": []
+  },
+  "groucho": {
+    "meaning": "n. (Groucho)人名；(英)格劳乔",
+    "phonetic": "",
+    "tags": []
+  },
+  "grough": {
+    "meaning": "(grough 的复数)  [人名] 格劳",
+    "phonetic": "",
+    "tags": []
+  },
+  "groundsheet": {
+    "meaning": " = groundsheet",
+    "phonetic": "",
+    "tags": []
+  },
+  "groundless": {
+    "meaning": "n. groundless的变形",
+    "phonetic": "",
+    "tags": []
+  },
+  "groundling": {
+    "meaning": "(groundling 的复数) 匍匐植物, 没鉴赏力的低俗观众",
+    "phonetic": "",
+    "tags": []
+  },
+  "groundnut": {
+    "meaning": "n. 落花生( groundnut的复数形式 )",
+    "phonetic": "ˈɡraundnʌts",
+    "tags": []
+  },
+  "groundkeeper": {
+    "meaning": "n. (运动场、庄园、墓地等的)场地管理员[亦作 groundkeeper]",
+    "phonetic": "'ɡraundz,ki:pə",
+    "tags": []
+  },
+  "groundsman": {
+    "meaning": "n. 球场管理员( groundsman的复数形式 )",
+    "phonetic": "",
+    "tags": []
+  },
+  "groundstroke": {
+    "meaning": "(groundstroke 的复数)  落地球（球落地弹起之后的一击）",
+    "phonetic": "",
+    "tags": []
+  },
+  "groupement": {
+    "meaning": "(groupement 的复数) 集中, 集合；结集, 聚集；群, 组, 团；集团, 团体；部队；〈电〉组合",
+    "phonetic": "",
+    "tags": []
+  },
+  "groupie": {
+    "meaning": "n. 流行乐队迷, 想与流行乐队成员发生性关系的少女( groupie的复数形式 )",
+    "phonetic": "ˈgru:pi:z",
+    "tags": []
+  },
+  "grouping": {
+    "meaning": "n. 归类, 编组（工作）( grouping的复数形式 )",
+    "phonetic": "ˈgru:pɪŋz",
+    "tags": []
+  },
+  "grouse": {
+    "meaning": "v. 抱怨, 发牢骚( grouse的过去式和过去分词 )",
+    "phonetic": "graʊst",
+    "tags": []
+  },
+  "grout": {
+    "meaning": "v. 用薄泥浆填塞, （猪等）用鼻子拱( grout的过去式和过去分词 )",
+    "phonetic": "ɡrautid",
+    "tags": []
+  },
+  "grove": {
+    "meaning": "[电] Grove电池",
+    "phonetic": "",
+    "tags": []
+  },
+  "grovel": {
+    "meaning": "v. 卑躬屈节, 奴颜婢膝( grovel的过去式和过去分词 ); 趴",
+    "phonetic": "ˈgrɔvəld",
+    "tags": []
+  },
+  "growbag": {
+    "meaning": "(growbag 的复数)  栽培袋, 植物生长袋（盛满泥土的大塑料袋）",
+    "phonetic": "",
+    "tags": []
+  },
+  "growing": {
+    "meaning": "adv. growing的变形",
+    "phonetic": "",
+    "tags": []
+  },
+  "growl": {
+    "meaning": "v. （动物）发狺狺声, （雷）作隆隆声( growl的过去式和过去分词 ); 低声咆哮着说",
+    "phonetic": "ɡrauld",
+    "tags": []
+  },
+  "growly": {
+    "meaning": "n. growly的变形",
+    "phonetic": "",
+    "tags": []
+  },
+  "growling": {
+    "meaning": "n. （网络用语） \"Growling\" （咆哮，就是吼人家）",
+    "phonetic": "",
+    "tags": []
+  },
+  "grubb": {
+    "meaning": "n. (Grubb)人名；(英)格拉布；(瑞典)格鲁布",
+    "phonetic": "",
+    "tags": []
+  },
+  "grub": {
+    "meaning": "v. （急切地但通常为不得法地）寻找（尤指资料）( grub的过去式和过去分词 ); 挖土; 找到（不好的人或东西）; 掘出",
+    "phonetic": "grʌbd",
+    "tags": []
+  },
+  "grubby": {
+    "meaning": "a. 肮脏的, 不洁的( grubby的比较级 )",
+    "phonetic": "ˈɡrʌbiə",
+    "tags": []
+  },
+  "grubstake": {
+    "meaning": "v. 以利益条件供给资金( grubstake的过去式和过去分词 )",
+    "phonetic": "ˈɡrʌbsteikt",
+    "tags": []
+  },
+  "grudge": {
+    "meaning": "vt. 怀恨（grudge的过去式与过去分词形式）",
+    "phonetic": "",
+    "tags": []
+  },
+  "grugru": {
+    "meaning": "[网络] grugru坚果",
+    "phonetic": "",
+    "tags": []
+  },
+  "grumble": {
+    "meaning": "v. 抱怨( grumble的过去式和过去分词 ); 发牢骚; 咕哝; 发哼声",
+    "phonetic": "ˈɡrʌmbld",
+    "tags": []
+  },
+  "grumous": {
+    "meaning": "n. grumous的变形",
+    "phonetic": "",
+    "tags": []
+  },
+  "grumpy": {
+    "meaning": "a. 脾气坏的, 生气的( grumpy的比较级 )",
+    "phonetic": "ˈgrʌmpi:ə",
+    "tags": []
+  },
+  "grunt": {
+    "meaning": "v. （猪等）作呼噜声( grunt的过去式和过去分词 ); （指人）发出类似的哼声; 咕哝着说",
+    "phonetic": "ɡrʌntid",
+    "tags": []
+  },
+  "grupe": {
+    "meaning": "(grupe 的复数)  [人名] 格鲁普",
+    "phonetic": "",
+    "tags": []
+  },
+  "glaxosmithkline": {
+    "meaning": "abbr. 葛兰素史克（Glaxosmithkline 英国制药公司）",
+    "phonetic": "",
+    "tags": []
+  },
+  "gtr": {
+    "meaning": "n. 日产尼桑GTR（车系）",
+    "phonetic": "",
+    "tags": []
+  },
+  "guaranteed": {
+    "meaning": "abbr. geometrical theory of diffraction 衍射几何理论; guaranteed 担保的, 有保证的",
+    "phonetic": "",
+    "tags": []
+  },
+  "gentex": {
+    "meaning": "abbr. Gentex 欧洲电报交换网络",
+    "phonetic": "",
+    "tags": []
+  },
+  "galatz": {
+    "meaning": "abbr. Galatz 加拉茨（罗马尼亚）",
+    "phonetic": "",
+    "tags": []
+  },
+  "guam": {
+    "meaning": "abbr. 关岛（Guam）",
+    "phonetic": "",
+    "tags": []
+  },
+  "guatemala": {
+    "meaning": "abbr. 危地马拉共和国（The Republic of Guatemala）",
+    "phonetic": "",
+    "tags": []
+  },
+  "guanaco": {
+    "meaning": "n. 产于南美安第斯山脉的骆马( guanaco的名词复数 )",
+    "phonetic": "ɡwəˈnɑ:kəuz",
+    "tags": []
+  },
+  "guanidino": {
+    "meaning": "(=guanidino-)胍基",
+    "phonetic": "'^wænidil",
+    "tags": []
+  },
+  "guano": {
+    "meaning": "n. 海鸟粪；鱼肥料；鸟粪石 (guano的变形)",
+    "phonetic": "",
+    "tags": []
+  },
+  "guapo": {
+    "meaning": "n. (Guapo)人名；(西、葡)瓜波",
+    "phonetic": "",
+    "tags": []
+  },
+  "guarani": {
+    "meaning": "n. 瓜拉尼；瓜拉尼语；瓜拉尼人 (guarani的变形)",
+    "phonetic": "",
+    "tags": []
+  },
+  "guarantee": {
+    "meaning": "vt. 保证, 担保（guarantee的现在分词形式）",
+    "phonetic": "",
+    "tags": []
+  },
+  "guaranty": {
+    "meaning": "v. 保证, 抵押, 担保( guaranty的过去式和过去分词 )",
+    "phonetic": "ˈɡærəntid",
+    "tags": []
+  },
+  "guarantor": {
+    "meaning": "n. 保证人( guarantor的复数形式 )",
+    "phonetic": "ɡærən'tɔ:z",
+    "tags": []
+  },
+  "guardrail": {
+    "meaning": "n. 护栏（guardrail的复数形式）",
+    "phonetic": "",
+    "tags": []
+  },
+  "guard": {
+    "meaning": "a. guard的变形",
+    "phonetic": "",
+    "tags": []
+  },
+  "guardhouse": {
+    "meaning": "n. 卫兵室，禁闭室( guardhouse的名词复数 )",
+    "phonetic": "ˈgɑ:dˌhaʊsiz",
+    "tags": []
+  },
+  "guardia": {
+    "meaning": "n. (Guardia)人名；(英)瓜迪亚；(西、意)瓜尔迪亚",
+    "phonetic": "",
+    "tags": []
+  },
+  "guardian": {
+    "meaning": "n. 监护人( guardian的复数形式 ); 保护者, 维护者",
+    "phonetic": "'ɡɑ:dɪənz",
+    "tags": []
+  },
+  "guava": {
+    "meaning": "n. 番石榴( guava的复数形式 )",
+    "phonetic": "ˈɡwɑ:vəz",
+    "tags": []
+  },
+  "gubbin": {
+    "meaning": "(gubbin 的复数)  [人名] 格宾",
+    "phonetic": "",
+    "tags": []
+  },
+  "guddle": {
+    "meaning": "(guddle 的现在分词) [苏]在石头缝里摸(鱼)",
+    "phonetic": "",
+    "tags": []
+  },
+  "good": {
+    "meaning": " [人名] [英格兰人姓氏] 古德 Good的变体",
+    "phonetic": "ɡyd",
+    "tags": []
+  },
+  "guderian": {
+    "meaning": "n. (Guderian)人名；(德)古德里安",
+    "phonetic": "",
+    "tags": []
+  },
+  "goodyear": {
+    "meaning": " [人名] [英格兰人姓氏] 格杰 Goodyear的变体",
+    "phonetic": "",
+    "tags": []
+  },
+  "gudmundur": {
+    "meaning": "n. (Gudmundur)人名；(冰)格维兹门迪尔",
+    "phonetic": "",
+    "tags": []
+  },
+  "guelph": {
+    "meaning": "a. Guelf的变形；Guelph的变形",
+    "phonetic": "",
+    "tags": []
+  },
+  "guerrillero": {
+    "meaning": "n. =guerrillero",
+    "phonetic": ",ɡerɪl'jeɪrəʊ",
+    "tags": []
+  },
+  "guerrilla": {
+    "meaning": "n. 游击队员( guerrilla的复数形式 )",
+    "phonetic": "ɡəˈriləz",
+    "tags": []
+  },
+  "guerillero": {
+    "meaning": "n. (尤指拉丁美洲国家的)游击队员(亦作guerillero)",
+    "phonetic": ",^eril'jeirәj",
+    "tags": []
+  },
+  "gue": {
+    "meaning": "(gue 的复数)  二弦琴",
+    "phonetic": "",
+    "tags": []
+  },
+  "guesclin": {
+    "meaning": "n. (Guesclin)人名；(法)盖克兰",
+    "phonetic": "",
+    "tags": []
+  },
+  "guess": {
+    "meaning": "v. 猜( guess的过去式和过去分词 ); （引出令人惊奇或激动的事）你猜; 猜对; 猜中",
+    "phonetic": "ɡest",
+    "tags": []
+  },
+  "guest": {
+    "meaning": "vi. 做特邀嘉宾（guest的过去式与过去分词形式）",
+    "phonetic": "",
+    "tags": []
+  },
+  "guffaw": {
+    "meaning": "v. 大笑, 狂笑( guffaw的过去式和过去分词 )",
+    "phonetic": "gəˈfɔ:d",
+    "tags": []
+  },
+  "guggle": {
+    "meaning": "v. 人高兴发出的咯咯声, 水流的潺潺声( guggle的过去式和过去分词 )",
+    "phonetic": "",
+    "tags": []
+  },
+  "guibert": {
+    "meaning": "[网络] 拉文纳Guibert",
+    "phonetic": "",
+    "tags": []
+  },
+  "guidebook": {
+    "meaning": "n. 旅行指南( guidebook的复数形式 )",
+    "phonetic": "'ɡaɪdbʊks",
+    "tags": []
+  },
+  "guil": {
+    "meaning": "n. (Guil)人名；(西、法)吉尔",
+    "phonetic": "",
+    "tags": []
+  },
+  "guilder": {
+    "meaning": "n. 盾（荷兰货币单位）( guilder的复数形式 )",
+    "phonetic": "ˈɡildəz",
+    "tags": []
+  },
+  "guildhall": {
+    "meaning": "n. 同业公会集会所, 市府, <英>市政厅( guildhall的复数形式 )",
+    "phonetic": "ˈɡildˌhɔ:lz",
+    "tags": []
+  },
+  "guild": {
+    "meaning": "n. 行会, 同业公会, 协会( guild的复数形式 )",
+    "phonetic": "'ɡɪldz",
+    "tags": []
+  },
+  "guileful": {
+    "meaning": "adv. guileful的变形",
+    "phonetic": "",
+    "tags": []
+  },
+  "guileless": {
+    "meaning": "adv. guileless的变形",
+    "phonetic": "",
+    "tags": []
+  },
+  "guilford": {
+    "meaning": "n. (Guilford)人名；(英)吉尔福德",
+    "phonetic": "",
+    "tags": []
+  },
+  "gilfoil": {
+    "meaning": " [人名] [爱尔兰姓氏] 吉尔福伊尔 Gilfoil的变体",
+    "phonetic": "",
+    "tags": []
+  },
+  "guilherme": {
+    "meaning": "n. (Guilherme)人名；(西、葡)吉列尔梅",
+    "phonetic": "",
+    "tags": []
+  },
+  "guillain": {
+    "meaning": "n. (Guillain)人名；(法)吉兰",
+    "phonetic": "",
+    "tags": []
+  },
+  "guille": {
+    "meaning": "n. (Guille)人名；(西)吉列；(葡)吉莱；(英)吉尔",
+    "phonetic": "",
+    "tags": []
+  },
+  "guillemet": {
+    "meaning": "n. (Guillemet)人名；(法)吉耶梅",
+    "phonetic": "",
+    "tags": []
+  },
+  "guillemin": {
+    "meaning": "n. (Guillemin)人名；(英、法)吉耶曼",
+    "phonetic": "",
+    "tags": []
+  },
+  "guillermo": {
+    "meaning": "n. (Guillermo)人名；(葡、西、英)吉列尔莫；(法)吉耶尔莫",
+    "phonetic": "",
+    "tags": []
+  },
+  "guillotine": {
+    "meaning": "v. 在断头台上处死( guillotine的过去式和过去分词 )",
+    "phonetic": "'ɡɪləti:nd",
+    "tags": []
+  },
+  "guilty": {
+    "meaning": "a. 内疚的( guilty的比较级 ); 有罪的",
+    "phonetic": "ˈɡiltiə",
+    "tags": []
+  },
+  "guiltless": {
+    "meaning": "adv. guiltless的变形",
+    "phonetic": "",
+    "tags": []
+  },
+  "guine": {
+    "meaning": "n. (Guine)人名；(法)吉纳",
+    "phonetic": "",
+    "tags": []
+  },
+  "guinea": {
+    "meaning": "n. 几尼（英国的旧金币, 值一镑一先令）( guinea的复数形式 )",
+    "phonetic": "'gɪnɪ",
+    "tags": []
+  },
+  "gui": {
+    "meaning": "abbr. 图形用户界面（Graphical User Interface）\\nn. (Gui)人名；(意)古伊；(法)居伊",
+    "phonetic": "'ɡu:i:",
+    "tags": []
+  },
+  "guise": {
+    "meaning": "外观, 伪装( guise的过去式和过去分词 )",
+    "phonetic": "",
+    "tags": []
+  },
+  "guitarist": {
+    "meaning": "n. 吉他弹奏者( guitarist的复数形式 )",
+    "phonetic": "ɡiˈtɑ:rists",
+    "tags": []
+  },
+  "guitar": {
+    "meaning": "n. 吉他（guitar的复数）",
+    "phonetic": "",
+    "tags": []
+  },
+  "guizot": {
+    "meaning": "n. (Guizot)人名；(法)基佐",
+    "phonetic": "",
+    "tags": []
+  },
+  "guk": {
+    "meaning": "n. (Guk)人名；(俄、塞)古克",
+    "phonetic": "",
+    "tags": []
+  },
+  "gulab": {
+    "meaning": "n. (Gulab)人名；(阿富、阿拉伯)古拉卜；(印)古拉布",
+    "phonetic": "",
+    "tags": []
+  },
+  "gula": {
+    "meaning": "n. 咽喉 (gula的变形)",
+    "phonetic": "",
+    "tags": []
+  },
+  "gulag": {
+    "meaning": "(gulag 的复数) [俄]古拉格(集中营)",
+    "phonetic": "",
+    "tags": []
+  },
+  "gulch": {
+    "meaning": "n. <美>峡谷( gulch的复数形式 )",
+    "phonetic": "gʌltʃiz",
+    "tags": []
+  },
+  "gulden": {
+    "meaning": "n. 基尔德（荷兰货币单位）( gulden的名词复数 )",
+    "phonetic": "",
+    "tags": []
+  },
+  "gule": {
+    "meaning": "n. (Gule)人名；(塞)古莱",
+    "phonetic": "",
+    "tags": []
+  },
+  "gullible": {
+    "meaning": "a. <罕> = gullible",
+    "phonetic": "'^ʌlәbl",
+    "tags": []
+  },
+  "gull": {
+    "meaning": "v. 欺骗某人( gull的过去式和过去分词 )",
+    "phonetic": "gʌld",
+    "tags": []
+  },
+  "guller": {
+    "meaning": "n. (Guller)人名；(德、匈)古勒",
+    "phonetic": "",
+    "tags": []
+  },
+  "gullet": {
+    "meaning": "n. 食管, 咽喉( gullet的复数形式 )",
+    "phonetic": "ˈɡʌlits",
+    "tags": []
+  },
+  "gullick": {
+    "meaning": " [人名] [英格兰人姓氏] 格利克森取自父名，来源于Gullick,含义是“格利克之子”(son of Gullick)",
+    "phonetic": "",
+    "tags": []
+  },
+  "gully": {
+    "meaning": "v. 溪谷( gully的过去式和过去分词 ); （雨水冲击而成的）沟渠",
+    "phonetic": "ˈgʌli:d",
+    "tags": []
+  },
+  "gulp": {
+    "meaning": "v. 狼吞虎咽地吃, 吞咽( gulp的过去式和过去分词 ); 大口地吸（气）; 哽住",
+    "phonetic": "ɡʌlpt",
+    "tags": []
+  },
+  "gult": {
+    "meaning": "n. (Gult)人名；(捷)古尔特",
+    "phonetic": "",
+    "tags": []
+  },
+  "gumball": {
+    "meaning": "n. 警车顶灯( gumball的名词复数 )\\nv. 警车顶灯( gumball的第三人称单数 )",
+    "phonetic": "ˈɡʌmbɔ:lz",
+    "tags": []
+  },
+  "gumboot": {
+    "meaning": "n. 橡胶靴( gumboot的复数形式 )",
+    "phonetic": "ɡʌm'bu:ts",
+    "tags": []
+  },
+  "gumbo": {
+    "meaning": "n. 秋葵，加有秋葵的浓汤，坚硬黏土( gumbo的名词复数 )",
+    "phonetic": "ˈɡʌmbəuz",
+    "tags": []
+  },
+  "gumdrop": {
+    "meaning": "n. 软糖, 橡皮糖（水果糖的一种）( gumdrop的复数形式 )",
+    "phonetic": "ˈgʌmˌdrɔps",
+    "tags": []
+  },
+  "gumma": {
+    "meaning": "n. 梅毒瘤, 树胶肿（梅毒性）( gumma的名词复数 )",
+    "phonetic": "ɡʌ'mətə",
+    "tags": []
+  },
+  "gummy": {
+    "meaning": "黏性的, 涂有树胶的（gummy的比较级）",
+    "phonetic": "",
+    "tags": []
+  },
+  "gum": {
+    "meaning": "n. 牙龈, 树胶；牙床（gum复数形式）",
+    "phonetic": "",
+    "tags": []
+  },
+  "gunboat": {
+    "meaning": "n. 炮舰, 炮艇( gunboat的复数形式 )",
+    "phonetic": "'ɡʌnbəʊts",
+    "tags": []
+  },
+  "gunda": {
+    "meaning": "n. (Gunda)人名；(德)贡达",
+    "phonetic": "",
+    "tags": []
+  },
+  "gunderson": {
+    "meaning": "n. (Gunderson)人名；(英)冈德森",
+    "phonetic": "",
+    "tags": []
+  },
+  "grundy": {
+    "meaning": " [人名] [英格兰人姓氏] 冈德里 Grundy的变体",
+    "phonetic": "",
+    "tags": []
+  },
+  "gunge": {
+    "meaning": "a. gunge的变形",
+    "phonetic": "",
+    "tags": []
+  },
+  "gunnarsson": {
+    "meaning": "n. (Gunnarsson)人名；(英)冈纳森；(德、冰、瑞典)贡纳松",
+    "phonetic": "",
+    "tags": []
+  },
+  "gunner": {
+    "meaning": "n. 炮手( gunner的复数形式 ); 枪手; 射手; 炮兵",
+    "phonetic": "ˈgʌnə(r)",
+    "tags": []
+  },
+  "gunny": {
+    "meaning": "粗黄麻布, 麻布袋( gunny的名词复数 )",
+    "phonetic": "",
+    "tags": []
+  },
+  "gunnison": {
+    "meaning": "n. (Gunnison)人名；(英)冈尼森",
+    "phonetic": "",
+    "tags": []
+  },
+  "gunshot": {
+    "meaning": "n. 枪炮射击, 枪炮声( gunshot的复数形式 ); 枪炮的射程",
+    "phonetic": "ˈgʌnˌʃɔts",
+    "tags": []
+  },
+  "gunsmith": {
+    "meaning": "n. 军械工人( gunsmith的复数形式 )",
+    "phonetic": "",
+    "tags": []
+  },
+  "gunn": {
+    "meaning": " [人名] [英格兰人姓氏] 冈恩森取自父名，来源于Gunn,含义是“冈恩之子”(son of Gunn)",
+    "phonetic": "",
+    "tags": []
+  },
+  "guntram": {
+    "meaning": "n. (Guntram)人名；(德、坦桑、瑞典)贡特拉姆；(英)冈特拉姆",
+    "phonetic": "",
+    "tags": []
+  },
+  "gunt": {
+    "meaning": "(gunt 的复数)  [地名] [塔吉克斯坦] 贡特河",
+    "phonetic": "",
+    "tags": []
+  },
+  "guntur": {
+    "meaning": "n. (Guntur)人名；(印尼)贡图尔",
+    "phonetic": "",
+    "tags": []
+  },
+  "guppy": {
+    "meaning": "abbr. guPPy （西印度群岛产的）一种胎生小鱼",
+    "phonetic": "",
+    "tags": []
+  },
+  "guran": {
+    "meaning": "n. (Guran)人名；(法)居朗；(罗、塞)古兰",
+    "phonetic": "",
+    "tags": []
+  },
+  "gordon": {
+    "meaning": " [人名] [苏格兰人、英格兰人、爱尔兰人姓氏] 格登 Gordon的变体; [地名] [美国] 格登",
+    "phonetic": "",
+    "tags": []
+  },
+  "gurgle": {
+    "meaning": "v. 作汩汩声, 作咯咯声( gurgle的过去式和过去分词 )",
+    "phonetic": "ˈgɜ:gəld",
+    "tags": []
+  },
+  "gurgling": {
+    "meaning": "(gurgling 的复数) [医] 咕罗声, 气过水声",
+    "phonetic": "",
+    "tags": []
+  },
+  "gurion": {
+    "meaning": "n. (Gurion)人名；(以)古里安",
+    "phonetic": "",
+    "tags": []
+  },
+  "gurumukhi": {
+    "meaning": "n. 果鲁穆奇字母(用于写旁遮普语的字母), 果鲁穆奇语( 即旁遮普语)(亦作Gurumukhi)",
+    "phonetic": "'^jәmjki",
+    "tags": []
+  },
+  "gurney": {
+    "meaning": "n. （医院中推送病人用的）轮床； 邮件车( gurney的名词复数 )",
+    "phonetic": "ˈɡə:niz",
+    "tags": []
+  },
+  "gurn": {
+    "meaning": "(gurn 的现在分词)  [人名] 古恩",
+    "phonetic": "",
+    "tags": []
+  },
+  "guru": {
+    "meaning": "n. （个人的）宗教老师（或指导）( guru的名词复数 ); 专家; 权威; 大师",
+    "phonetic": "ˈɡuru:z",
+    "tags": []
+  },
+  "gush": {
+    "meaning": "v. 喷, 涌( gush的过去式和过去分词 ); 滔滔不绝地说话",
+    "phonetic": "ɡʌʃt",
+    "tags": []
+  },
+  "gusher": {
+    "meaning": "(gusher 的复数) [经] 喷油井, 自喷井",
+    "phonetic": "",
+    "tags": []
+  },
+  "gushy": {
+    "meaning": "gushy（装腔作势的）的变形",
+    "phonetic": "",
+    "tags": []
+  },
+  "gushing": {
+    "meaning": "adv. gushing的变形",
+    "phonetic": "",
+    "tags": []
+  },
+  "gusset": {
+    "meaning": "n. 衣袖, 甲胄；角板\\nvi. 接以三角片\\nn. (Gusset)人名；(法)居塞",
+    "phonetic": "'gʌsɪt",
+    "tags": []
+  },
+  "gussy": {
+    "meaning": "v. 装饰, 粉饰( gussy的过去式和过去分词 )",
+    "phonetic": "ˈɡʌsid",
+    "tags": []
+  },
+  "gust": {
+    "meaning": "a. ,n. gust的变形",
+    "phonetic": "",
+    "tags": []
+  },
+  "gustavus": {
+    "meaning": "n. 古斯塔夫（男子名, 等于Gustave或者Gustavus）",
+    "phonetic": "'ɡustɑ:f",
+    "tags": []
+  },
+  "gustatory": {
+    "meaning": "adv. gustatory的变形",
+    "phonetic": "",
+    "tags": []
+  },
+  "gusto": {
+    "meaning": "n. 热情，乐趣，津津有味( gusto的名词复数 )",
+    "phonetic": "ˈgʌstəʊz",
+    "tags": []
+  },
+  "gutman": {
+    "meaning": "n. (Gutman)人名；(英、德、俄、罗、捷、瑞典)古特曼",
+    "phonetic": "",
+    "tags": []
+  },
+  "gutless": {
+    "meaning": "n. gutless的变形",
+    "phonetic": "",
+    "tags": []
+  },
+  "gut": {
+    "meaning": "n. 飞碟游戏（比赛双方每组5人, 相距15码, 互相掷接飞碟）；内脏；狭道；[口语]贪食者（gut的复数）",
+    "phonetic": "ɡʌts",
+    "tags": []
+  },
+  "gutzer": {
+    "meaning": "n. <澳新口>重跌(亦作gutzer)",
+    "phonetic": "'^ʌtsә(r)",
+    "tags": []
+  },
+  "gutsy": {
+    "meaning": "adj. 勇敢的，贪婪的( gutsy的比较级 )",
+    "phonetic": "ˈɡʌtsiə",
+    "tags": []
+  },
+  "guttate": {
+    "meaning": "a. =guttate",
+    "phonetic": "'ɡʌteɪtɪd",
+    "tags": []
+  },
+  "gutter": {
+    "meaning": "vt. 形成沟或槽于…（gutter的过去式与过去分词形式）",
+    "phonetic": "",
+    "tags": []
+  },
+  "guttering": {
+    "meaning": "(guttering 的复数) [医] 沟状切除术(骨)",
+    "phonetic": "",
+    "tags": []
+  },
+  "guttersnipe": {
+    "meaning": "a. guttersnipe的变形",
+    "phonetic": "",
+    "tags": []
+  },
+  "guttural": {
+    "meaning": "n. guttural的变形",
+    "phonetic": "",
+    "tags": []
+  },
+  "guvnor": {
+    "meaning": "n. 雇主, 老板( guvnor的复数形式 )",
+    "phonetic": "",
+    "tags": []
+  },
+  "guy": {
+    "meaning": " [人名] [英格兰人姓氏] 盖伊 Guy的变体",
+    "phonetic": "",
+    "tags": []
+  },
+  "guzzle": {
+    "meaning": "v. 狂吃暴饮, 大吃大喝( guzzle的过去式和过去分词 )",
+    "phonetic": "ˈgʌzəld",
+    "tags": []
+  },
+  "gypsy": {
+    "meaning": "Gypsy校验环境",
+    "phonetic": "",
+    "tags": []
+  },
+  "guenevere": {
+    "meaning": "n. 格温（女子名, Gwendolyn或Guenevere 的昵称）",
+    "phonetic": "^wen",
+    "tags": []
+  },
+  "gwendolyn": {
+    "meaning": " [女子名] 格温达 Gwendolen,Gwendoline,Gwendolyn等的昵称",
+    "phonetic": "",
+    "tags": []
+  },
+  "gwilym": {
+    "meaning": "n. (Gwilym)人名；(英)格威利姆",
+    "phonetic": "",
+    "tags": []
+  },
+  "go": {
+    "meaning": "<方> go 的现在分词",
+    "phonetic": "^wain",
+    "tags": []
+  },
+  "gwyn": {
+    "meaning": " [人名] [威尔士人姓氏] 格温 Gwyn的变体; [地名] [美国] 格温",
+    "phonetic": "",
+    "tags": []
+  },
+  "gwynn": {
+    "meaning": "n. (Gwynn)人名；(英)格温",
+    "phonetic": "",
+    "tags": []
+  },
+  "gwynne": {
+    "meaning": "n. (Gwynne)人名；(英)格温",
+    "phonetic": "",
+    "tags": []
+  },
+  "guyana": {
+    "meaning": "abbr. 灰色（gray）；圭亚那（Guyana）",
+    "phonetic": "",
+    "tags": []
+  },
+  "gybe": {
+    "meaning": "v. （使）改变航道( gybe的过去式和过去分词 )",
+    "phonetic": "",
+    "tags": []
+  },
+  "gyes": {
+    "meaning": "n. [希神]古阿斯(百手三巨人之一, 亦作Gyes)",
+    "phonetic": "'dʒaidʒi:z",
+    "tags": []
+  },
+  "gyle": {
+    "meaning": "(Gyle 的复数) 一次酿造的啤酒量, 勾兑用发酵醪",
+    "phonetic": "",
+    "tags": []
+  },
+  "gymkhana": {
+    "meaning": "n. 竞技场( gymkhana的复数形式 ); 比赛; 汽车障碍赛; 赛马会",
+    "phonetic": "dʒimˈkɑ:nəz",
+    "tags": []
+  },
+  "gymnasium": {
+    "meaning": "n. 健身房, 体育馆（gymnasium的复数形式）",
+    "phonetic": "",
+    "tags": []
+  },
+  "gymnastical": {
+    "meaning": "adv. gymnastical的变形",
+    "phonetic": "",
+    "tags": []
+  },
+  "gymnast": {
+    "meaning": "n. 体操家, 体操运动员( gymnast的复数形式 )",
+    "phonetic": "d'ʒɪmnæsts",
+    "tags": []
+  },
+  "gymnocarpous": {
+    "meaning": "(=gymnocarpous)裸果的",
+    "phonetic": ",dʒimnә'kɑ:pik",
+    "tags": []
+  },
+  "gymnopilus": {
+    "meaning": "[网络] Gymnopilus验证码",
+    "phonetic": "",
+    "tags": []
+  },
+  "gym": {
+    "meaning": "n. 健身房；体育馆（gym的复数）",
+    "phonetic": "",
+    "tags": []
+  },
+  "gynaeceum": {
+    "meaning": "gynaeceum的复数形",
+    "phonetic": "gainiˊsiːә",
+    "tags": []
+  },
+  "gynandromorph": {
+    "meaning": "a. gynandromorph的变形",
+    "phonetic": "",
+    "tags": []
+  },
+  "gynanthropism": {
+    "meaning": "(=gynanthropism)女子男化",
+    "phonetic": "dʒi'nænθrәpiә",
+    "tags": []
+  },
+  "gynecoid": {
+    "meaning": "comb.form [美国英语] = gynaec- [元音字母前 gyneco-的异体]：gynecoid",
+    "phonetic": "'dʒinik",
+    "tags": []
+  },
+  "gynaecic": {
+    "meaning": "a. <美> =gynaecic",
+    "phonetic": "dʒi'ni:sik, dʒai'n-",
+    "tags": []
+  },
+  "gynoecium": {
+    "meaning": "n. <美>=gynoecium",
+    "phonetic": "dʒai'ni:siәm,^ai'n-",
+    "tags": []
+  },
+  "gynecology": {
+    "meaning": "abbr. gynecologic 妇科的; gynecological 妇科的; gynecologist 妇科医生; gynecology 妇科学",
+    "phonetic": "ɡaɪnɪ'kɒl",
+    "tags": []
+  },
+  "gynaecomastia": {
+    "meaning": "a. <美>= gynaecomastia",
+    "phonetic": ",^ainikәj'mæstiә,,dʒai-",
+    "tags": []
+  },
+  "gynaecomorphous": {
+    "meaning": "a. <美>=gynaecomorphous",
+    "phonetic": "'^ainikәj'mɔ:fәs,,dʒai-",
+    "tags": []
+  },
+  "gynaeolatry": {
+    "meaning": "n. <美> = gynaeolatry",
+    "phonetic": ",dʒini'ɔlәtri,,dʒai-",
+    "tags": []
+  },
+  "gypcrete": {
+    "meaning": "(gypcrete 的复数) 石膏质壳",
+    "phonetic": "",
+    "tags": []
+  },
+  "gyppo": {
+    "meaning": "n. [俚语] = gyppo",
+    "phonetic": "'dʒipəu",
+    "tags": []
+  },
+  "gyp": {
+    "meaning": "v. 骗, 欺诈( gyp的过去式和过去分词 )",
+    "phonetic": "dʒipt",
+    "tags": []
+  },
+  "gyroscope": {
+    "meaning": "abbr. gyratory 旋转的; 回转的; gyroscope 陀螺仪; 回转仪",
+    "phonetic": "",
+    "tags": []
+  },
+  "gyrate": {
+    "meaning": "v. 旋转, 回旋( gyrate的过去式和过去分词 )",
+    "phonetic": "ˈdʒaɪˌreɪtid",
+    "tags": []
+  },
+  "gyration": {
+    "meaning": "a. gyration的变形",
+    "phonetic": "",
+    "tags": []
+  },
+  "gyrus": {
+    "meaning": "gyrus 的复数",
+    "phonetic": "'dʒairai",
+    "tags": []
+  },
+  "globulin": {
+    "meaning": " [医][=heated human gamma-globulin]加热的人丙种球蛋白",
+    "phonetic": "'hæɡ",
+    "tags": []
+  },
+  "gloves": {
+    "meaning": " 温和地（或灵巧地, 谨慎地）对待（或处理）; 处理某事时; 谨慎小心; (handle someone with kid gloves) 小心应付某人",
+    "phonetic": "",
+    "tags": []
+  },
+  "glider": {
+    "meaning": "n. 悬挂式滑翔机( hang-glider的复数形式 )",
+    "phonetic": "",
+    "tags": []
+  },
+  "goodbye": {
+    "meaning": " =Goodbye 西班牙语，由于美国邻近墨西哥，故这句西班牙语在美国也有很多人讲",
+    "phonetic": "",
+    "tags": []
+  },
+  "gentle": {
+    "meaning": " [人名] [英格兰人姓氏] 亨迪绰号, 来源于中世纪英语, 含义是“有礼貌的, 和善的, 文雅的”(courteous,kind,gentle)",
+    "phonetic": "",
+    "tags": []
+  },
+  "guttata": {
+    "meaning": " [鸟类]隐居鸫（Hylocichla guttata,产于北美洲）",
+    "phonetic": "",
+    "tags": []
+  },
+  "glucose": {
+    "meaning": " [医][=hydrolysate lactalbumin Earle's glucose]水解乳清蛋白厄尔（氏）葡萄糖",
+    "phonetic": "",
+    "tags": []
+  },
+  "gernet": {
+    "meaning": "abbr. holmium iron gernet 钬铁石榴石",
+    "phonetic": "",
+    "tags": []
+  },
+  "guide": {
+    "meaning": "(honey-guide 的复数) 蜜标",
+    "phonetic": "",
+    "tags": []
+  },
+  "glass": {
+    "meaning": "(hour-glass 的复数)  [医]计时沙漏, 水漏",
+    "phonetic": "",
+    "tags": []
+  },
+  "godwit": {
+    "meaning": "=godwit",
+    "phonetic": "",
+    "tags": []
+  },
+  "ground": {
+    "meaning": "(hunting-ground 的复数) 猎场；有希望找到所寻求东西的地方",
+    "phonetic": "",
+    "tags": []
+  },
+  "gia": {
+    "meaning": "(pl. -gia)休眠孢子囊",
+    "phonetic": ",hipnә,spɔ:'rændʒiәm",
+    "tags": []
+  },
+  "gammaglobulinemia": {
+    "meaning": "(=hypo-gammaglobulinemia)血(内)丙种球蛋白过少, 低丙种球蛋白血(症)",
+    "phonetic": ",haipәu,^æmә,^lɔbi'ni:miә",
+    "tags": []
+  },
+  "glomerulonephritis": {
+    "meaning": " [医][=immune complex glomerulonephritis]免疫复合物性肾小球肾炎",
+    "phonetic": "",
+    "tags": []
+  },
+  "generation": {
+    "meaning": "abbr. intracavity CW difference frequency generation 内腔连续波差频振荡",
+    "phonetic": "",
+    "tags": []
+  },
+  "gauge": {
+    "meaning": "abbr. inspection gauge 检查计量器，检验规格",
+    "phonetic": "",
+    "tags": []
+  },
+  "girl": {
+    "meaning": "n. it-girl a charming girl; 具有性的诱惑的女子",
+    "phonetic": "it ɡə:l",
+    "tags": []
+  },
+  "gooseberry": {
+    "meaning": "(=gooseberry)刺儿李, 鹅莓, 醋栗",
+    "phonetic": "'dʒæmbәri",
+    "tags": []
+  },
+  "georgia": {
+    "meaning": "abbr. Atlanta; Georgia 美国; 乔治亚州; 亚特兰大机场（代码）",
+    "phonetic": "",
+    "tags": []
+  },
+  "gigas": {
+    "meaning": "na. 【动】日本长蛎 (Ostrea gigas)",
+    "phonetic": "",
+    "tags": []
+  },
+  "garrett": {
+    "meaning": " [人名] [英格兰人姓氏] 贾洛特 Garrett的变体",
+    "phonetic": "",
+    "tags": []
+  },
+  "geoffrey": {
+    "meaning": "n. 杰弗里（男子名, 等于Geoffrey）",
+    "phonetic": "'dʒefri",
+    "tags": []
+  },
+  "gelatin": {
+    "meaning": "[日]明胶(英文原文为 gelatin), 节路顿胶, 滂阡树胶",
+    "phonetic": "'dʒelә,tɔŋ",
+    "tags": []
+  },
+  "german": {
+    "meaning": " [人名] [英格兰人姓氏] 杰曼 German的变体",
+    "phonetic": "",
+    "tags": []
+  },
+  "gerrymander": {
+    "meaning": "n. (=gerrymander)选区的不公正划分",
+    "phonetic": "'dʒerimændә",
+    "tags": []
+  },
+  "geach": {
+    "meaning": " [人名] [英格兰人姓氏] 杰克斯取自父名，来源于Geach,含义是“吉奇之子”(son of Geach)",
+    "phonetic": "",
+    "tags": []
+  },
+  "goddard": {
+    "meaning": " [医]美国社会学家H·H·Goddard描述新泽西一个家族的虚构名称。该家族有两个分支，一个分支由非常聪明而有成就的成员组成",
+    "phonetic": "",
+    "tags": []
+  },
+  "gansu": {
+    "meaning": "见Gansu",
+    "phonetic": "'kæn'su:",
+    "tags": []
+  },
+  "guards": {
+    "meaning": " King's Dragoon Guards 国王的骑兵护卫队",
+    "phonetic": "",
+    "tags": []
+  },
+  "genomes": {
+    "meaning": "abbr. Kyoto Encyclopedia of Genes and Genomes 京都基因与基因组百科全书",
+    "phonetic": "",
+    "tags": []
+  },
+  "gilduff": {
+    "meaning": " [人名] [爱尔兰姓氏] 基尔达夫 Gilduff的变体",
+    "phonetic": "",
+    "tags": []
+  },
+  "gilmartin": {
+    "meaning": " [人名] [爱尔兰姓氏] 基尔马丁 Gilmartin的变体; [地名] [英国] 基尔马丁",
+    "phonetic": "",
+    "tags": []
+  },
+  "getulus": {
+    "meaning": " [动物]王蛇(Lampropeltis getulus)",
+    "phonetic": "",
+    "tags": []
+  },
+  "geoform": {
+    "meaning": "(=geoform)次甲基二愈创木酚",
+    "phonetic": "'kri:әu,fɔ:m",
+    "tags": []
+  },
+  "gutian": {
+    "meaning": "见Gutian",
+    "phonetic": ",ku:'tjen",
+    "tags": []
+  },
+  "guangzhou": {
+    "meaning": "见Guangzhou",
+    "phonetic": "'^wɑ:ŋ'dʒej",
+    "tags": []
+  },
+  "guangxi": {
+    "meaning": "见Guangxi",
+    "phonetic": "'^wɑ:ŋ'si:",
+    "tags": []
+  },
+  "guangdong": {
+    "meaning": "见Guangdong",
+    "phonetic": "'^wɑ:ŋ'djŋ",
+    "tags": []
+  },
+  "guizhou": {
+    "meaning": "见Guizhou",
+    "phonetic": "'^wei'dʒәj",
+    "tags": []
+  },
+  "guilin": {
+    "meaning": "见Guilin",
+    "phonetic": "'^wei'lin",
+    "tags": []
+  },
+  "guiyang": {
+    "meaning": "见Guiyang",
+    "phonetic": "'^wei'jɑ:ŋ",
+    "tags": []
+  },
+  "game": {
+    "meaning": "(language-game 的复数)  [计]语言博弈",
+    "phonetic": "",
+    "tags": []
+  },
+  "giver": {
+    "meaning": "(law-giver 的复数) [法] 立法者, 制定法律者",
+    "phonetic": "",
+    "tags": []
+  },
+  "gab": {
+    "meaning": "[网络] gab的一行",
+    "phonetic": "",
+    "tags": []
+  },
+  "gabriel": {
+    "meaning": "李普曼(①姓氏 ②Gabriel, 1845-1921, 法国物理学家, 曾获1908年诺贝尔物理学奖)",
+    "phonetic": "'lipmәn",
+    "tags": []
+  },
+  "gas": {
+    "meaning": "abbr. liquefied methane gas 液化沼气",
+    "phonetic": "",
+    "tags": []
+  },
+  "ge": {
+    "meaning": "<佛兰芒语>=Liège",
+    "phonetic": "lɔik,lu:k",
+    "tags": []
+  },
+  "galanthamine": {
+    "meaning": "(=galanthamine)雪花胺",
+    "phonetic": ",laikә'remi:n",
+    "tags": []
+  },
+  "games": {
+    "meaning": "n. (犹太人在以色列四年一度举行的模仿奥运会的) 马加比厄运动会(全称为Maccabiah Games)",
+    "phonetic": ",mækә'bi:ә",
+    "tags": []
+  },
+  "galaxy": {
+    "meaning": "galaxy[天]马菲星系",
+    "phonetic": "mɑ:'feli",
+    "tags": []
+  },
+  "genyplasty": {
+    "meaning": "(=genyplasty)颊成形术",
+    "phonetic": ",mælә'plɑ:sti",
+    "tags": []
+  },
+  "gnosti": {
+    "meaning": "曼德恩人(诺斯替Gnosti教派信徒, 在伊拉克尚有其后裔)",
+    "phonetic": "mæn'diәn",
+    "tags": []
+  },
+  "glaziovii": {
+    "meaning": "[化] 木薯油(取自Manihot glaziovii)",
+    "phonetic": "",
+    "tags": []
+  },
+  "glyceria": {
+    "meaning": " [植物] 甜茅（草） (Glyceria)",
+    "phonetic": "",
+    "tags": []
+  },
+  "goeppert": {
+    "meaning": "[网络] 玛丽Goeppert迈耶",
+    "phonetic": "",
+    "tags": []
+  },
+  "gis": {
+    "meaning": "n. Matrox Electronic Systems 成立于 1976 年; 是一家私营公司; Matrox公司总部在蒙特利尔; Matrox公司在美国队/英国/爱尔兰/德国/意大利和中国都有分支机构。Matrox应用于CAD 和GIS",
+    "phonetic": "",
+    "tags": []
+  },
+  "grosso": {
+    "meaning": "玛多克罗索省（巴西的重要经济省份, 等于Mato Grosso）",
+    "phonetic": "",
+    "tags": []
+  },
+  "gibbon": {
+    "meaning": " [人名] [爱尔兰姓氏] 麦卡宾取自父名，来源于Gibbon,含义是“吉本之子”(son of Gibbon)",
+    "phonetic": "",
+    "tags": []
+  },
+  "gillies": {
+    "meaning": " [人名] [苏格兰人姓氏] 麦克利斯取自父名，来源于Gillies,含义是“吉利斯之子”(son of Gillies)",
+    "phonetic": "",
+    "tags": []
+  },
+  "goal": {
+    "meaning": "abbr. maximum contaminant level goal 最大污染浓度指标",
+    "phonetic": "",
+    "tags": []
+  },
+  "goldrod": {
+    "meaning": "[网络] 草地goldrod",
+    "phonetic": "",
+    "tags": []
+  },
+  "grasseater": {
+    "meaning": "n. <美俚>(贪婪索贿的)\"荤\"警官(与 grasseater 相对)",
+    "phonetic": "'mi:t,i:tә(r)",
+    "tags": []
+  },
+  "garbageout": {
+    "meaning": "abbr.mine eyes glaze over, garbage in garbageout <美俚>(青少年用语)这实在太无聊了",
+    "phonetic": "'mi:^әu'^ai^әu",
+    "tags": []
+  },
+  "glyndwr": {
+    "meaning": "[网络] Meibion​​ Glyndwr",
+    "phonetic": "",
+    "tags": []
+  },
+  "globules": {
+    "meaning": "abbr. 生产部（manufacturing）；制造业（manufacturing）；牛奶脂肪球（milk fat globules）",
+    "phonetic": "",
+    "tags": []
+  },
+  "glycobiarsol": {
+    "meaning": "(=glycobiarsol)米利比斯, 甘铋胂",
+    "phonetic": "'milibis",
+    "tags": []
+  },
+  "gear": {
+    "meaning": "abbr. 主起落架（Main Landing Gear）",
+    "phonetic": "",
+    "tags": []
+  },
+  "grande": {
+    "meaning": "abbr. Museo Oceanografico de Rio Grande (Portuguese=Oceanographic Museum of Rio Grande) （葡萄牙语）里奥格兰德海洋学博物馆",
+    "phonetic": "",
+    "tags": []
+  },
+  "gumshield": {
+    "meaning": " = gumshield",
+    "phonetic": "",
+    "tags": []
+  },
+  "goer": {
+    "meaning": "(movie-goer 的复数) 电影观众",
+    "phonetic": "",
+    "tags": []
+  },
+  "grapher": {
+    "meaning": "abbr. multi-router traffic grapher 多路由器信息流量自动记录器",
+    "phonetic": "",
+    "tags": []
+  },
+  "genji": {
+    "meaning": "abbr. Baroness Murasaki Shikibu (The Tale of the Genji) <源氏物语>",
+    "phonetic": "",
+    "tags": []
+  },
+  "gin": {
+    "meaning": "[网络] urn gin",
+    "phonetic": "",
+    "tags": []
+  },
+  "gompholite": {
+    "meaning": "(=gompholite)泥砾石(杂色块状砾石)",
+    "phonetic": "'nɑ:^әlflu:",
+    "tags": []
+  },
+  "gene": {
+    "meaning": "abbr. neural precursor cell-expressed developmentally down-regulated gene 神经前体细胞表达的发育负调节基因",
+    "phonetic": "",
+    "tags": []
+  },
+  "gastropod": {
+    "meaning": "[网络] neridid gastropod",
+    "phonetic": "",
+    "tags": []
+  },
+  "graduate": {
+    "meaning": "(non-graduate 的复数) 非毕业生",
+    "phonetic": "",
+    "tags": []
+  },
+  "galbula": {
+    "meaning": " [鸟类]橙腹拟黄鹂（Icterus galbula）",
+    "phonetic": "",
+    "tags": []
+  },
+  "gopher": {
+    "meaning": "[网络] 北口袋gopher",
+    "phonetic": "",
+    "tags": []
+  },
+  "given": {
+    "meaning": "abbr. negative population growth 人口负增长; no price given 无定价",
+    "phonetic": "",
+    "tags": []
+  },
+  "gmbh": {
+    "meaning": "abbr. Nuklear-Chemie und Metal-lurgie GmbH <德国>核化学和冶金公司",
+    "phonetic": "",
+    "tags": []
+  },
+  "gynecologist": {
+    "meaning": " [医][=obstetrician-gynecologist]妇产科医师",
+    "phonetic": "ˈəʊ bi: ˌdʒi: waɪ ˈen",
+    "tags": []
+  },
+  "ganoidei": {
+    "meaning": "[网络] 订购Ganoidei",
+    "phonetic": "",
+    "tags": []
+  },
+  "gaviiformes": {
+    "meaning": "[网络] 订购Gaviiformes",
+    "phonetic": "",
+    "tags": []
+  },
+  "google": {
+    "meaning": "n. Orkut是Google公司推出的社会性网络服务。通过这一服务，用户可以在互联网上建立一个虚拟社会关系网。",
+    "phonetic": "",
+    "tags": []
+  },
+  "glands": {
+    "meaning": "bodies,Pacchionian glands [复] [解]帕基奥尼氏体,蛛网膜粒",
+    "phonetic": ",pæki'әjniәn",
+    "tags": []
+  },
+  "golden": {
+    "meaning": "a. (小亚细亚古国)帕克托鲁斯的；= golden",
+    "phonetic": "pæk'təʊlɪən",
+    "tags": []
+  },
+  "girdle": {
+    "meaning": " = panty girdle",
+    "phonetic": "",
+    "tags": []
+  },
+  "gastroplasty": {
+    "meaning": " [医][=partial fundoplication gastroplasty]部分胃底折叠成形术",
+    "phonetic": "",
+    "tags": []
+  },
+  "gays": {
+    "meaning": "abbr. Parents. Families and Friends of Lesbians and Gays 同性恋的父母，家庭和朋友",
+    "phonetic": "",
+    "tags": []
+  },
+  "grn": {
+    "meaning": "[医] 硷性染革黄棕GRN, 氯化-2-氨基-9-(对氨基苯)铵代吖啶",
+    "phonetic": "",
+    "tags": []
+  },
+  "geography": {
+    "meaning": "(=phsical geography) 面容诊断法",
+    "phonetic": ",fiziә^'nәusis",
+    "tags": []
+  },
+  "gallery": {
+    "meaning": "(picture-gallery 的复数) 画馆；美术馆",
+    "phonetic": "",
+    "tags": []
+  },
+  "grebe": {
+    "meaning": "grebe [鸟]花嘴鸊鷉",
+    "phonetic": "'paidbild",
+    "tags": []
+  },
+  "giambattista": {
+    "meaning": "即 Piranesi,Giambattista",
+    "phonetic": "dʒɔ: 'vɑ: nni: bɑ: t'ti: stɑ:",
+    "tags": []
+  },
+  "groups": {
+    "meaning": "abbr. Public Interest Groups 公共利益团体",
+    "phonetic": "",
+    "tags": []
+  },
+  "guina": {
+    "meaning": "abbr. 可移植的网络图象文件格式（Portable Network Graphic）；（拉）不受欢迎的人（Persona Non Grata）；巴布亚新几内亚（Papua New Guina）",
+    "phonetic": "",
+    "tags": []
+  },
+  "generalisata": {
+    "meaning": " [医][=polymyositis ossificans generalisata]全身性多发性骨化肌炎",
+    "phonetic": "",
+    "tags": []
+  },
+  "gies": {
+    "meaning": "(pl. -gies)[动]步鱼, 玫瑰海鲫",
+    "phonetic": "'pәu^i",
+    "tags": []
+  },
+  "gasoline": {
+    "meaning": "(=polymer gasoline)聚合汽油",
+    "phonetic": ",pɔli'benzi:n",
+    "tags": []
+  },
+  "gang": {
+    "meaning": "v. 强征入伍( press-gang的过去式和过去分词 )",
+    "phonetic": "",
+    "tags": []
+  },
+  "giving": {
+    "meaning": "n. （学校的）颁奖( prize-giving的复数形式 )",
+    "phonetic": "",
+    "tags": []
+  },
+  "galactoside": {
+    "meaning": "(=sphingosyl galactoside)吐根素, (神经)鞘氨醇半乳糖苷",
+    "phonetic": "sai'kәusin",
+    "tags": []
+  },
+  "ga": {
+    "meaning": "(pl. -ga )[动]翅窝",
+    "phonetic": ",terә'pi:^әm",
+    "tags": []
+  },
+  "granadillo": {
+    "meaning": "[网络] 紫色granadillo",
+    "phonetic": "",
+    "tags": []
+  },
+  "glaberrimus": {
+    "meaning": "[网络] 毛茛属（Ranunculus glaberrimus）",
+    "phonetic": "",
+    "tags": []
+  },
+  "gn": {
+    "meaning": "[化] 活性橙X-GN",
+    "phonetic": "",
+    "tags": []
+  },
+  "gb": {
+    "meaning": "[化] 活性翠蓝KM-GB",
+    "phonetic": "",
+    "tags": []
+  },
+  "garnets": {
+    "meaning": "abbr. rare-earth iron garnets 稀土氧化铁，稀土铁石榴石",
+    "phonetic": "",
+    "tags": []
+  },
+  "glasgow": {
+    "meaning": "abbr. Royal Faculty of Physicians and Surgeons of Glasgow 格拉斯哥皇家医学系",
+    "phonetic": "",
+    "tags": []
+  },
+  "geometry": {
+    "meaning": "geometry[数]黎曼几何(学)",
+    "phonetic": "ri:'mɑ:niәn",
+    "tags": []
+  },
+  "goods": {
+    "meaning": "abbr. 货已收到, 凭单（Receipt Of Goods）",
+    "phonetic": "rɔdʒ",
+    "tags": []
+  },
+  "garden": {
+    "meaning": "(rose-garden 的复数) 玫瑰园；蔷薇园",
+    "phonetic": "",
+    "tags": []
+  },
+  "genus": {
+    "meaning": "abbr. sub-generic 普通潜水艇; sub-genus 亚属",
+    "phonetic": "",
+    "tags": []
+  },
+  "governments": {
+    "meaning": "abbr. San Diego Association of Governments 圣迭戈公务协会",
+    "phonetic": "",
+    "tags": []
+  },
+  "gulf": {
+    "meaning": "Gulf 萨罗尼克湾(靠希腊伯罗奔尼撒半岛东北岸)",
+    "phonetic": "sә'rɔnik",
+    "tags": []
+  },
+  "gotha": {
+    "meaning": "[网络] Saxe-gotha",
+    "phonetic": "",
+    "tags": []
+  },
+  "gou": {
+    "meaning": "=Ségou",
+    "phonetic": "sei'^u:",
+    "tags": []
+  },
+  "governing": {
+    "meaning": "a. = self-governing",
+    "phonetic": "'self'ru:liŋ",
+    "tags": []
+  },
+  "gabbro": {
+    "meaning": "abbr. saussuritized gabbro 槽化辉化岩",
+    "phonetic": "",
+    "tags": []
+  },
+  "glycerophosphatide": {
+    "meaning": " [医][=serine glycerophosphatide]丝氨酸甘油磷酸脂",
+    "phonetic": "",
+    "tags": []
+  },
+  "gobi": {
+    "meaning": "<汉>=Gobi",
+    "phonetic": "'ʃɑ:'mәu",
+    "tags": []
+  },
+  "graywacke": {
+    "meaning": "(=graywacke)杂砂岩",
+    "phonetic": "'æpә^rait",
+    "tags": []
+  },
+  "groenlandica": {
+    "meaning": "[网络] 阿雷纳里亚groenlandica",
+    "phonetic": "",
+    "tags": []
+  },
+  "gigantea": {
+    "meaning": "[网络] 芸苔属（Arundinaria gigantea）",
+    "phonetic": "",
+    "tags": []
+  },
+  "gougerotin": {
+    "meaning": "(=gougerotin)无穗霉素",
+    "phonetic": "ә,spikjulә'maisin",
+    "tags": []
+  },
+  "gps": {
+    "meaning": "n. 阿错（单机游戏名）；艾莎（GPS车载导航品牌）",
+    "phonetic": "",
+    "tags": []
+  },
+  "gratissima": {
+    "meaning": "[化] 鳄梨油(Persea gratissima果实的油)",
+    "phonetic": "",
+    "tags": []
+  },
+  "garlic": {
+    "meaning": " [人名] [英格兰人姓氏] 艾勒职业名称，大蒜销售者，来源于古法语及拉丁语，含义是“大蒜”(garlic)",
+    "phonetic": "",
+    "tags": []
+  },
+  "gibbsii": {
+    "meaning": " [动物]东亚鼹鼠（Uropsilus soricipes）；北美鼹鼠(Neurotrichus gibbsii)",
+    "phonetic": "",
+    "tags": []
+  },
+  "georg": {
+    "meaning": "西格巴恩(①姓氏 ②Karl Manne Georg, 1886-1978, 瑞典物理学家, 曾获1924年诺贝尔物理学奖)",
+    "phonetic": "'si:^bɑ:n",
+    "tags": []
+  },
+  "giganteum": {
+    "meaning": "[网络] 茄属（Solanum giganteum）",
+    "phonetic": "",
+    "tags": []
+  },
+  "gravity": {
+    "meaning": " [医][=specific gravity]比重",
+    "phonetic": "",
+    "tags": []
+  },
+  "glabra": {
+    "meaning": " 光松(Pinus glabra); 类光松植物",
+    "phonetic": "",
+    "tags": []
+  },
+  "grigorievich": {
+    "meaning": "斯达汉诺夫(Alexei Grigorievich, 苏联煤矿工人, 1935年创始采煤合理化的方法), 斯达汉诺夫式工作者",
+    "phonetic": "stә'hɑ:nɔ:f",
+    "tags": []
+  },
+  "gladwyn": {
+    "meaning": "[网络] 发臭的gladwyn",
+    "phonetic": "",
+    "tags": []
+  },
+  "gustav": {
+    "meaning": "施特雷泽曼(①姓氏②Gustav, 1878-1929, 德国政治家, 曾获1926年诺贝尔和平奖)",
+    "phonetic": "'ʃtreizәmɑ:n",
+    "tags": []
+  },
+  "gnetophytina": {
+    "meaning": "[网络] Gnetophytina细分",
+    "phonetic": "",
+    "tags": []
+  },
+  "garrulinae": {
+    "meaning": "[网络] Garrulinae亚科",
+    "phonetic": "",
+    "tags": []
+  },
+  "gorgonacea": {
+    "meaning": "[网络] 亚科Gorgonacea",
+    "phonetic": "",
+    "tags": []
+  },
+  "gorgoniacea": {
+    "meaning": "[网络] 子类Gorgoniacea",
+    "phonetic": "",
+    "tags": []
+  },
+  "glue": {
+    "meaning": "(super-glue 的过去分词) 强力胶；万能胶；瞬间胶",
+    "phonetic": "",
+    "tags": []
+  },
+  "georgiana": {
+    "meaning": " [鸟类]（北美）沼泽带鹀(Melospiza georgiana, Zonotrichia georgiana)",
+    "phonetic": "",
+    "tags": []
+  },
+  "gland": {
+    "meaning": "(=thymus gland)胸腺",
+    "phonetic": "'swetbred",
+    "tags": []
+  },
+  "gamosepalous": {
+    "meaning": "(=gamosepalous)[植]合萼的",
+    "phonetic": "sin'sepәlәs",
+    "tags": []
+  },
+  "giveaways": {
+    "meaning": "abbr. Taxpayers Against Government Giveaways 反对政府支出膨胀的纳税人组织",
+    "phonetic": "",
+    "tags": []
+  },
+  "gatherer": {
+    "meaning": "(tax-gatherer 的复数)  收税官, 税务员",
+    "phonetic": "",
+    "tags": []
+  },
+  "gain": {
+    "meaning": "abbr. Time Controlled Gain 时间受控增益额度",
+    "phonetic": "",
+    "tags": []
+  },
+  "geisel": {
+    "meaning": "[网络] 西奥多·塞斯Geisel",
+    "phonetic": "",
+    "tags": []
+  },
+  "gautr": {
+    "meaning": " [人名] [英格兰人姓氏] 索罗古德来源于北方中世纪英语教名，含义是“雷神”(Thor)+种族名Gautr",
+    "phonetic": "",
+    "tags": []
+  },
+  "geode": {
+    "meaning": "【地质学】玉髓的圆形结石 [参较 geode]",
+    "phonetic": "",
+    "tags": []
+  },
+  "goiten": {
+    "meaning": "(=goiten)甲状腺肿",
+    "phonetic": "θai'rɔŋkәs",
+    "tags": []
+  },
+  "glaucus": {
+    "meaning": "【昆虫】北美黑条黄凤碟(Papilio glaucus)",
+    "phonetic": "",
+    "tags": []
+  },
+  "gunnysack": {
+    "meaning": "[美国中南部和南部方言] = gunnysack",
+    "phonetic": "",
+    "tags": []
+  },
+  "gertrude": {
+    "meaning": "特鲁迪(女子名, Gertrude的昵称)",
+    "phonetic": "'tru:di",
+    "tags": []
+  },
+  "gardens": {
+    "meaning": "n. [the Tuileries]杜伊勒里宫(巴黎旧王宫,1871年被焚毁,现作公园 Tuileries Gardens)",
+    "phonetic": "'twi:ləriz; ,twi:lə'ri:",
+    "tags": []
+  },
+  "guaranian": {
+    "meaning": "n. 图皮—瓜拉尼人(南美印第安人)；[亦作 Tupi-Guaranian] 图皮—瓜拉尼语组",
+    "phonetic": "'tu:pi,ɡwa:rə'ni:; tu'pi:-",
+    "tags": []
+  },
+  "geophysics": {
+    "meaning": "abbr. Upper Atmosphere Geophysics 高层大气地球物理学",
+    "phonetic": "",
+    "tags": []
+  },
+  "gastrointestinal": {
+    "meaning": "abbr. upper gastrointestinal 上端肠胃",
+    "phonetic": "",
+    "tags": []
+  },
+  "growin": {
+    "meaning": "n. a single continuous brow resulting from the growin; 左右眉毛长在一起",
+    "phonetic": "ʌnaɪb'raʊ",
+    "tags": []
+  },
+  "graaff": {
+    "meaning": "[电] Van de Graaff加速器",
+    "phonetic": "",
+    "tags": []
+  },
+  "gk": {
+    "meaning": "[化] 还原金黄GK",
+    "phonetic": "",
+    "tags": []
+  },
+  "gcn": {
+    "meaning": "[化] 还原黄GCN",
+    "phonetic": "",
+    "tags": []
+  },
+  "gerund": {
+    "meaning": "相同于gerund",
+    "phonetic": "",
+    "tags": []
+  },
+  "galvanometer": {
+    "meaning": " [医][=vertical mirror galvanometer]立式反射镜检流计",
+    "phonetic": "",
+    "tags": []
+  },
+  "give": {
+    "meaning": "为什么原因?为什么?干吗?；[俚语]惩罚, 责备；尤指：鞭打(常与动词get或give连用)",
+    "phonetic": "",
+    "tags": []
+  },
+  "grunniens": {
+    "meaning": " [鱼类]; 美洲石𪤇 (Roccus americanus, 产于美国东海岸附近水域); 淡水石首鱼(Aplodinotus grunniens, 产于美国中部)",
+    "phonetic": "",
+    "tags": []
+  },
+  "gorgas": {
+    "meaning": "[网络] 威廉克劳福德Gorgas",
+    "phonetic": "",
+    "tags": []
+  },
+  "gateway": {
+    "meaning": "abbr. Welsh Medical Gazette <威尔士医学报导>（杂志名）; wireless messaging gateway 无线信息传送网关，无线通信网关",
+    "phonetic": "",
+    "tags": []
+  },
+  "greenweed": {
+    "meaning": "n. [植] = dyer's greenweed",
+    "phonetic": "'wәjd,wæksən",
+    "tags": []
+  },
+  "gurnard": {
+    "meaning": "[网络] 黄色gurnard",
+    "phonetic": "",
+    "tags": []
+  },
+  "griselda": {
+    "meaning": "n. 塞尔达（女子名, 等于Griselda）",
+    "phonetic": "'zeldә",
+    "tags": []
+  },
+  "gramineus": {
+    "meaning": "[网络] 枸杞子（Zigadenus venenosus gramineus）",
+    "phonetic": "",
+    "tags": []
+  },
+  "glutamate": {
+    "meaning": " [医][=mixture of dill weed and monosodium glutamate]莳萝草和谷氨酸钠混合物",
+    "phonetic": "",
+    "tags": []
+  },
+  "gadzooks": {
+    "meaning": "int. =gadzooks[缩略]",
+    "phonetic": "zu:ks",
+    "tags": []
+  },
+  "glover": {
+    "meaning": "巴克拉 (①姓氏 ②Charles Glover, 1877-1944, 英国物理学家, 曾获1917年诺贝尔物理学奖)",
+    "phonetic": "'bɑ:klә",
+    "tags": []
+  },
+  "gennediyevich": {
+    "meaning": "巴索夫(Nikolai Gennediyevich, 1922-, 苏联物理学家, 曾获1964年诺贝尔物理学奖)",
+    "phonetic": "'bɑ:sәf",
+    "tags": []
+  },
+  "granicus": {
+    "meaning": "[网络] Granicus河战役",
+    "phonetic": "",
+    "tags": []
+  },
+  "gens": {
+    "meaning": "abbr. （法）雅皮士（bon chic, bons gens）",
+    "phonetic": "",
+    "tags": []
+  },
+  "goldenrod": {
+    "meaning": "【植物】海滨一枝黄花(Solidago sempervirens)[亦作 seaside goldenrod]",
+    "phonetic": "",
+    "tags": []
+  },
+  "gl": {
+    "meaning": "[建] 苯并坚牢蓝4GL, 直接耐光青",
+    "phonetic": "",
+    "tags": []
+  },
+  "goose": {
+    "meaning": "goose[鸟]欧洲黑雁",
+    "phonetic": "'bә:nikl",
+    "tags": []
+  },
+  "glandulosa": {
+    "meaning": "[网络] 桦木glandulosa",
+    "phonetic": "",
+    "tags": []
+  },
+  "gita": {
+    "meaning": "n. 【印度教】《薄伽梵歌》，《福者之歌》(意译“世尊歌”。印度教经典《摩诃婆罗多》第6篇的一部分)[亦称作 Gita]",
+    "phonetic": "'bʌɡəvəd'ɡi:tə",
+    "tags": []
+  },
+  "goat": {
+    "meaning": "(billy-goat 的复数)  公山羊",
+    "phonetic": "",
+    "tags": []
+  },
+  "glory": {
+    "meaning": "abbr. bask(ing) in reflected glory 享受间接得到的荣耀",
+    "phonetic": "",
+    "tags": []
+  },
+  "gentian": {
+    "meaning": "n. = yellow gentian",
+    "phonetic": "'bitə,wə:t",
+    "tags": []
+  },
+  "grylle": {
+    "meaning": " [鸟类]黑海鸽(Cepphus grylle，产于北大西洋海岸)",
+    "phonetic": "",
+    "tags": []
+  },
+  "gudgeons": {
+    "meaning": " [人名] [英格兰人姓氏] 布兰福德住所名称，来源于古英语，含义是“鮈鱼津渡”(ford of the gudgeons)",
+    "phonetic": "",
+    "tags": []
+  },
+  "giovanni": {
+    "meaning": "卜伽丘(Giovanni, 1313-1375, 文艺复兴时期意大利作家, 《十日谈》的作者)",
+    "phonetic": "bәu'kɑ:tʃiәu",
+    "tags": []
+  },
+  "garrulus": {
+    "meaning": "【鸟类】太平鸟,十二黄 (Bombycilla garrulus)",
+    "phonetic": "",
+    "tags": []
+  },
+  "gavelkind": {
+    "meaning": "【英国历史、法律】(英国某些地区1925年前实行的)幼子继承制, 幼子优先继承地产的习俗[参较 primogeniture, gavelkind]",
+    "phonetic": "",
+    "tags": []
+  },
+  "googly": {
+    "meaning": "n. <澳>=googly",
+    "phonetic": "'bәjzi",
+    "tags": []
+  },
+  "glove": {
+    "meaning": "(boxing-glove 的复数) 拳击手套",
+    "phonetic": "",
+    "tags": []
+  },
+  "gunnel": {
+    "meaning": "【鱼类】锦鳚(=gunnel)",
+    "phonetic": "",
+    "tags": []
+  },
+  "gage": {
+    "meaning": "abbr. British Standards Gage 英国标准规",
+    "phonetic": "",
+    "tags": []
+  },
+  "grafting": {
+    "meaning": "abbr. 冠状动脉旁路移植术（Coronary Artery Bypass Grafting）",
+    "phonetic": "",
+    "tags": []
+  },
+  "goup": {
+    "meaning": "abbr. 舰载空军大队（Carrier Air Goup）",
+    "phonetic": "",
+    "tags": []
+  },
+  "gcd": {
+    "meaning": "[建] 加里东蓝GCD, 原色还原青",
+    "phonetic": "",
+    "tags": []
+  },
+  "glaucophylla": {
+    "meaning": "[网络] 木犀草（Callitris glaucophylla）",
+    "phonetic": "",
+    "tags": []
+  },
+  "gafsa": {
+    "meaning": "n. & adj.卡普萨(Capsa)文化(的) (北非和南欧旧石器时代后期的一种文化,在莫斯特文化之后, 以在突尼斯西部 Gafsa 发现的燧石工具为其代表,Capsa是Gafsa的古名)",
+    "phonetic": "'kæpsiәn",
+    "tags": []
+  },
+  "giosue": {
+    "meaning": "卡尔杜齐(Giosue, 1835-1907, 意大利诗人, 曾获1906年诺贝尔文学奖)",
+    "phonetic": "kɑ:'du:tʃi",
+    "tags": []
+  },
+  "galleon": {
+    "meaning": "n. (=galleon)大帆船(15至18世纪初军舰商船两用的)",
+    "phonetic": "'kærik",
+    "tags": []
+  },
+  "gaspar": {
+    "meaning": "n. 卡斯帕（《圣经》中三哲士之一, 等于Gaspar）",
+    "phonetic": "'kæspə",
+    "tags": []
+  },
+  "grl": {
+    "meaning": "[化] 阳离子红X-GRL",
+    "phonetic": "",
+    "tags": []
+  },
+  "guaiol": {
+    "meaning": "(=guaiol) 愈疮木醇, 黄兰醇",
+    "phonetic": "'tʃæmpækәl",
+    "tags": []
+  },
+  "glaucum": {
+    "meaning": "[网络] 藜属（Chenopodium glaucum）",
+    "phonetic": "",
+    "tags": []
+  },
+  "ger": {
+    "meaning": "[网络] ger花",
+    "phonetic": "",
+    "tags": []
+  },
+  "ganja": {
+    "meaning": " [医]大麻树脂：同ganja",
+    "phonetic": "",
+    "tags": []
+  },
+  "gastropoda": {
+    "meaning": "[网络] Gastropoda类",
+    "phonetic": "",
+    "tags": []
+  },
+  "gnetopsida": {
+    "meaning": "[网络] Gnetopsida类",
+    "phonetic": "",
+    "tags": []
+  },
+  "gobiesocidae": {
+    "meaning": "n. Gobiesocidae属的小海鱼,喉盘鱼",
+    "phonetic": "'kliŋfiʃ",
+    "tags": []
+  },
+  "geology": {
+    "meaning": "abbr. 最低等级圣迈克尔和圣乔治勋爵（Companion of the Order of St Michael ＆ St George）；海洋地质学委员会（Commission on Marine Geology）",
+    "phonetic": "",
+    "tags": []
+  },
+  "governors": {
+    "meaning": "abbr. Conference of Northeastern Governors 东北部总督会议",
+    "phonetic": "",
+    "tags": []
+  },
+  "greenling": {
+    "meaning": "n. =painted greenling",
+    "phonetic": "'kənvikt,fiʃ",
+    "tags": []
+  },
+  "griseus": {
+    "meaning": " [鱼类]灰六鳃鲨（Hexanchus griseus）",
+    "phonetic": "",
+    "tags": []
+  },
+  "guidelines": {
+    "meaning": "abbr. clinical practice guidelines 临床实践指导方针",
+    "phonetic": "",
+    "tags": []
+  },
+  "grorge": {
+    "meaning": "Grorge克雷布(1778～1851, 英国作家、语文学家)",
+    "phonetic": "kræb",
+    "tags": []
+  },
+  "geranium": {
+    "meaning": "n. [植]陇牛儿苗科(=geranium)",
+    "phonetic": "'kreinbil",
+    "tags": []
+  },
+  "gazing": {
+    "meaning": "水晶球占卜术, 看晶术, 揣测 (crystal gazing的变形)",
+    "phonetic": "",
+    "tags": []
+  },
+  "grasscutter": {
+    "meaning": " = grasscutter",
+    "phonetic": "",
+    "tags": []
+  },
+  "gustaf": {
+    "meaning": "达伦(①姓氏 ②Nils Gustaf, 1869-1937, 瑞典发明家, 曾获1912年诺贝尔物理学奖)",
+    "phonetic": "dә'lein",
+    "tags": []
+  },
+  "gates": {
+    "meaning": "道斯(①姓氏 ②Charles Gates, 1865-1951, 美国律师及财政家, 于1925-1929 任美国副总统, 曾获1925年诺贝尔和平奖)",
+    "phonetic": "dɔ:z",
+    "tags": []
+  },
+  "gaullism": {
+    "meaning": "=Gaullism",
+    "phonetic": "də'ɡɔ:lizəm",
+    "tags": []
+  },
+  "gaullist": {
+    "meaning": "=Gaullist",
+    "phonetic": "də'ɡɔ:list",
+    "tags": []
+  },
+  "gpe": {
+    "meaning": "[化] 消沫剂GPE",
+    "phonetic": "",
+    "tags": []
+  },
+  "guanylurea": {
+    "meaning": "(=guanylurea)脒基脲, 胍基甲 酰 胺",
+    "phonetic": ",dai,saiәndai'æmidi:n",
+    "tags": []
+  },
+  "graveolens": {
+    "meaning": "n. [植物]莳蔓,小茴香(Anethum graveolens)；莳蔓籽(或叶)(常作调味品)",
+    "phonetic": "dɪl",
+    "tags": []
+  },
+  "groundman": {
+    "meaning": "n. =groundman",
+    "phonetic": "'də:tmən",
+    "tags": []
+  },
+  "gfl": {
+    "meaning": "[化] 分散红玉2GFL",
+    "phonetic": "",
+    "tags": []
+  },
+  "gymnospermophyta": {
+    "meaning": "[网络] 分类Gymnospermophyta",
+    "phonetic": "",
+    "tags": []
+  },
+  "graphic": {
+    "meaning": "abbr. 数字线划地图（Digital Line Graphic）",
+    "phonetic": "",
+    "tags": []
+  },
+  "gooder": {
+    "meaning": "n. 不实际的社会改良家( do-gooder的复数形式 )",
+    "phonetic": "",
+    "tags": []
+  },
+  "gloomy": {
+    "meaning": " [人名] [爱尔兰姓氏] 多根盖尔语姓氏的英语形式，来源于别名，含义是“黑，阴暗”(black,gloomy)",
+    "phonetic": "",
+    "tags": []
+  },
+  "gayfeather": {
+    "meaning": "[网络] 点缀的gayfeather",
+    "phonetic": "",
+    "tags": []
+  },
+  "genitive": {
+    "meaning": " [语法学]双重所有格(既用“of”,又用所有格的所有格短语,如：a book of mine 中的 of mine, 又如：She is a friend of mother's 中的 of mother's) [亦作 double genitive]",
+    "phonetic": "",
+    "tags": []
+  },
+  "glaze": {
+    "meaning": "v. 给窗子配上双层玻璃( double-glaze的过去式和过去分词 )",
+    "phonetic": "",
+    "tags": []
+  },
+  "girder": {
+    "meaning": "abbr. damping 阻尼（的）; 缓冲（的）; data processing group 数据处理组; deck plate girder 上承板梁",
+    "phonetic": "",
+    "tags": []
+  },
+  "gynaecologists": {
+    "meaning": " [医][=Diploma,Royal College of Obstetricians and Gynaecologists]皇家妇产科医师学会证书",
+    "phonetic": "",
+    "tags": []
+  },
+  "ganglion": {
+    "meaning": "abbr. 数字栅格地图（Digital Raster Graphic）；背根神经节（Dorsal root ganglion）",
+    "phonetic": "",
+    "tags": []
+  },
+  "gastralgia": {
+    "meaning": "(=gastralgia)消化不良性痛, 胃痛",
+    "phonetic": "dis,pepsә'dainiә",
+    "tags": []
+  },
+  "grinding": {
+    "meaning": "abbr. Electrical Discharge Grinding 放电研磨",
+    "phonetic": "",
+    "tags": []
+  },
+  "gallate": {
+    "meaning": "abbr. epigallocatechin gallate 表儿茶素，表没食子酸盐",
+    "phonetic": "",
+    "tags": []
+  },
+  "gaskell": {
+    "meaning": "[网络] 伊丽莎白Cleghorn史蒂文森Gaskell",
+    "phonetic": "",
+    "tags": []
+  },
+  "gilmer": {
+    "meaning": "[网络] 伊丽莎白·梅里韦瑟·吉尔默（Elizabeth Merriwether Gilmer）",
+    "phonetic": "",
+    "tags": []
+  },
+  "girlfriend": {
+    "meaning": "(ex-girlfriend 的复数)  前女友",
+    "phonetic": "",
+    "tags": []
+  },
+  "glasses": {
+    "meaning": "n. 眼镜（等于glasses）",
+    "phonetic": "",
+    "tags": []
+  },
+  "gromwell": {
+    "meaning": "[网络] 假gromwell",
+    "phonetic": "",
+    "tags": []
+  },
+  "gasterosteidae": {
+    "meaning": "[网络] 家庭Gasterosteidae",
+    "phonetic": "",
+    "tags": []
+  },
+  "gigartinaceae": {
+    "meaning": "[网络] 家庭Gigartinaceae",
+    "phonetic": "",
+    "tags": []
+  },
+  "gnetaceae": {
+    "meaning": "[网络] 家庭Gnetaceae",
+    "phonetic": "",
+    "tags": []
+  },
+  "gonorhynchidae": {
+    "meaning": "[网络] 家庭Gonorhynchidae",
+    "phonetic": "",
+    "tags": []
+  },
+  "gracilariidae": {
+    "meaning": "[网络] 家庭Gracilariidae",
+    "phonetic": "",
+    "tags": []
+  },
+  "guttiferae": {
+    "meaning": "[网络] 家庭Guttiferae",
+    "phonetic": "",
+    "tags": []
+  },
+  "gedaliah": {
+    "meaning": "【犹太教】 ＝ Tzom Gedaliah",
+    "phonetic": "",
+    "tags": []
+  },
+  "grain": {
+    "meaning": "abbr. 悬浮式陀螺（Floated Gyro）；细粒（Fine-Grain）",
+    "phonetic": "",
+    "tags": []
+  },
+  "gottlieb": {
+    "meaning": "费希特(Johanm Gottlieb, 1762-1814, 德国哲学家)",
+    "phonetic": "'fiktә",
+    "tags": []
+  },
+  "gustave": {
+    "meaning": "福楼拜(Gustave, 1821-1880 , 法国小说家)",
+    "phonetic": "flәu'ber",
+    "tags": []
+  },
+  "gould": {
+    "meaning": "n. 弗莱彻（姓氏, 男子名）；弗莱彻（John, 1579-1625, 英国剧作家）；弗莱彻（John Gould, 1886-1950, 美国诗人及批评家）",
+    "phonetic": "'fletʃә",
+    "tags": []
+  },
+  "gloxinia": {
+    "meaning": "[网络] 花店的gloxinia",
+    "phonetic": "",
+    "tags": []
+  },
+  "gique": {
+    "meaning": "abbr. 法国海军战略远洋舰队（Force océanique stratégique）",
+    "phonetic": "",
+    "tags": []
+  },
+  "gyro": {
+    "meaning": "abbr. 悬浮角速度陀螺仪（Floated Rate Gyro）",
+    "phonetic": "",
+    "tags": []
+  },
+  "gaywings": {
+    "meaning": " [植物]少叶远志(Polygala paucifolia, 生长于北美东部森林中)[亦称作 flowering wintergreen, gaywings]",
+    "phonetic": "",
+    "tags": []
+  },
+  "glomerulosclerosis": {
+    "meaning": " [医][=focal segmental glomerulosclerosis]局灶性节段性肾小球硬化症",
+    "phonetic": "",
+    "tags": []
+  },
+  "gorse": {
+    "meaning": " [人名] [英格兰人姓氏] 弗斯地貌名称，来源于古英语，含义是“荆豆”(gorse)",
+    "phonetic": "",
+    "tags": []
+  },
+  "gv": {
+    "meaning": "[化] GV法; 改良砷碱法; 改良砷碱法脱硫",
+    "phonetic": "",
+    "tags": []
+  },
+  "gabardine": {
+    "meaning": "n. 一种斜纹防水布料, 一种宽松的长袍, 华达呢( gabardine的复数形式 )",
+    "phonetic": "ˈɡæbədi:nz",
+    "tags": []
+  },
+  "gabby": {
+    "meaning": "a. 饶舌的, 多嘴的 (gabby的变形)",
+    "phonetic": "",
+    "tags": []
+  },
+  "gabble": {
+    "meaning": "v. 急促地说, 不清地说( gabble的过去式和过去分词 )",
+    "phonetic": "ˈgæbəld",
+    "tags": []
+  },
+  "gabion": {
+    "meaning": "(gabion 的复数) 篾筐,金属筐",
+    "phonetic": "",
+    "tags": []
+  },
+  "gable": {
+    "meaning": "n. 尖顶屋两端的山形墙( gable的复数形式 )",
+    "phonetic": "ˈɡeiblz",
+    "tags": []
+  },
+  "gabo": {
+    "meaning": "n. (Gabo)人名；(法、俄、英)加博",
+    "phonetic": "",
+    "tags": []
+  },
+  "gaboriau": {
+    "meaning": "n. (Gaboriau)人名；(法)加博里欧",
+    "phonetic": "",
+    "tags": []
+  },
+  "gabriela": {
+    "meaning": "n. (Gabriela)人名；(捷、葡、罗)加布里埃拉；(西)加夫列拉, 加芙列拉(女名)",
+    "phonetic": "",
+    "tags": []
+  },
+  "gabrieli": {
+    "meaning": "n. (Gabrieli)人名；(法、意)加布里埃利",
+    "phonetic": "",
+    "tags": []
+  },
+  "gadd": {
+    "meaning": "n. (Gadd)人名；(英、法、意、葡、芬、瑞典)加德",
+    "phonetic": "",
+    "tags": []
+  },
+  "gaddafi": {
+    "meaning": "n. (Gaddafi)人名；(阿拉伯)卡扎菲",
+    "phonetic": "",
+    "tags": []
+  },
+  "gad": {
+    "meaning": "v. 闲逛( gad的过去式和过去分词 ); 游荡; 找乐子; 用铁棒刺",
+    "phonetic": "ɡædid",
+    "tags": []
+  },
+  "gade": {
+    "meaning": "(gade 的复数) 鳕类鱼",
+    "phonetic": "",
+    "tags": []
+  },
+  "gadfly": {
+    "meaning": "n. 牛虻( gadfly的名词复数 )",
+    "phonetic": "ˈgædˌflaɪz",
+    "tags": []
+  },
+  "gadget": {
+    "meaning": "n. 小配件；小工具（gadget的复数）",
+    "phonetic": "",
+    "tags": []
+  },
+  "gadolinium": {
+    "meaning": "a. gadolinium的变形",
+    "phonetic": "",
+    "tags": []
+  },
+  "gadwall": {
+    "meaning": "n. 赤膀鸭( gadwall的名词复数 )",
+    "phonetic": "",
+    "tags": []
+  },
+  "garther": {
+    "meaning": " [医]见Garther; [人名] 盖特纳",
+    "phonetic": "",
+    "tags": []
+  },
+  "gaetano": {
+    "meaning": "n. (Gaetano)人名；(西、意、葡)加埃塔诺",
+    "phonetic": "",
+    "tags": []
+  },
+  "gaff": {
+    "meaning": "[网络] gaff头帆",
+    "phonetic": "",
+    "tags": []
+  },
+  "gaffer": {
+    "meaning": "n. 老人, 乡下老头, 领班( gaffer的复数形式 )",
+    "phonetic": "ˈɡæfəz",
+    "tags": []
+  },
+  "gaffe": {
+    "meaning": "n. 失礼, 出丑( gaffe的复数形式 )",
+    "phonetic": "gæfs",
+    "tags": []
+  },
+  "gaffney": {
+    "meaning": "n. (Gaffney)人名；(英)加夫尼",
+    "phonetic": "",
+    "tags": []
+  },
+  "gaggenau": {
+    "meaning": "n. (Gaggenau)人名；(法)加热诺",
+    "phonetic": "",
+    "tags": []
+  },
+  "gaggle": {
+    "meaning": "n. （鹅）群( gaggle的名词复数 ); <口>散乱的一群, 缺乏组织的团体",
+    "phonetic": "ˈgægəlz",
+    "tags": []
+  },
+  "gagnon": {
+    "meaning": "n. (Gagnon)人名；(法、英)加尼翁",
+    "phonetic": "",
+    "tags": []
+  },
+  "gag": {
+    "meaning": "n. 塞口物；[医]张口器；石斑鱼（gag的复数）",
+    "phonetic": "",
+    "tags": []
+  },
+  "gagman": {
+    "meaning": "n. (=gagman)笑料设计人",
+    "phonetic": "'^æ^,raitә(r)",
+    "tags": []
+  },
+  "gaea": {
+    "meaning": "n. [希神]盖亚（希腊神话中的大地女神, 等于Gaea）",
+    "phonetic": "'^eiә, '^aiә",
+    "tags": []
+  },
+  "gaian": {
+    "meaning": "(gaian 的复数) 盖安（人名）",
+    "phonetic": "",
+    "tags": []
+  },
+  "gayle": {
+    "meaning": "n. 盖尔（女子名, 等于Gale或Gayle）",
+    "phonetic": "^eil",
+    "tags": []
+  },
+  "gaile": {
+    "meaning": "(gaile 的复数) 疥疮, 疥蟥病",
+    "phonetic": "",
+    "tags": []
+  },
+  "gailey": {
+    "meaning": "n. (Gailey)人名；(英)盖利",
+    "phonetic": "",
+    "tags": []
+  },
+  "gainer": {
+    "meaning": "n. 得利者, 胜利者, 获得者( gainer的复数形式 )",
+    "phonetic": "ˈɡeinəz",
+    "tags": []
+  },
+  "gaine": {
+    "meaning": "(gaine 的复数) (只刻出头部的) 半身雕像的下半部",
+    "phonetic": "",
+    "tags": []
+  },
+  "gainful": {
+    "meaning": "n. 唯利是图（原形是gainful）",
+    "phonetic": "",
+    "tags": []
+  },
+  "gainsay": {
+    "meaning": "gainsay的过去式和过去分词",
+    "phonetic": "",
+    "tags": []
+  },
+  "gainsborough": {
+    "meaning": "n. (Gainsborough)人名；(英)盖恩斯伯勒",
+    "phonetic": "",
+    "tags": []
+  },
+  "gair": {
+    "meaning": "(gair 的现在分词)  [医]步态",
+    "phonetic": "",
+    "tags": []
+  },
+  "genseric": {
+    "meaning": "盖塞里克(即Genseric)",
+    "phonetic": "'^aizәrik",
+    "tags": []
+  },
+  "gait": {
+    "meaning": "n. 步态, 步法( gait的复数形式 )",
+    "phonetic": "geɪts",
+    "tags": []
+  },
+  "galactan": {
+    "meaning": "n. (=galactan)[生化]半乳糖体",
+    "phonetic": "^ә'læktәsæn",
+    "tags": []
+  },
+  "galactosemia": {
+    "meaning": "a. galactosemia的变形",
+    "phonetic": "",
+    "tags": []
+  },
+  "galago": {
+    "meaning": "n. 夜猴；狉；丛猴 (galago的变形)",
+    "phonetic": "",
+    "tags": []
+  },
+  "gal": {
+    "meaning": "[网络] gal。。",
+    "phonetic": "",
+    "tags": []
+  },
+  "gala": {
+    "meaning": "n. 节日, 庆祝, 盛会( gala的复数形式 )",
+    "phonetic": "ˈgeɪləz",
+    "tags": []
+  },
+  "galata": {
+    "meaning": "n. (Galata)人名；(匈)高洛陶；(俄、意)加拉塔",
+    "phonetic": "",
+    "tags": []
+  },
+  "galantine": {
+    "meaning": "n. (=galantine)一种滤去骨的冷冻食品",
+    "phonetic": "'^ælәti:n",
+    "tags": []
+  },
+  "galbraith": {
+    "meaning": " [人名] [苏格兰人姓氏] 加尔布雷思 Galbraith的变体",
+    "phonetic": "",
+    "tags": []
+  },
+  "galerie": {
+    "meaning": "n. 画馆\\nn. (Galerie)人名；(瑞典)加莱里",
+    "phonetic": "ɡɑ:'leriə",
+    "tags": []
+  },
+  "galley": {
+    "meaning": " [人名] [英格兰人、苏格兰人姓氏] 盖利 Galley的变体",
+    "phonetic": "",
+    "tags": []
+  },
+  "galia": {
+    "meaning": "n. (Galia)人名；(法、西、意、捷、以)加利亚",
+    "phonetic": "",
+    "tags": []
+  },
+  "galina": {
+    "meaning": "n. (Galina)人名；(匈)高利瑙；(罗、俄、塞)加林娜；(法、意)加利纳",
+    "phonetic": "",
+    "tags": []
+  },
+  "galactokinase": {
+    "meaning": " [医][=galactokinase]半乳糖激酶",
+    "phonetic": "",
+    "tags": []
+  },
+  "gallacher": {
+    "meaning": "n. (Gallacher)人名；(英)加拉赫",
+    "phonetic": "",
+    "tags": []
+  },
+  "gallagher": {
+    "meaning": " [人名] [爱尔兰姓氏] 加拉赫 Gallagher的变体",
+    "phonetic": "",
+    "tags": []
+  },
+  "galland": {
+    "meaning": "n. (Galland)人名；(法)加朗；(德)加兰",
+    "phonetic": "",
+    "tags": []
+  },
+  "gallant": {
+    "meaning": "a. 英勇的, 勇敢的；华丽的；雄伟的\\nn. (Gallant)人名；(法)加朗；(英)加伦特",
+    "phonetic": "'gæl(ə)nt; gə'lænt",
+    "tags": []
+  },
+  "gallantry": {
+    "meaning": "n. 勇敢( gallantry的名词复数 ); （对女子的）殷勤; 礼貌的言行",
+    "phonetic": "ˈgæləntri:z",
+    "tags": []
+  },
+  "galla": {
+    "meaning": "(galla 的复数) [医] 没食子",
+    "phonetic": "",
+    "tags": []
+  },
+  "gallaudet": {
+    "meaning": "n. (Gallaudet)人名；(英)加劳德特",
+    "phonetic": "",
+    "tags": []
+  },
+  "gallfly": {
+    "meaning": "n. 五倍子虫( gallfly的名词复数 )",
+    "phonetic": "",
+    "tags": []
+  },
+  "gaul": {
+    "meaning": "n. (西欧古国)高卢(Gaul的拉丁名)",
+    "phonetic": "'^æliә",
+    "tags": []
+  },
+  "gallian": {
+    "meaning": "n. (Gallian)人名；(法)加利昂；(意、罗)加利安",
+    "phonetic": "",
+    "tags": []
+  },
+  "gallicize": {
+    "meaning": "n. Gallicize, gallicize的变形",
+    "phonetic": ",ɡælisai'zeiʃən; -si'z-",
+    "tags": []
+  },
+  "gallicolae": {
+    "meaning": "(pl. gallicolae)叶瘿虫",
+    "phonetic": "'^ælilәlә",
+    "tags": []
+  },
+  "gally": {
+    "meaning": "v. 吓唬( gally的过去式和过去分词 )",
+    "phonetic": "ˈɡælid",
+    "tags": []
+  },
+  "gallieni": {
+    "meaning": "n. (Gallieni)人名；(法、意)加列尼",
+    "phonetic": "",
+    "tags": []
+  },
+  "gallienus": {
+    "meaning": "n. (Gallienus)人名；(德)加利努斯",
+    "phonetic": "",
+    "tags": []
+  },
+  "gallimaufry": {
+    "meaning": "n. 杂凑, 搀杂( gallimaufry的名词复数 )",
+    "phonetic": "",
+    "tags": []
+  },
+  "gallize": {
+    "meaning": "v. (=gallize)加水和糖于...",
+    "phonetic": "'^ælәsaiz",
+    "tags": []
+  },
+  "gallivant": {
+    "meaning": "v. 闲逛, 与异性闲荡( gallivant的过去式和过去分词 )",
+    "phonetic": "ˌɡæliˈvæntid",
+    "tags": []
+  },
+  "galizinite": {
+    "meaning": "(galizinite)皓矾",
+    "phonetic": "'^ælizi,nait",
+    "tags": []
+  },
+  "gallocyanine": {
+    "meaning": "(=gallocyanine)氰宁, 花青",
+    "phonetic": "^ælәu'saiәnin",
+    "tags": []
+  },
+  "gallowglass": {
+    "meaning": "n. (=gallowglass)武装随员, 保镖",
+    "phonetic": "'^ælәu,^læs",
+    "tags": []
+  },
+  "galoot": {
+    "meaning": "n. (=galoot)愚笨的人",
+    "phonetic": "^ә'lu:t",
+    "tags": []
+  },
+  "galopade": {
+    "meaning": "n. = galop [亦作 galopade]",
+    "phonetic": ",ɡælə'peɪd",
+    "tags": []
+  },
+  "gallop": {
+    "meaning": "v. （使马）飞奔, 奔驰( gallop的过去式和过去分词 ); 快速做[说]某事",
+    "phonetic": "ˈɡæləpt",
+    "tags": []
+  },
+  "gallopin": {
+    "meaning": "n. (Gallopin)人名；(法)加洛潘",
+    "phonetic": "",
+    "tags": []
+  },
+  "gall": {
+    "meaning": "v. 使…擦痛( gall的第三人称单数 ); 擦伤; 烦扰; 侮辱",
+    "phonetic": "gɔ:lz",
+    "tags": []
+  },
+  "gallstone": {
+    "meaning": "n. 胆（结）石( gallstone的复数形式 )",
+    "phonetic": "'ɡɔ:lstəʊnz",
+    "tags": []
+  },
+  "galligaskins": {
+    "meaning": "[复]n.=galligaskins",
+    "phonetic": ",^æli'^æskinz",
+    "tags": []
+  },
+  "girls": {
+    "meaning": "n. 女孩儿们（gal的复数, 等于girls）",
+    "phonetic": "",
+    "tags": []
+  },
+  "galumph": {
+    "meaning": "v. 意气扬扬地走( galumph的过去式和过去分词 )",
+    "phonetic": "",
+    "tags": []
+  },
+  "galvan": {
+    "meaning": "n. (Galvan)人名；(法、意)加尔万",
+    "phonetic": "",
+    "tags": []
+  },
+  "galvanic": {
+    "meaning": "adv. galvanic的变形",
+    "phonetic": "",
+    "tags": []
+  },
+  "galvanise": {
+    "meaning": "v. 镀锌（galvanise的过去分词）；给…通电",
+    "phonetic": "",
+    "tags": []
+  },
+  "galvanize": {
+    "meaning": "vt. 激励；镀锌；通电流于（等于galvanize）",
+    "phonetic": "'ɡælvənaiz",
+    "tags": []
+  },
+  "galvanoplastics": {
+    "meaning": "a. galvanoplastics的变形",
+    "phonetic": ",ɡælvənəu'plæstik",
+    "tags": []
+  },
+  "galvin": {
+    "meaning": "n. (Galvin)人名；(法)加尔万；(西)加尔温；(英)高尔文",
+    "phonetic": "",
+    "tags": []
+  },
+  "gambado": {
+    "meaning": "n. 马的跳跃, 恶作剧, 乱跳( gambado的名词复数 )",
+    "phonetic": "",
+    "tags": []
+  },
+  "gamble": {
+    "meaning": " [人名] [英格兰人姓氏] 甘伯尔 Gamble的变体; [地名] [美国] 甘伯尔",
+    "phonetic": "",
+    "tags": []
+  },
+  "gambetta": {
+    "meaning": "n. (Gambetta)人名；(法、意、葡)甘贝塔",
+    "phonetic": "",
+    "tags": []
+  },
+  "gambini": {
+    "meaning": "n. (Gambini)人名；(法、意)甘比尼",
+    "phonetic": "",
+    "tags": []
+  },
+  "gambino": {
+    "meaning": "n. (Gambino)人名；(法、西、意、葡、英)甘比诺",
+    "phonetic": "",
+    "tags": []
+  },
+  "gambit": {
+    "meaning": "n. 开局让棋法( gambit的复数形式 ); 策略, 诡计",
+    "phonetic": "ˈɡæmbits",
+    "tags": []
+  },
+  "gambler": {
+    "meaning": "n. 赌博者, 赌徒( gambler的复数形式 )",
+    "phonetic": "ˈgæmbəlz",
+    "tags": []
+  },
+  "gamblin": {
+    "meaning": "n. (Gamblin)人名；(法)冈布兰",
+    "phonetic": "",
+    "tags": []
+  },
+  "gamboge": {
+    "meaning": "a. gamboge的变形",
+    "phonetic": "",
+    "tags": []
+  },
+  "gambol": {
+    "meaning": "v. 蹦跳, 跳跃, 嬉戏( gambol的过去式和过去分词 )",
+    "phonetic": "ˈgæmbəld",
+    "tags": []
+  },
+  "gamekeeper": {
+    "meaning": "n. （私人土地上防止偷猎的）猎场看守人( gamekeeper的复数形式 ); 偷猎者成了猎物保护人; 角色易位的人; 当年造反今天掌权的人",
+    "phonetic": "",
+    "tags": []
+  },
+  "gamesome": {
+    "meaning": "adv. gamesome的变形",
+    "phonetic": "",
+    "tags": []
+  },
+  "gametic": {
+    "meaning": "adv. gametic的变形",
+    "phonetic": "",
+    "tags": []
+  },
+  "gametogenesis": {
+    "meaning": "a. gametogenesis的变形",
+    "phonetic": ",ɡæmi'tɔdʒinəs",
+    "tags": []
+  },
+  "gamine": {
+    "meaning": "(gamine 的复数) [法]女流浪儿, 女顽童, 妖冶的女人",
+    "phonetic": "",
+    "tags": []
+  },
+  "gammadion": {
+    "meaning": "gammadion的复数形",
+    "phonetic": "gæˊmeidiә",
+    "tags": []
+  },
+  "gamma": {
+    "meaning": "n. 希腊字母表的第三个字母( gamma的复数形式 )",
+    "phonetic": "ˈɡæməz",
+    "tags": []
+  },
+  "gammon": {
+    "meaning": "n. 腌猪后腿；胡说\\nvi. 胡说；作假\\nvt. 欺骗；腌\\nint. 胡说八道！\\nn. (Gammon)人名；(英)甘蒙",
+    "phonetic": "'gæmən",
+    "tags": []
+  },
+  "ghent": {
+    "meaning": "<法>=Ghent",
+    "phonetic": "^ɔ:ŋ",
+    "tags": []
+  },
+  "gander": {
+    "meaning": "n. 雄鹅( gander的复数形式 ); 看一看, 瞧一眼",
+    "phonetic": "ˈgændəz",
+    "tags": []
+  },
+  "gandini": {
+    "meaning": "n. (Gandini)人名；(意)甘迪尼",
+    "phonetic": "",
+    "tags": []
+  },
+  "gangbuster": {
+    "meaning": "(gangbuster 的复数) [法] 取缔流氓组织的执法人员",
+    "phonetic": "",
+    "tags": []
+  },
+  "gangsterdom": {
+    "meaning": "n. (=gangsterdom)黑社会, 匪徒及其行为",
+    "phonetic": "'^æŋdәm",
+    "tags": []
+  },
+  "gangplank": {
+    "meaning": "n. （上下船用的）跳板( gangplank的复数形式 )",
+    "phonetic": "ˈgæŋˌplæŋks",
+    "tags": []
+  },
+  "gangrene": {
+    "meaning": "v. 坏疽( gangrene的过去式和过去分词 )",
+    "phonetic": "ˈgæŋˌgri:nd",
+    "tags": []
+  },
+  "gangtokumycin": {
+    "meaning": "(=gangtokumycin)甘托克霉素",
+    "phonetic": "^æŋtә'maisisn",
+    "tags": []
+  },
+  "gangway": {
+    "meaning": "n. 跳板( gangway的复数形式 ); 梯板; 舷梯; 舷门",
+    "phonetic": "ˈgæŋˌweɪz",
+    "tags": []
+  },
+  "gani": {
+    "meaning": "n. (Gani)人名；(法、意、罗、土、布基、阿拉伯、哈萨、塔吉、吉尔、乌兹、阿塞、土库、印尼、英)加尼",
+    "phonetic": "",
+    "tags": []
+  },
+  "ganef": {
+    "meaning": "n. (=ganef)小偷, 扒手",
+    "phonetic": "'^ɑ:nәf",
+    "tags": []
+  },
+  "gauntlet": {
+    "meaning": "n. <古>=gauntlet",
+    "phonetic": "'^æntәlәjp",
+    "tags": []
+  },
+  "gantelope": {
+    "meaning": "n. <古>=gauntlet\\nn. <古>=gantelope",
+    "phonetic": "'^æntlәjp",
+    "tags": []
+  },
+  "gantry": {
+    "meaning": "n. 构台, 桶架( gantry的复数形式 )",
+    "phonetic": "ˈɡæntriz",
+    "tags": []
+  },
+  "ganymedes": {
+    "meaning": "n. 木星的最大卫星；伽倪墨得斯（为众神酌酒的美少年, 等于Ganymedes）；侍童",
+    "phonetic": "'ɡænimi:d",
+    "tags": []
+  },
+  "gaol": {
+    "meaning": "v. 监禁( gaol的过去式和过去分词 )",
+    "phonetic": "dʒeild",
+    "tags": []
+  },
+  "gaoler": {
+    "meaning": "n. <英>狱卒( gaoler的复数形式 )",
+    "phonetic": "ˈdʒeɪlə(r)",
+    "tags": []
+  },
+  "gape": {
+    "meaning": "v. 目瞪口呆地凝视( gape的过去式和过去分词 ); 张开, 张大",
+    "phonetic": "geɪpt",
+    "tags": []
+  },
+  "gapeworm": {
+    "meaning": "n. [用作单数]；【兽病理学】(家禽、鸟类的)张口病, 开嘴症[参见 gapeworm]",
+    "phonetic": "ɡeips",
+    "tags": []
+  },
+  "garage": {
+    "meaning": "vt. 把…送入车库（garage的过去式与过去分词形式）",
+    "phonetic": "",
+    "tags": []
+  },
+  "garam": {
+    "meaning": "n. (Garam)人名；(匈)高劳姆；(芬)加拉姆",
+    "phonetic": "",
+    "tags": []
+  },
+  "garance": {
+    "meaning": "n. (Garance)人名；(法、英)加朗斯",
+    "phonetic": "",
+    "tags": []
+  },
+  "garand": {
+    "meaning": "n. (Garand)人名；(法)加朗；(英)加伦德",
+    "phonetic": "",
+    "tags": []
+  },
+  "garbanzo": {
+    "meaning": "n. 鹰嘴豆( garbanzo的名词复数 )",
+    "phonetic": "ɡɑ:ˈbænzəuz",
+    "tags": []
+  },
+  "garb": {
+    "meaning": "v. <正, 幽>（尤指某类人穿的特定）服装, 衣服, 制服( garb的过去式和过去分词 )",
+    "phonetic": "gɑ:bd",
+    "tags": []
+  },
+  "garble": {
+    "meaning": "vt. 对（事实）歪曲, 对（文章等）断章取义, 窜改（garble的第三人称单数形式）",
+    "phonetic": "",
+    "tags": []
+  },
+  "garbos": {
+    "meaning": "n. [澳] 垃圾工人(复数：garbos)",
+    "phonetic": "'^ɑ:bәj",
+    "tags": []
+  },
+  "gutta": {
+    "meaning": "[网络] 藤黄（Garcinia gummi-gutta）",
+    "phonetic": "",
+    "tags": []
+  },
+  "garcon": {
+    "meaning": "n. <法>侍者（通常用作对餐馆服务员的直接称呼）( garcon的名词复数 ); 男孩; 未婚男子; 男雇员",
+    "phonetic": "ɡɑ:rˈsuŋz",
+    "tags": []
+  },
+  "gardener": {
+    "meaning": "n. 园丁, 园艺爱好者( gardener的名词复数 )",
+    "phonetic": "ˈɡɑ:dnəz",
+    "tags": []
+  },
+  "gardenia": {
+    "meaning": "n. 栀子属植物, 栀子花( gardenia的复数形式 )",
+    "phonetic": "gɑ:ˈdi:njəz",
+    "tags": []
+  },
+  "geary": {
+    "meaning": " [人名] [英格兰人姓氏] 加里 Geary的变体",
+    "phonetic": "",
+    "tags": []
+  },
+  "garfunkel": {
+    "meaning": "n. (Garfunkel)人名；(俄、罗)加尔丰克尔；(西、法)加丰克尔",
+    "phonetic": "",
+    "tags": []
+  },
+  "gargarisma": {
+    "meaning": " [医][=gargarisma]（拉）含漱液，漱口剂",
+    "phonetic": "",
+    "tags": []
+  },
+  "gargan": {
+    "meaning": "n. (Gargan)人名；(法)加尔冈；(英)加根",
+    "phonetic": "",
+    "tags": []
+  },
+  "gargle": {
+    "meaning": "v. 漱, 漱口( gargle的过去式和过去分词 )",
+    "phonetic": "ˈɡɑ:ɡld",
+    "tags": []
+  },
+  "gargoyle": {
+    "meaning": "n. 怪兽状滴水嘴( gargoyle的复数形式 )",
+    "phonetic": "'ɡɑ:ɡɔɪlz",
+    "tags": []
+  },
+  "garibaldi": {
+    "meaning": "n. 宽大衬衫，夹酸栗果酱的饼干( garibaldi的名词复数 )",
+    "phonetic": "",
+    "tags": []
+  },
+  "garland": {
+    "meaning": "v. 花环, 花冠, 花圈( garland的过去式和过去分词 )",
+    "phonetic": "ˈgɑ:ləndid",
+    "tags": []
+  },
+  "garlick": {
+    "meaning": "(garlick 的过去时)  [人名] 加利克",
+    "phonetic": "",
+    "tags": []
+  },
+  "gorman": {
+    "meaning": " [人名] [英格兰人姓氏] 加曼 Gorman的变体",
+    "phonetic": "",
+    "tags": []
+  },
+  "garment": {
+    "meaning": "v. 给…穿衣服（garment的过去式与过去分词形式）",
+    "phonetic": "",
+    "tags": []
+  },
+  "garner": {
+    "meaning": "v. 收集并（通常）贮藏（某物）, 取得, 获得( garner的过去式和过去分词 )",
+    "phonetic": "'ɡɑ:nəd",
+    "tags": []
+  },
+  "garnet": {
+    "meaning": "n. 石榴石( garnet的复数形式 )",
+    "phonetic": "ˈɡɑ:nits",
+    "tags": []
+  },
+  "garnham": {
+    "meaning": "n. (Garnham)人名；(英)加纳姆",
+    "phonetic": "",
+    "tags": []
+  },
+  "garnish": {
+    "meaning": "v. 给（上餐桌的食物）加装饰( garnish的过去式和过去分词 )",
+    "phonetic": "ˈgɑ:nɪʃt",
+    "tags": []
+  },
+  "garnishee": {
+    "meaning": "v. 扣押( garnishee的过去式和过去分词 )",
+    "phonetic": "ˌɡɑ:niˈʃi:d",
+    "tags": []
+  },
+  "garnishment": {
+    "meaning": "n. 装饰，装饰品( garnishment的名词复数 )",
+    "phonetic": "",
+    "tags": []
+  },
+  "garrote": {
+    "meaning": "n. (=garrote)西班牙的绞刑具",
+    "phonetic": "^ә'rɔt",
+    "tags": []
+  },
+  "garotte": {
+    "meaning": "n. 西班牙的绞刑（具） (garotte的变形)",
+    "phonetic": "",
+    "tags": []
+  },
+  "garret": {
+    "meaning": "a. garret的变形",
+    "phonetic": "",
+    "tags": []
+  },
+  "garigue": {
+    "meaning": "<法>n.=garigue",
+    "phonetic": "^ɑ:'ri:^",
+    "tags": []
+  },
+  "garrison": {
+    "meaning": "v. 卫戍部队守备( garrison的过去式和过去分词 ); 派部队驻防",
+    "phonetic": "ˈɡærisnd",
+    "tags": []
+  },
+  "garrity": {
+    "meaning": "n. (Garrity)人名；(英)加里蒂",
+    "phonetic": "",
+    "tags": []
+  },
+  "garrotte": {
+    "meaning": "v. 绞杀( garrotte的过去式和过去分词 )",
+    "phonetic": "ɡəˈrɔtid",
+    "tags": []
+  },
+  "garrulous": {
+    "meaning": "n. 多嘴多舌；喋喋不休；多话；唠叨（原形是garrulous）",
+    "phonetic": "",
+    "tags": []
+  },
+  "garter": {
+    "meaning": "n. 吊袜带( garter的名词复数 )",
+    "phonetic": "ˈɡɑ:təz",
+    "tags": []
+  },
+  "garton": {
+    "meaning": "n. (Garton)人名；(英、葡)加顿",
+    "phonetic": "",
+    "tags": []
+  },
+  "garvin": {
+    "meaning": " [人名] [爱尔兰姓氏] 加文 Garvin的变体; [地名] [保加利亚] 加尔万",
+    "phonetic": "",
+    "tags": []
+  },
+  "garvey": {
+    "meaning": " [人名] [苏格兰人姓氏] 加维 Garvey的变体",
+    "phonetic": "",
+    "tags": []
+  },
+  "guzzler": {
+    "meaning": "(gas-guzzler 的复数)  油老虎",
+    "phonetic": "",
+    "tags": []
+  },
+  "gascony": {
+    "meaning": "<法>=Gascony",
+    "phonetic": "^ɑ:s'kɔnjә",
+    "tags": []
+  },
+  "gasconade": {
+    "meaning": "v. 吹牛( gasconade的过去式和过去分词 )",
+    "phonetic": "ˌɡæskəˈneidid",
+    "tags": []
+  },
+  "gascoigne": {
+    "meaning": " [人名] [英格兰人姓氏] 加斯科因 Gascoigne的变体; [地名] [美国] 加斯科因",
+    "phonetic": "",
+    "tags": []
+  },
+  "gascoyne": {
+    "meaning": "n. (Gascoyne)人名；(英)加斯科因",
+    "phonetic": "",
+    "tags": []
+  },
+  "gase": {
+    "meaning": "n. 硒化镓\\nn. (Gase)人名；(德)加泽",
+    "phonetic": "",
+    "tags": []
+  },
+  "gaselee": {
+    "meaning": "(gaselee 的复数)  [人名] 盖斯利",
+    "phonetic": "",
+    "tags": []
+  },
+  "gash": {
+    "meaning": "v. 划伤, 割破( gash的过去式和过去分词 )",
+    "phonetic": "ɡæʃt",
+    "tags": []
+  },
+  "gasify": {
+    "meaning": "a. 气化的\\nv. 使成为气体, 使气化( gasify的过去式和过去分词 )",
+    "phonetic": "'ɡæsɪfaɪd",
+    "tags": []
+  },
+  "gasifier": {
+    "meaning": "(gasifier 的复数) [机] 气化炉",
+    "phonetic": "",
+    "tags": []
+  },
+  "gasket": {
+    "meaning": "n. 束帆索, 垫圈, 衬垫( gasket的复数形式 )",
+    "phonetic": "ˈɡæskits",
+    "tags": []
+  },
+  "gasman": {
+    "meaning": "n. 煤气工场的工人, 煤气表抄表员, 煤气装配工人( gasman的复数形式 )",
+    "phonetic": "",
+    "tags": []
+  },
+  "gasometer": {
+    "meaning": "n. 贮气器, （储）煤气柜( gasometer的复数形式 )",
+    "phonetic": "",
+    "tags": []
+  },
+  "gasp": {
+    "meaning": "v. 喘气( gasp的过去式和过去分词 ); 喘息; 倒抽气; 很想要",
+    "phonetic": "ɡɑ:spt",
+    "tags": []
+  },
+  "gassendi": {
+    "meaning": "n. (Gassendi)人名；(法)伽桑狄",
+    "phonetic": "",
+    "tags": []
+  },
+  "gasser": {
+    "meaning": " [医]以Johann Laurentius Gasser命名的",
+    "phonetic": "ɡæ'sɪərɪən",
+    "tags": []
+  },
+  "gasset": {
+    "meaning": "n. (Gasset)人名；(法)加塞；(西)加塞特",
+    "phonetic": "",
+    "tags": []
+  },
+  "gassy": {
+    "meaning": "a. 气体的( gassy的比较级 ); 气状的; 含气的; <口>夸夸其谈的",
+    "phonetic": "ˈɡæsiə",
+    "tags": []
+  },
+  "gastight": {
+    "meaning": "n. gastight的变形",
+    "phonetic": "",
+    "tags": []
+  },
+  "gastroenterology": {
+    "meaning": "abbr. gastroenterology 胃肠病学",
+    "phonetic": "ɡæstrəʊen'tərɒl",
+    "tags": []
+  },
+  "gastronomic": {
+    "meaning": "a. (=gastronomic)美食法的, 美食学的",
+    "phonetic": ",^æstrәu'nɔmikәl",
+    "tags": []
+  },
+  "gastrodidymus": {
+    "meaning": "(=gastrodidymus)腹部联胎",
+    "phonetic": ",^æstrә'pæ^әs",
+    "tags": []
+  },
+  "gastroptyxy": {
+    "meaning": "(=gastroptyxy)胃折术",
+    "phonetic": ",^æstrәp'taiksis",
+    "tags": []
+  },
+  "gastrosis": {
+    "meaning": "(=gastrosis)胃病, 胃酸过多",
+    "phonetic": "^æs'trәusiә",
+    "tags": []
+  },
+  "gastrula": {
+    "meaning": "a. gastrula的变形",
+    "phonetic": "",
+    "tags": []
+  },
+  "gateau": {
+    "meaning": "n. 奶油蛋糕( gateau的名词复数 )",
+    "phonetic": "ˈgætəʊ",
+    "tags": []
+  },
+  "gatecrash": {
+    "meaning": "v. 不请自到, 无票入场( gatecrash的过去式和过去分词 )",
+    "phonetic": "",
+    "tags": []
+  },
+  "gatehouse": {
+    "meaning": "n. 警卫室, 门房( gatehouse的复数形式 )",
+    "phonetic": "ˈgeɪtˌhaʊsiz",
+    "tags": []
+  },
+  "gatekeeper": {
+    "meaning": "n. 看门人( gatekeeper的复数形式 )",
+    "phonetic": "ˈɡeitˌki:pəz",
+    "tags": []
+  },
+  "gatepost": {
+    "meaning": "n. 门柱( gatepost的复数形式 )",
+    "phonetic": "",
+    "tags": []
+  },
+  "gather": {
+    "meaning": "v. （使）聚集（ gather的过去式和过去分词 ）; 集合; 推断; 了解",
+    "phonetic": "'gaðəd",
+    "tags": []
+  },
+  "gathering": {
+    "meaning": "n. 聚集( gathering的复数形式 ); 收集; 采集; 搜集",
+    "phonetic": "'ɡæðərɪŋz",
+    "tags": []
+  },
+  "gatlin": {
+    "meaning": "n. 加特林（人名）\\nn. (Gatlin)人名；(英)加特林",
+    "phonetic": "",
+    "tags": []
+  },
+  "gator": {
+    "meaning": "n. 短吻鳄( gator的复数形式 )",
+    "phonetic": "",
+    "tags": []
+  },
+  "gauche": {
+    "meaning": "adv. gauche的变形",
+    "phonetic": "",
+    "tags": []
+  },
+  "gaucho": {
+    "meaning": "n. 南美牧人( gaucho的名词复数 )",
+    "phonetic": "ˈɡautʃəuz",
+    "tags": []
+  },
+  "gaudy": {
+    "meaning": "a. 花哨的, 俗气的( gaudy的比较级 )",
+    "phonetic": "ˈgɔ:di:ə",
+    "tags": []
+  },
+  "goffering": {
+    "meaning": "n. =goffering",
+    "phonetic": "'ɡɔ:fəriŋ",
+    "tags": []
+  },
+  "gauguin": {
+    "meaning": "(Gauguin 的复数) 高更（人名）",
+    "phonetic": "",
+    "tags": []
+  },
+  "gauleiter": {
+    "meaning": "(Gauleiter 的复数) (纳粹德国的)省长, 地方长官",
+    "phonetic": "",
+    "tags": []
+  },
+  "gaultier": {
+    "meaning": "n. (Gaultier)人名；(法)戈尔捷",
+    "phonetic": "",
+    "tags": []
+  },
+  "gaussian": {
+    "meaning": "(Gaussian 的复数) [计] 高斯",
+    "phonetic": "",
+    "tags": []
+  },
+  "galt": {
+    "meaning": " [人名] [英格兰人姓氏] 高特 Galt的变体",
+    "phonetic": "",
+    "tags": []
+  },
+  "gauthier": {
+    "meaning": "n. (Gauthier)人名；(英)高蒂尔；(法)戈捷",
+    "phonetic": "",
+    "tags": []
+  },
+  "gavin": {
+    "meaning": " [人名] [英格兰人姓氏] 高文 Gavin的变体",
+    "phonetic": "",
+    "tags": []
+  },
+  "gavel": {
+    "meaning": "n. （拍卖商、会议主席或法官用的）小木槌( gavel的复数形式 )",
+    "phonetic": "ˈgævəlz",
+    "tags": []
+  },
+  "gavrilo": {
+    "meaning": "n. (Gavrilo)人名；(俄、塞)加夫里洛",
+    "phonetic": "",
+    "tags": []
+  },
+  "gawk": {
+    "meaning": "v. 呆呆地看着( gawk的过去式和过去分词 )",
+    "phonetic": "ɡɔ:kt",
+    "tags": []
+  },
+  "gawky": {
+    "meaning": "a. 笨拙的, 鲁钝的 (gawky的变形)",
+    "phonetic": "",
+    "tags": []
+  },
+  "gawkish": {
+    "meaning": "adv. gawkish的变形",
+    "phonetic": "",
+    "tags": []
+  },
+  "gawp": {
+    "meaning": "v. 直瞪瞪地注视( gawp的过去式和过去分词 )",
+    "phonetic": "ɡɔ:pt",
+    "tags": []
+  },
+  "gay": {
+    "meaning": "盖伊（Gay的变体, 人名）",
+    "phonetic": "",
+    "tags": []
+  },
+  "gayety": {
+    "meaning": "n. 快乐( gayety的名词复数 ); 高兴; 作乐; 花哨",
+    "phonetic": "'ɡeɪtaɪz",
+    "tags": []
+  },
+  "gale": {
+    "meaning": " [人名] [英格兰人姓氏] 盖勒 Gale的变体",
+    "phonetic": "",
+    "tags": []
+  },
+  "gaze": {
+    "meaning": "v. 凝视, 注视( gaze的过去式和过去分词 )",
+    "phonetic": "ɡeizd",
+    "tags": []
+  },
+  "gazelle": {
+    "meaning": "n. 羚羊（ gazelle的复数形式 ）",
+    "phonetic": "gəˈzelz",
+    "tags": []
+  },
+  "gazet": {
+    "meaning": "n. (Gazet)人名；(法)加泽",
+    "phonetic": "",
+    "tags": []
+  },
+  "gazeta": {
+    "meaning": "n. (Gazeta)人名；(波)加泽塔",
+    "phonetic": "",
+    "tags": []
+  },
+  "gazette": {
+    "meaning": "在公报上发表\\n在公报上宣布…的任命(gazette的过去式)",
+    "phonetic": "",
+    "tags": []
+  },
+  "gazi": {
+    "meaning": "n. (Gazi)人名；(意、土、孟)加齐",
+    "phonetic": "",
+    "tags": []
+  },
+  "gazillion": {
+    "meaning": "n. 极大量 (gazillion的变形)",
+    "phonetic": "",
+    "tags": []
+  },
+  "gazpachos": {
+    "meaning": "n. gazpachos 西班牙凉菜汤",
+    "phonetic": "^ɑ:z'pɑ:tʃәu; ^ɑ:θ'pɑ:tʃә u",
+    "tags": []
+  },
+  "gazump": {
+    "meaning": "v. 房价谈妥后又抬价改售给( gazump的过去式和过去分词 )",
+    "phonetic": "",
+    "tags": []
+  },
+  "gazza": {
+    "meaning": "n. (Gazza)人名；(意)加扎；(阿拉伯)加沙",
+    "phonetic": "",
+    "tags": []
+  },
+  "gazetteer": {
+    "meaning": "abbr. gazette；gazetteer",
+    "phonetic": "",
+    "tags": []
+  },
+  "glioblastoma": {
+    "meaning": " [医][=glioblastoma]成胶质细胞瘤，恶性胶质瘤",
+    "phonetic": "d'ʒi:b'i:'em",
+    "tags": []
+  },
+  "gbyte": {
+    "meaning": "(Gbyte 的复数) [计] 千兆字节",
+    "phonetic": "",
+    "tags": []
+  },
+  "glucocorticosteroids": {
+    "meaning": "abbr. Glasgow coma scores 格拉斯哥昏迷打分; glucocorticosteroids 糖皮质激素",
+    "phonetic": "",
+    "tags": []
+  },
+  "gdynia": {
+    "meaning": "<德>=Gdynia",
+    "phonetic": "^ә'diŋәn",
+    "tags": []
+  },
+  "gdp": {
+    "meaning": "(GDP 的复数) [化] 鸟苷二磷酸",
+    "phonetic": "",
+    "tags": []
+  },
+  "gearbox": {
+    "meaning": "n. 变速箱, 变速器( gearbox的复数形式 )",
+    "phonetic": "ˈɡiəbɔksiz",
+    "tags": []
+  },
+  "gearchange": {
+    "meaning": "(gearchange 的复数) 变速杆",
+    "phonetic": "",
+    "tags": []
+  },
+  "gearshift": {
+    "meaning": "n. 变速排档( gearshift的复数形式 )",
+    "phonetic": "ˈgɪəˌʃɪfts",
+    "tags": []
+  },
+  "geat": {
+    "meaning": "a. Geat的变形",
+    "phonetic": "",
+    "tags": []
+  },
+  "gebang": {
+    "meaning": "[网络] gebang掌",
+    "phonetic": "",
+    "tags": []
+  },
+  "gebhardt": {
+    "meaning": "n. (Gebhardt)人名；(法)格巴尔；(英、德)格布哈特",
+    "phonetic": "",
+    "tags": []
+  },
+  "gecko": {
+    "meaning": "n. 壁虎( gecko的名词复数 )",
+    "phonetic": "ˈɡekəuz",
+    "tags": []
+  },
+  "geddes": {
+    "meaning": "n. (Geddes)人名；(英)格迪斯；(西)赫德斯",
+    "phonetic": "",
+    "tags": []
+  },
+  "geddy": {
+    "meaning": "n. (Geddy)人名；(英)格迪",
+    "phonetic": "",
+    "tags": []
+  },
+  "gedge": {
+    "meaning": "(gedge 的复数)  [人名] 格奇",
+    "phonetic": "",
+    "tags": []
+  },
+  "gewgaw": {
+    "meaning": "a. 虚华而无价值的（等于gewgaw）",
+    "phonetic": "'dʒi:ɡɔ:",
+    "tags": []
+  },
+  "gee": {
+    "meaning": " 驭马快走或向右(gee的过去式, 过去分词)",
+    "phonetic": "dʒi:d",
+    "tags": []
+  },
+  "geek": {
+    "meaning": "n. [俚语]奇葩（指反常的人, 畸形人, 野人, 现也指智力超群, 善于钻研但不懂与人交往的学者或知识分子）；奇客（geek的复数形式）",
+    "phonetic": "",
+    "tags": []
+  },
+  "geezer": {
+    "meaning": "n. 人, 老头儿( geezer的复数形式 )",
+    "phonetic": "ˈɡi:zəz",
+    "tags": []
+  },
+  "gehry": {
+    "meaning": "n. (Gehry)人名；(英)格里",
+    "phonetic": "",
+    "tags": []
+  },
+  "geir": {
+    "meaning": "n. (Geir)人名；(葡)热尔；(冰)吉尔；(挪)盖尔",
+    "phonetic": "",
+    "tags": []
+  },
+  "geisha": {
+    "meaning": "n. <日>艺妓, 歌妓( geisha的复数形式 )",
+    "phonetic": "ˈɡeiʃəz",
+    "tags": []
+  },
+  "geissler": {
+    "meaning": " 盖斯勒\\nn. (Geissler)人名；(英、德、捷)盖斯勒",
+    "phonetic": "",
+    "tags": []
+  },
+  "gekko": {
+    "meaning": "(gekko 的复数) 蛤蚧",
+    "phonetic": "",
+    "tags": []
+  },
+  "gelatine": {
+    "meaning": "n. 胶质, 白明胶( gelatine的复数形式 )",
+    "phonetic": "ˈdʒelətinz",
+    "tags": []
+  },
+  "gelatinous": {
+    "meaning": "adv. gelatinous的变形",
+    "phonetic": "",
+    "tags": []
+  },
+  "gelcoat": {
+    "meaning": "(gelcoat 的复数)  凝胶漆",
+    "phonetic": "",
+    "tags": []
+  },
+  "geldart": {
+    "meaning": " [人名] [英格兰人姓氏] 格尔达德 Geldart的变体",
+    "phonetic": "",
+    "tags": []
+  },
+  "gelding": {
+    "meaning": "n. 阉割过的动物( gelding的复数形式 )",
+    "phonetic": "ˈɡeldiŋz",
+    "tags": []
+  },
+  "geldof": {
+    "meaning": "n. (Geldof)人名；(英、法)格尔多夫",
+    "phonetic": "",
+    "tags": []
+  },
+  "geld": {
+    "meaning": "vt. 阉割（动物）, 给动物去势或割除卵巢（geld的第三人称单数形式）",
+    "phonetic": "",
+    "tags": []
+  },
+  "gossypiella": {
+    "meaning": "[网络] 禾本科（Gelechia gossypiella）",
+    "phonetic": "",
+    "tags": []
+  },
+  "gallipoli": {
+    "meaning": "n. 盖利博卢半岛（土耳其港市, 等于Gallipoli）",
+    "phonetic": ",ɡeli:bəu'lu:",
+    "tags": []
+  },
+  "gelid": {
+    "meaning": "adv. gelid的变形",
+    "phonetic": "",
+    "tags": []
+  },
+  "gelant": {
+    "meaning": "n. 胶凝剂(亦作gelant)",
+    "phonetic": "'dʒelәnt",
+    "tags": []
+  },
+  "gellner": {
+    "meaning": "n. (Gellner)人名；(德、罗)格尔纳；(瑞典)耶尔纳；(英)盖尔纳",
+    "phonetic": "",
+    "tags": []
+  },
+  "gelignite": {
+    "meaning": "n. <俚>=gelignite",
+    "phonetic": "'dʒeli",
+    "tags": []
+  },
+  "gel": {
+    "meaning": "n. 凝胶剂；定型发胶（gel的复数）",
+    "phonetic": "",
+    "tags": []
+  },
+  "gemara": {
+    "meaning": "a. Gemara的变形",
+    "phonetic": "",
+    "tags": []
+  },
+  "gemini": {
+    "meaning": "n. 双子宫，双子（星）座( Gemini的名词复数 )",
+    "phonetic": "",
+    "tags": []
+  },
+  "gemma": {
+    "meaning": "n. 胞芽( gemma的名词复数 ); [医]芽, 分子团",
+    "phonetic": "d'ʒemi:",
+    "tags": []
+  },
+  "gentleman": {
+    "meaning": "n. <俚>=gentleman",
+    "phonetic": "'dʒemәn",
+    "tags": []
+  },
+  "gemmate": {
+    "meaning": "v. 发芽( gemmate的过去式和过去分词 )",
+    "phonetic": "",
+    "tags": []
+  },
+  "gem": {
+    "meaning": "v. 点缀（gem的过去式与过去分词形式）",
+    "phonetic": "",
+    "tags": []
+  },
+  "gemmy": {
+    "meaning": "n. gemmy的变形",
+    "phonetic": "",
+    "tags": []
+  },
+  "gemmiparous": {
+    "meaning": "n. gemmiparous的变形",
+    "phonetic": "",
+    "tags": []
+  },
+  "gemsbok": {
+    "meaning": "n. 南非产的大羚羊的一种( gemsbok的名词复数 )",
+    "phonetic": "",
+    "tags": []
+  },
+  "gemstone": {
+    "meaning": "n. 经雕琢的宝石( gemstone的复数形式 )",
+    "phonetic": "d'ʒemstəʊnz",
+    "tags": []
+  },
+  "gendarme": {
+    "meaning": "n. 宪兵, 警官( gendarme的名词复数 )",
+    "phonetic": "ˈʒɑ:ndɑ:mz",
+    "tags": []
+  },
+  "genderless": {
+    "meaning": "n. 性；性别；性交\\nvt. 生（过去式gendered, 过去分词gendered, 现在分词gendering, 第三人称单数genders, 形容词genderless）",
+    "phonetic": "'dʒendə",
+    "tags": []
+  },
+  "gender": {
+    "meaning": "n. <语>性某些语言的（阳性、阴性和中性, 不同的性有不同的词尾等）( gender的复数形式 ); 性别; 某些语言的（名词、代词和形容词）性的区分",
+    "phonetic": "ˈdʒendəz",
+    "tags": []
+  },
+  "genealogical": {
+    "meaning": "adv. genealogical的变形",
+    "phonetic": "",
+    "tags": []
+  },
+  "genealogy": {
+    "meaning": "n. 系谱, 家系, 宗谱( genealogy的名词复数 )",
+    "phonetic": "ˌdʒi:niˈælədʒiz",
+    "tags": []
+  },
+  "generable": {
+    "meaning": "n. generable的变形",
+    "phonetic": "'dʒenərəbiliti",
+    "tags": []
+  },
+  "gatt": {
+    "meaning": "[贸易][税收] 关税及贸易总协定（缩写为GATT）",
+    "phonetic": "",
+    "tags": []
+  },
+  "generalizable": {
+    "meaning": "a. 可归纳的；可概括的（参见generalizable）",
+    "phonetic": "",
+    "tags": []
+  },
+  "generalissimo": {
+    "meaning": "n. 大元帅, 最高统帅( generalissimo的复数形式 )",
+    "phonetic": "ˌdʒenərəˈlisiməuz",
+    "tags": []
+  },
+  "generality": {
+    "meaning": "n. 概括性的话( generality的名词复数 ); 一般性; 大多数",
+    "phonetic": "ˌdʒenəˈrælɪti:z",
+    "tags": []
+  },
+  "generalization": {
+    "meaning": "n. 一般化( generalization的复数形式 ); 普通化; 归纳; 概论",
+    "phonetic": "ˌdʒenərəlɪˈzeɪʃənz",
+    "tags": []
+  },
+  "generalize": {
+    "meaning": "n. generalize的变形",
+    "phonetic": "",
+    "tags": []
+  },
+  "generate": {
+    "meaning": "v. 生（儿、女）( generate的第三人称单数 ); （通过物理或化学过程）发生; 生成; 引起",
+    "phonetic": "ˈdʒenəreits",
+    "tags": []
+  },
+  "generative": {
+    "meaning": "adv. generative（生殖的，生育的）的变形",
+    "phonetic": "'dʒenərətivli",
+    "tags": []
+  },
+  "generatrix": {
+    "meaning": "n. 母点, 母面, 母线( generatrix的名词复数 )",
+    "phonetic": "ˈdʒenəreitriksiz",
+    "tags": []
+  },
+  "generic": {
+    "meaning": "n. generic的变形",
+    "phonetic": "",
+    "tags": []
+  },
+  "geneticist": {
+    "meaning": "n. 遗传学者( geneticist的复数形式 )",
+    "phonetic": "dʒiˈnetisists",
+    "tags": []
+  },
+  "geneva": {
+    "meaning": "<德>=Geneva",
+    "phonetic": "^enf",
+    "tags": []
+  },
+  "genialize": {
+    "meaning": "vt.<主英>=genialize",
+    "phonetic": "'dʒi:njәlaiz",
+    "tags": []
+  },
+  "genial": {
+    "meaning": "n. genial的变形",
+    "phonetic": "",
+    "tags": []
+  },
+  "genie": {
+    "meaning": "n. （阿拉伯神话故事中的）神怪, 妖怪( genie的复数形式 ); （形容将对人们的生活造成永久性的、尤指负面影响的事件已经发生）妖怪已经放出魔瓶了",
+    "phonetic": "ˈdʒi:ni:z",
+    "tags": []
+  },
+  "genio": {
+    "meaning": "n. (Genio)人名；(意)杰尼奥",
+    "phonetic": "",
+    "tags": []
+  },
+  "genitalia": {
+    "meaning": "a. genitalia的变形",
+    "phonetic": "",
+    "tags": []
+  },
+  "genital": {
+    "meaning": "adv. genital（生殖的, 生殖器的）的变形",
+    "phonetic": "'dʒenitl",
+    "tags": []
+  },
+  "genitival": {
+    "meaning": "adv. genitival的变形",
+    "phonetic": "",
+    "tags": []
+  },
+  "gennady": {
+    "meaning": "n. (Gennady)人名；(俄)根纳季",
+    "phonetic": "",
+    "tags": []
+  },
+  "gennaro": {
+    "meaning": "n. (Gennaro)人名；(意)真纳罗；(法)热纳罗",
+    "phonetic": "",
+    "tags": []
+  },
+  "genogram": {
+    "meaning": " 家谱图（genogram的名词复数）",
+    "phonetic": "",
+    "tags": []
+  },
+  "genome": {
+    "meaning": "n. 基因组, 染色体组( genome的复数形式 )",
+    "phonetic": "d'ʒənəmz",
+    "tags": []
+  },
+  "genonemata": {
+    "meaning": "(pl. genonemata)基因线",
+    "phonetic": ",dʒi:nә'ni:mә",
+    "tags": []
+  },
+  "genotype": {
+    "meaning": "adv. genotype的变形",
+    "phonetic": "",
+    "tags": []
+  },
+  "genoa": {
+    "meaning": "n. 热那亚（意大利一城市名, 等于Genoa）",
+    "phonetic": "'dʒenəvə",
+    "tags": []
+  },
+  "genoese": {
+    "meaning": "a. (=Genoese)热那亚(人)的",
+    "phonetic": ",dʒenә'vi:z",
+    "tags": []
+  },
+  "genre": {
+    "meaning": "n. <法>（文学、艺术等的）类型, 体裁, 风格( genre的复数形式 )",
+    "phonetic": "'ʒɑ:nrəz",
+    "tags": []
+  },
+  "gaiseric": {
+    "meaning": "金塞里克(约390～477)，汪达尔人国王(427～477)；北非和罗马的征服者[亦作 Gaiseric]",
+    "phonetic": "'ɡensərik",
+    "tags": []
+  },
+  "genta": {
+    "meaning": "n. (Genta)人名；(意)真塔；(西)亨塔；(英)金塔；(日)源太(名)",
+    "phonetic": "",
+    "tags": []
+  },
+  "genteel": {
+    "meaning": "n. genteel的变形",
+    "phonetic": "",
+    "tags": []
+  },
+  "gentianaceae": {
+    "meaning": "【植物】龙胆科(Gentianaceae)",
+    "phonetic": "",
+    "tags": []
+  },
+  "gentile": {
+    "meaning": "n. 非犹太人, 异教徒（gentile的复数形式）",
+    "phonetic": "'dʒentaɪlz",
+    "tags": []
+  },
+  "gentileschi": {
+    "meaning": "n. (Gentileschi)人名；(意)真蒂莱斯基",
+    "phonetic": "",
+    "tags": []
+  },
+  "gentlemanly": {
+    "meaning": "n. gentlemanly的变形",
+    "phonetic": "",
+    "tags": []
+  },
+  "gentlewoman": {
+    "meaning": "n. 女士( gentlewoman的名词复数 )",
+    "phonetic": "",
+    "tags": []
+  },
+  "gentrify": {
+    "meaning": "v. （使）中产阶级化( gentrify的过去式和过去分词 )",
+    "phonetic": "ˈdʒentrifaid",
+    "tags": []
+  },
+  "genuflect": {
+    "meaning": "v. 屈膝（尤指宗教礼节中）( genuflect的过去式和过去分词 )",
+    "phonetic": "ˈdʒenjəˌflektid",
+    "tags": []
+  },
+  "gadus": {
+    "meaning": "[网络] Gadus属",
+    "phonetic": "",
+    "tags": []
+  },
+  "galax": {
+    "meaning": "[网络] Galax属",
+    "phonetic": "",
+    "tags": []
+  },
+  "galega": {
+    "meaning": "[网络] Galega属",
+    "phonetic": "",
+    "tags": []
+  },
+  "galeopsis": {
+    "meaning": "[网络] Galeopsis属",
+    "phonetic": "",
+    "tags": []
+  },
+  "galeorhinus": {
+    "meaning": "[网络] Galeorhinus属",
+    "phonetic": "",
+    "tags": []
+  },
+  "galictis": {
+    "meaning": "[网络] Galictis属",
+    "phonetic": "",
+    "tags": []
+  },
+  "galleria": {
+    "meaning": "[网络] 属Galleria",
+    "phonetic": "",
+    "tags": []
+  },
+  "gasterophilus": {
+    "meaning": "[网络] Gasterophilus属",
+    "phonetic": "",
+    "tags": []
+  },
+  "gastroboletus": {
+    "meaning": "[网络] Gastroboletus属",
+    "phonetic": "",
+    "tags": []
+  },
+  "gastrocybe": {
+    "meaning": "[网络] Gastrocybe属",
+    "phonetic": "",
+    "tags": []
+  },
+  "gastrolobium": {
+    "meaning": "[网络] Gastrolobium属",
+    "phonetic": "",
+    "tags": []
+  },
+  "gastrophryne": {
+    "meaning": "[网络] Gastrophryne属",
+    "phonetic": "",
+    "tags": []
+  },
+  "gaultheria": {
+    "meaning": "[网络] Gaultheria属",
+    "phonetic": "",
+    "tags": []
+  },
+  "gavialis": {
+    "meaning": "[网络] Gavialis属",
+    "phonetic": "",
+    "tags": []
+  },
+  "gaylussacia": {
+    "meaning": "[网络] 盖伊亚属（Gaylussacia）",
+    "phonetic": "",
+    "tags": []
+  },
+  "gazania": {
+    "meaning": "[网络] Gazania属",
+    "phonetic": "",
+    "tags": []
+  },
+  "gelsemium": {
+    "meaning": "[网络] Gelsemium属",
+    "phonetic": "",
+    "tags": []
+  },
+  "genetta": {
+    "meaning": "[网络] Genetta属",
+    "phonetic": "",
+    "tags": []
+  },
+  "genipa": {
+    "meaning": "[网络] Genipa属",
+    "phonetic": "",
+    "tags": []
+  },
+  "gen": {
+    "meaning": "[网络] Gen gen gen",
+    "phonetic": "",
+    "tags": []
+  },
+  "genlisea": {
+    "meaning": "[网络] Genlisea属",
+    "phonetic": "",
+    "tags": []
+  },
+  "genyonemus": {
+    "meaning": "[网络] Genyonemus属",
+    "phonetic": "",
+    "tags": []
+  },
+  "geococcyx": {
+    "meaning": "[网络] 地球菌属（Geococcyx）",
+    "phonetic": "",
+    "tags": []
+  },
+  "geoffroea": {
+    "meaning": "[网络] Geoffroea属",
+    "phonetic": "",
+    "tags": []
+  },
+  "geoglossum": {
+    "meaning": "[网络] 属Geoglossum",
+    "phonetic": "",
+    "tags": []
+  },
+  "geophilus": {
+    "meaning": "[网络] Geophilus属",
+    "phonetic": "",
+    "tags": []
+  },
+  "geothlypis": {
+    "meaning": "[网络] Geothlypis属",
+    "phonetic": "",
+    "tags": []
+  },
+  "gerbillus": {
+    "meaning": "[网络] Gerbillus属",
+    "phonetic": "",
+    "tags": []
+  },
+  "gerres": {
+    "meaning": "[网络] Gerres属",
+    "phonetic": "",
+    "tags": []
+  },
+  "gerrhonotus": {
+    "meaning": "[网络] Gerrhonotus属",
+    "phonetic": "",
+    "tags": []
+  },
+  "gesneria": {
+    "meaning": "[网络] Gesneria属",
+    "phonetic": "",
+    "tags": []
+  },
+  "ghingmostoma": {
+    "meaning": "[网络] Ghingmostoma属",
+    "phonetic": "",
+    "tags": []
+  },
+  "glareola": {
+    "meaning": "[网络] Glareola属",
+    "phonetic": "",
+    "tags": []
+  },
+  "glaucium": {
+    "meaning": "[网络] Glaucium属",
+    "phonetic": "",
+    "tags": []
+  },
+  "glaux": {
+    "meaning": "[网络] Glaux属",
+    "phonetic": "",
+    "tags": []
+  },
+  "glechoma": {
+    "meaning": "[网络] Glechoma属",
+    "phonetic": "",
+    "tags": []
+  },
+  "gleditsia": {
+    "meaning": "[网络] Gleditsia属",
+    "phonetic": "",
+    "tags": []
+  },
+  "gleichenia": {
+    "meaning": "[网络] Gleichenia属",
+    "phonetic": "",
+    "tags": []
+  },
+  "globicephala": {
+    "meaning": "[网络] Globicephala属",
+    "phonetic": "",
+    "tags": []
+  },
+  "gloriosa": {
+    "meaning": "[网络] Gloriosa属",
+    "phonetic": "",
+    "tags": []
+  },
+  "glossina": {
+    "meaning": "[网络] Glossina属",
+    "phonetic": "",
+    "tags": []
+  },
+  "glossopsitta": {
+    "meaning": "[网络] Glossopsitta属",
+    "phonetic": "",
+    "tags": []
+  },
+  "glycyrrhiza": {
+    "meaning": "[网络] 甘草属（Glycyrrhiza）",
+    "phonetic": "",
+    "tags": []
+  },
+  "gnetum": {
+    "meaning": "[网络] Gnetum属",
+    "phonetic": "",
+    "tags": []
+  },
+  "gomphotherium": {
+    "meaning": "[网络] Gomphotherium属",
+    "phonetic": "",
+    "tags": []
+  },
+  "gomphrena": {
+    "meaning": "[网络] Gomphrena属",
+    "phonetic": "",
+    "tags": []
+  },
+  "gonorhynchus": {
+    "meaning": "[网络] Gonorhynchus属",
+    "phonetic": "",
+    "tags": []
+  },
+  "gorgonocephalus": {
+    "meaning": "[网络] Gorgonocephalus属",
+    "phonetic": "",
+    "tags": []
+  },
+  "grammatophyllum": {
+    "meaning": "[网络] Grammatophyllum属",
+    "phonetic": "",
+    "tags": []
+  },
+  "graptophyllum": {
+    "meaning": "[网络] Graptophyllum属",
+    "phonetic": "",
+    "tags": []
+  },
+  "grevillea": {
+    "meaning": "[网络] Grevillea属",
+    "phonetic": "",
+    "tags": []
+  },
+  "grewia": {
+    "meaning": "[网络] Grewia属",
+    "phonetic": "",
+    "tags": []
+  },
+  "grias": {
+    "meaning": "[网络] Grias属",
+    "phonetic": "",
+    "tags": []
+  },
+  "griselinia": {
+    "meaning": "[网络] Griselinia属",
+    "phonetic": "",
+    "tags": []
+  },
+  "grison": {
+    "meaning": "[网络] 属Grison",
+    "phonetic": "",
+    "tags": []
+  },
+  "guaiacum": {
+    "meaning": "[网络] Guaiacum属",
+    "phonetic": "",
+    "tags": []
+  },
+  "guevina": {
+    "meaning": "[网络] Guevina属",
+    "phonetic": "",
+    "tags": []
+  },
+  "gymnocladus": {
+    "meaning": "[网络] 属于Gymnocladus属",
+    "phonetic": "",
+    "tags": []
+  },
+  "gymnosporangium": {
+    "meaning": "[网络] 属Gymnosporangium属",
+    "phonetic": "",
+    "tags": []
+  },
+  "gymnura": {
+    "meaning": "[网络] 属性Gymnura",
+    "phonetic": "",
+    "tags": []
+  },
+  "gypaetus": {
+    "meaning": "[网络] Gypaetus属",
+    "phonetic": "",
+    "tags": []
+  },
+  "gyromitra": {
+    "meaning": "[网络] Gyromitra属",
+    "phonetic": "",
+    "tags": []
+  },
+  "geobotany": {
+    "meaning": "a. geobotany的变形",
+    "phonetic": ",dʒi:əubə'tænik",
+    "tags": []
+  },
+  "geocentric": {
+    "meaning": "adv. geocentric的变形",
+    "phonetic": "",
+    "tags": []
+  },
+  "geocentricism": {
+    "meaning": "n. (=geocentricism)地球中心说",
+    "phonetic": ",dʒi:әjsen'trisәti",
+    "tags": []
+  },
+  "geochronology": {
+    "meaning": "a. geochronology（地质年代学）的变形",
+    "phonetic": "'dʒi（:）əu,krɔnə'lɔdʒikəl",
+    "tags": []
+  },
+  "geochronometry": {
+    "meaning": "adj. geochronometry的变形",
+    "phonetic": ",dʒi:əu,krɔnəu'metrik",
+    "tags": []
+  },
+  "geoffroy": {
+    "meaning": "abbr. Geoffrey 杰弗利（男子名）; Geoffroy 杰弗罗依（男子名）",
+    "phonetic": "",
+    "tags": []
+  },
+  "geoghegan": {
+    "meaning": "n. (Geoghegan)人名；(英)盖根",
+    "phonetic": "",
+    "tags": []
+  },
+  "geognosy": {
+    "meaning": "n. 地球构造学；地质学；岩石学 (geognosy的变形)",
+    "phonetic": "",
+    "tags": []
+  },
+  "geographer": {
+    "meaning": "n. 地理学家( geographer的复数形式 )",
+    "phonetic": "dʒiˈɔgrəfəz",
+    "tags": []
+  },
+  "geohydrology": {
+    "meaning": "adj. geohydrology的变形",
+    "phonetic": "",
+    "tags": []
+  },
+  "geoid": {
+    "meaning": "n. 大地水准面 (geoid的变形)",
+    "phonetic": "",
+    "tags": []
+  },
+  "geologist": {
+    "meaning": "abbr. geology 地质; geologic 地质（学）的; geological 地质（学）的; geologi or geologisk (Dano-Norwegian=geology or geologist) （丹麦-挪威语）地质学或地质学家",
+    "phonetic": "",
+    "tags": []
+  },
+  "geologize": {
+    "meaning": "v. 研究地质, 调查地质( geologize的过去式和过去分词 )",
+    "phonetic": "",
+    "tags": []
+  },
+  "geometrician": {
+    "meaning": "abbr. geometry 几何学; geometric 几何学的; geometer 几何学家; geometrician 几何学家",
+    "phonetic": "d'ʒəʊm",
+    "tags": []
+  },
+  "geomatics": {
+    "meaning": "adj. geomatics的变形",
+    "phonetic": "",
+    "tags": []
+  },
+  "geometrize": {
+    "meaning": "v. <主英>=geometrize",
+    "phonetic": "dʒi'ɔmitraiz",
+    "tags": []
+  },
+  "geomyoid": {
+    "meaning": "(=geomyoid)衣囊鼠",
+    "phonetic": ",dʒi:әu'maiid",
+    "tags": []
+  },
+  "geophysicist": {
+    "meaning": "n. 地球物理学者( geophysicist的复数形式 )",
+    "phonetic": "",
+    "tags": []
+  },
+  "geophyte": {
+    "meaning": "a. geophyte的变形",
+    "phonetic": "",
+    "tags": []
+  },
+  "georgi": {
+    "meaning": "n. (Georgi)人名；(瑞典)耶奥伊；(罗)杰奥尔吉；(德、塞、保、捷、俄、格鲁)格奥尔基",
+    "phonetic": "",
+    "tags": []
+  },
+  "georgiade": {
+    "meaning": "(georgiade 的复数)  [人名] 乔治亚德",
+    "phonetic": "",
+    "tags": []
+  },
+  "georgio": {
+    "meaning": "n. (Georgio)人名；(希)乔治",
+    "phonetic": "",
+    "tags": []
+  },
+  "geoscientist": {
+    "meaning": "(geoscientist 的复数) 地球学家",
+    "phonetic": "",
+    "tags": []
+  },
+  "geostrophic": {
+    "meaning": "adv. geostrophic的变形",
+    "phonetic": "",
+    "tags": []
+  },
+  "geosystem": {
+    "meaning": "(geosystem 的复数)  地理系统",
+    "phonetic": "",
+    "tags": []
+  },
+  "geotectonic": {
+    "meaning": "adv. geotectonic的变形",
+    "phonetic": "",
+    "tags": []
+  },
+  "geotextile": {
+    "meaning": "(geotextile 的复数)  土工织物",
+    "phonetic": "",
+    "tags": []
+  },
+  "geothermal": {
+    "meaning": "adv. geothermal的变形",
+    "phonetic": "",
+    "tags": []
+  },
+  "geotropic": {
+    "meaning": "adv. geotropic的变形",
+    "phonetic": "",
+    "tags": []
+  },
+  "geratology": {
+    "meaning": "abbr. geratologic(al)(ly) 老年医学的（地）; geratologist 老年医学家; geratology 老年医学",
+    "phonetic": "'ɡeirɑ:",
+    "tags": []
+  },
+  "geraldo": {
+    "meaning": "n. (Geraldo)人名；(葡)热拉尔多",
+    "phonetic": "",
+    "tags": []
+  },
+  "gerald": {
+    "meaning": "n. 杰勒德（男子名, Gerald的异体）",
+    "phonetic": "'dʒerɑ:d,dʒә'rɑ:d",
+    "tags": []
+  },
+  "gerardo": {
+    "meaning": "n. (Gerardo)人名；(法、葡)热拉尔多；(意)杰拉尔多；(西)赫拉尔多；(俄)格拉尔多",
+    "phonetic": "",
+    "tags": []
+  },
+  "gerbil": {
+    "meaning": "n. 沙鼠( gerbil的复数形式 )",
+    "phonetic": "ˈdʒə:bilz",
+    "tags": []
+  },
+  "gerd": {
+    "meaning": "abbr. 胃食管反流病（gastroesophageal reflux disease）\\nn. (Gerd)人名；(英、德)格尔德；(西)赫尔德；(瑞典)耶德",
+    "phonetic": "gə:d",
+    "tags": []
+  },
+  "gerhardt": {
+    "meaning": "n. (Gerhardt)人名；(英、德)格哈特；(法)热拉尔；(瑞典)耶哈特",
+    "phonetic": "",
+    "tags": []
+  },
+  "gerland": {
+    "meaning": "n. (Gerland)人名；(德)格兰；(瑞典)耶兰",
+    "phonetic": "",
+    "tags": []
+  },
+  "germain": {
+    "meaning": "n. (Germain)人名；(法、葡)热尔曼；(英)杰曼；(西)赫尔马因",
+    "phonetic": "",
+    "tags": []
+  },
+  "germane": {
+    "meaning": "n. germane的变形",
+    "phonetic": "",
+    "tags": []
+  },
+  "germanize": {
+    "meaning": "v. <主英> = Germanize",
+    "phonetic": "'dʒ\\\\\\\\:mәnaiz",
+    "tags": []
+  },
+  "germanophile": {
+    "meaning": "n. (=Germanophile)崇拜德国的人",
+    "phonetic": "dʒә:'mænәufail",
+    "tags": []
+  },
+  "germen": {
+    "meaning": "n. 子房, 生殖腺( germen的名词复数 )",
+    "phonetic": "ˈdʒə:mənz",
+    "tags": []
+  },
+  "germinate": {
+    "meaning": "v. （使）发芽( germinate的过去式和过去分词 )",
+    "phonetic": "ˈdʒɜ:məˌneɪtid",
+    "tags": []
+  },
+  "germ": {
+    "meaning": "n. 致病菌；细菌；病菌（germ的复数形式）",
+    "phonetic": "",
+    "tags": []
+  },
+  "gern": {
+    "meaning": "n. (Gern)人名；(德)格恩",
+    "phonetic": "",
+    "tags": []
+  },
+  "gerunda": {
+    "meaning": "赫罗纳[西班牙东北部城市](古时名Gerunda)",
+    "phonetic": "dʒә'rәjnә",
+    "tags": []
+  },
+  "gerontocracy": {
+    "meaning": "a. gerontocracy的变形",
+    "phonetic": "dʒi'rɔntəkræt",
+    "tags": []
+  },
+  "gerontogeous": {
+    "meaning": "(=gerontogeous)旧世界的",
+    "phonetic": "dʒә,rɔntәu'dʒi:ik",
+    "tags": []
+  },
+  "gerontology": {
+    "meaning": "a. gerontology的变形",
+    "phonetic": "",
+    "tags": []
+  },
+  "gerontologist": {
+    "meaning": "(gerontologist 的复数) [医] 老年病学家",
+    "phonetic": "",
+    "tags": []
+  },
+  "gerri": {
+    "meaning": "n. (Gerri)人名；(英)格里",
+    "phonetic": "",
+    "tags": []
+  },
+  "gershon": {
+    "meaning": "n. (Gershon)人名；(英)格申",
+    "phonetic": "",
+    "tags": []
+  },
+  "gerson": {
+    "meaning": "n. (Gerson)人名；(法)热尔松；(德)格尔松；(英)格尔森；(葡)热尔松；(瑞典)耶松",
+    "phonetic": "",
+    "tags": []
+  },
+  "gerstner": {
+    "meaning": "n. (Gerstner)人名；(德、捷、英)格斯特纳；(匈)盖斯特纳",
+    "phonetic": "",
+    "tags": []
+  },
+  "gerundive": {
+    "meaning": "adv. gerundive的变形",
+    "phonetic": "",
+    "tags": []
+  },
+  "geshe": {
+    "meaning": "n. (Geshe)人名；(中)格西(藏语·威妥玛)",
+    "phonetic": "",
+    "tags": []
+  },
+  "gesner": {
+    "meaning": "n. (Gesner)人名；(英、德)格斯纳",
+    "phonetic": "",
+    "tags": []
+  },
+  "gesneriaceae": {
+    "meaning": "【植物】苦苣苔科(Gesneriaceae)",
+    "phonetic": "",
+    "tags": []
+  },
+  "gessen": {
+    "meaning": "n. (Gessen)人名；(俄)格森",
+    "phonetic": "",
+    "tags": []
+  },
+  "gesso": {
+    "meaning": "n. （绘画、雕刻用的）石膏粉( gesso的名词复数 )",
+    "phonetic": "ˈdʒesəuz",
+    "tags": []
+  },
+  "gestate": {
+    "meaning": "v. 孕育, 创案( gestate的过去式和过去分词 )",
+    "phonetic": "ˈdʒesteitid",
+    "tags": []
+  },
+  "gestation": {
+    "meaning": "a. gestation的变形",
+    "phonetic": "",
+    "tags": []
+  },
+  "gesticulate": {
+    "meaning": "v. 做手势示意或强调( gesticulate的过去式和过去分词 )",
+    "phonetic": "dʒes'tɪkjʊleɪtɪd",
+    "tags": []
+  },
+  "gesture": {
+    "meaning": "v. 做手势( gesture的过去式和过去分词 )",
+    "phonetic": "ˈdʒestʃəd",
+    "tags": []
+  },
+  "gettable": {
+    "meaning": "a. (=gettable)能得到的",
+    "phonetic": "'^etәbl",
+    "tags": []
+  },
+  "getaway": {
+    "meaning": "n. （尤指犯罪后的）逃跑( getaway的复数形式 ); 短假; 假日休闲地; 适合度假的地方",
+    "phonetic": "ˈgetəˌweɪz",
+    "tags": []
+  },
+  "gete": {
+    "meaning": "(gete 的复数)  [地名] [比利时] 热特河",
+    "phonetic": "",
+    "tags": []
+  },
+  "gitting": {
+    "meaning": " [人名] [威尔士人姓氏] 格辛 Gitting的变体",
+    "phonetic": "",
+    "tags": []
+  },
+  "getz": {
+    "meaning": "n. (Getz)人名；(英)盖茨",
+    "phonetic": "",
+    "tags": []
+  },
+  "geyser": {
+    "meaning": "n. 间歇喷泉( geyser的复数形式 ); （厨房、洗澡间的）煤气热水器[炉]",
+    "phonetic": "ˈgaɪzəz",
+    "tags": []
+  },
+  "geysir": {
+    "meaning": "(geysir 的复数)  [地名] [冰岛] 间歇泉",
+    "phonetic": "",
+    "tags": []
+  },
+  "gustafsvik": {
+    "meaning": "abbr. Gustafsvik 古塔夫斯威克",
+    "phonetic": "",
+    "tags": []
+  },
+  "glucosyltransferase": {
+    "meaning": " [医][=galactosylhydroxylysyl glucosyltransferase]半乳糖羟赖氨酰葡糖基转移酶",
+    "phonetic": "d'ʒi:dʒ'i:t'i:",
+    "tags": []
+  },
+  "ghandi": {
+    "meaning": "n. (Ghandi)人名；(伊朗)甘迪",
+    "phonetic": "",
+    "tags": []
+  },
+  "ghanian": {
+    "meaning": "n. (Ghanian)人名；(伊朗)加尼安",
+    "phonetic": "",
+    "tags": []
+  },
+  "gavial": {
+    "meaning": "abbr. ghariyal (Hindu=gavial) （印度语）大鳄鱼（长嘴的吃鱼鳄鱼）",
+    "phonetic": "'ɡɑ:",
+    "tags": []
+  },
+  "ghastly": {
+    "meaning": "a. (=ghastly)死人般的, 可怕的",
+    "phonetic": "^ɑ:st;^æst",
+    "tags": []
+  },
+  "ghazal": {
+    "meaning": "n. (Ghazal)人名；(阿拉伯)加扎勒",
+    "phonetic": "",
+    "tags": []
+  },
+  "gaza": {
+    "meaning": "<阿拉伯>=Gaza",
+    "phonetic": "'^æzi:",
+    "tags": []
+  },
+  "ghedda": {
+    "meaning": "[网络] Ghedda蜡",
+    "phonetic": "",
+    "tags": []
+  },
+  "gheg": {
+    "meaning": "[网络] Gheg方言",
+    "phonetic": "",
+    "tags": []
+  },
+  "gherkin": {
+    "meaning": "n. 腌食用小黄瓜, 嫩黄瓜( gherkin的复数形式 )",
+    "phonetic": "ˈɡə:kinz",
+    "tags": []
+  },
+  "ghettoize": {
+    "meaning": "vt. [英国英语]= ghettoize",
+    "phonetic": "'ɡetəuaiz",
+    "tags": []
+  },
+  "ghetto": {
+    "meaning": "n. 犹太社区（ghetto复数）",
+    "phonetic": "",
+    "tags": []
+  },
+  "ghey": {
+    "meaning": "n. (Ghey)人名；(英)贾伊",
+    "phonetic": "",
+    "tags": []
+  },
+  "ghia": {
+    "meaning": "n. (Ghia)人名；(西、意、罗)吉亚",
+    "phonetic": "",
+    "tags": []
+  },
+  "ghiberti": {
+    "meaning": "n. (Ghiberti)人名；(意)吉贝尔蒂",
+    "phonetic": "",
+    "tags": []
+  },
+  "ghirardelli": {
+    "meaning": "n. (Ghirardelli)人名；(意)吉拉尔代利",
+    "phonetic": "",
+    "tags": []
+  },
+  "ghose": {
+    "meaning": "n. (Ghose)人名；(孟)高斯",
+    "phonetic": "",
+    "tags": []
+  },
+  "ghosh": {
+    "meaning": "n. (Ghosh)人名；(印)高希",
+    "phonetic": "",
+    "tags": []
+  },
+  "ghostwriter": {
+    "meaning": "代笔人（ghostwriter的复数）",
+    "phonetic": "",
+    "tags": []
+  },
+  "ghostwrite": {
+    "meaning": "代笔（ghostwrite的现在分词）",
+    "phonetic": "",
+    "tags": []
+  },
+  "ghost": {
+    "meaning": "n. = wrymouth [参较 ghost]",
+    "phonetic": "'ɡəust,fiʃ",
+    "tags": []
+  },
+  "ghoulish": {
+    "meaning": "n. ghoulish的变形",
+    "phonetic": "",
+    "tags": []
+  },
+  "ghoul": {
+    "meaning": "n. 盗尸者( ghoul的复数形式 )",
+    "phonetic": "ɡu:lz",
+    "tags": []
+  },
+  "graphite": {
+    "meaning": "abbr. graphite 石墨",
+    "phonetic": "",
+    "tags": []
+  },
+  "gi": {
+    "meaning": "[网络] GI系列",
+    "phonetic": "",
+    "tags": []
+  },
+  "giacinto": {
+    "meaning": "n. (Giacinto)人名；(意)贾钦托",
+    "phonetic": "",
+    "tags": []
+  },
+  "giacomo": {
+    "meaning": "n. (Giacomo)人名；(葡、罗、法)贾科莫",
+    "phonetic": "",
+    "tags": []
+  },
+  "gianfrancesco": {
+    "meaning": "n. (Gianfrancesco)人名；(意、葡)詹弗朗切斯科",
+    "phonetic": "",
+    "tags": []
+  },
+  "gianfranco": {
+    "meaning": "n. (Gianfranco)人名；(意)詹弗兰科",
+    "phonetic": "",
+    "tags": []
+  },
+  "gianluigi": {
+    "meaning": "n. (Gianluigi)人名；(意)詹路易吉",
+    "phonetic": "",
+    "tags": []
+  },
+  "granadilla": {
+    "meaning": "[网络] 巨大的granadilla",
+    "phonetic": "",
+    "tags": []
+  },
+  "geochelone": {
+    "meaning": " [动物]巨型陆龟(Geochelone)",
+    "phonetic": "'dʒaiənt,'tɔ:təs",
+    "tags": []
+  },
+  "giantkiller": {
+    "meaning": "(giantkiller 的复数)  [体]能打败强手的运动员",
+    "phonetic": "",
+    "tags": []
+  },
+  "giant": {
+    "meaning": "n. 巨人（giant的复数形式）；癸干忒斯；巨人族（希腊神话中常与天上诸神作战的种族）",
+    "phonetic": "'dʒaiәnts",
+    "tags": []
+  },
+  "giba": {
+    "meaning": "n. (Giba)人名；(塞、捷、罗)吉巴",
+    "phonetic": "",
+    "tags": []
+  },
+  "gibb": {
+    "meaning": "n. (Gibb)人名；(英)吉布",
+    "phonetic": "",
+    "tags": []
+  },
+  "gibben": {
+    "meaning": " [人名] [英格兰人姓氏] 吉本斯取自父名，来源于Gibben,含义是“吉本之子”(son of Gibben)",
+    "phonetic": "",
+    "tags": []
+  },
+  "gibber": {
+    "meaning": "v. （由于害怕或震惊而）急促不清地说, 叽里咕噜地说( gibber的过去式和过去分词 )",
+    "phonetic": "ˈdʒibəd",
+    "tags": []
+  },
+  "gibbet": {
+    "meaning": "n. 绞刑架, 绞台( gibbet的名词复数 )",
+    "phonetic": "ˈdʒibits",
+    "tags": []
+  },
+  "gilbert": {
+    "meaning": " [男子名] 吉比 Gilbert的昵称",
+    "phonetic": "",
+    "tags": []
+  },
+  "gibbin": {
+    "meaning": " [人名] [英格兰人姓氏] 吉宾斯取自父名，来源于Gibbin,含义是“吉宾之子”(son of Gibbin)",
+    "phonetic": "",
+    "tags": []
+  },
+  "gibberish": {
+    "meaning": "n. (=gibberish)快而不清的话",
+    "phonetic": "'^ibl,^æbl",
+    "tags": []
+  },
+  "gibbons": {
+    "meaning": "n. (Gibbons)人名；(英)吉本斯\\n[脊椎] 长臂猿( gibbon的名词复数 )\\n吉本斯（Gibbons姓氏）",
+    "phonetic": "",
+    "tags": []
+  },
+  "gibbous": {
+    "meaning": "a. (=gibbous)凸状的, 拱起的",
+    "phonetic": "'^ibәus",
+    "tags": []
+  },
+  "gibe": {
+    "meaning": "v. 嘲笑, 嘲弄( gibe的过去式和过去分词 )",
+    "phonetic": "dʒaɪbd",
+    "tags": []
+  },
+  "gibraltar": {
+    "meaning": "abbr. Gibraltar",
+    "phonetic": "",
+    "tags": []
+  },
+  "gibran": {
+    "meaning": "n. (Gibran)人名；(阿拉伯)朱卜兰",
+    "phonetic": "",
+    "tags": []
+  },
+  "giddy": {
+    "meaning": "眩晕的( giddy的过去式和过去分词 )；头晕的；令人眩晕的；轻浮的",
+    "phonetic": "",
+    "tags": []
+  },
+  "gid": {
+    "meaning": "(gid 的现在分词) [医] 蹒跚病(家畜晕倒病), 眩晕",
+    "phonetic": "",
+    "tags": []
+  },
+  "gierek": {
+    "meaning": "n. (Gierek)人名；(波)盖莱克",
+    "phonetic": "",
+    "tags": []
+  },
+  "gieseking": {
+    "meaning": "n. (Gieseking)人名；(德)吉泽金",
+    "phonetic": "",
+    "tags": []
+  },
+  "gieve": {
+    "meaning": "(gieve 的复数)  [人名] 吉夫",
+    "phonetic": "",
+    "tags": []
+  },
+  "giffen": {
+    "meaning": "(giffen 的复数)  [人名] 吉芬; 低质商品",
+    "phonetic": "",
+    "tags": []
+  },
+  "gif": {
+    "meaning": "(GIF 的复数) [计] 图象交换格式",
+    "phonetic": "",
+    "tags": []
+  },
+  "gifted": {
+    "meaning": "adv. gifted的变形",
+    "phonetic": "",
+    "tags": []
+  },
+  "gift": {
+    "meaning": "vt. 馈赠；赠予（gift的现在分词）",
+    "phonetic": "",
+    "tags": []
+  },
+  "gigabyte": {
+    "meaning": "n. 十亿位元组；千兆字节（gigabyte的复数）",
+    "phonetic": "",
+    "tags": []
+  },
+  "gigaflop": {
+    "meaning": "(gigaflop 的复数)  吉拍",
+    "phonetic": "",
+    "tags": []
+  },
+  "gigantic": {
+    "meaning": "adv. gigantic的变形",
+    "phonetic": "",
+    "tags": []
+  },
+  "giga": {
+    "meaning": "(giga 的复数) [计] 千兆, 吉, 109",
+    "phonetic": "",
+    "tags": []
+  },
+  "giggle": {
+    "meaning": "v. 咯咯地笑( giggle的过去式和过去分词 )",
+    "phonetic": "ˈɡiɡld",
+    "tags": []
+  },
+  "giggs": {
+    "meaning": "n. (Giggs)人名；(英)吉格斯",
+    "phonetic": "",
+    "tags": []
+  },
+  "gigolo": {
+    "meaning": "n. 舞男, 靠女人生活的男人( gigolo的复数形式 )",
+    "phonetic": "ˈdʒiɡələuz",
+    "tags": []
+  },
+  "gig": {
+    "meaning": "n. 轻便两轮马车；（爵士乐、摇滚乐等）演奏会；鱼叉（gig的复数）",
+    "phonetic": "",
+    "tags": []
+  },
+  "gilberte": {
+    "meaning": "n. (Gilberte)人名；(法)吉尔贝特",
+    "phonetic": "",
+    "tags": []
+  },
+  "gilbey": {
+    "meaning": "(Gilbey 的复数) 吉尔比（人名）",
+    "phonetic": "",
+    "tags": []
+  },
+  "gilbreth": {
+    "meaning": "n. (Gilbreth)人名；(英)吉尔布雷思",
+    "phonetic": "",
+    "tags": []
+  },
+  "gildas": {
+    "meaning": "n. (Gildas)人名；(英)吉尔达斯；(法)吉尔达",
+    "phonetic": "",
+    "tags": []
+  },
+  "gildemeister": {
+    "meaning": "n. (Gildemeister)人名；(德)吉尔德迈斯特",
+    "phonetic": "",
+    "tags": []
+  },
+  "gild": {
+    "meaning": "v. 把…镀金( gild的第三人称单数 ); 给…上金色; 作多余的修饰（反而破坏原已完美的东西）; 画蛇添足",
+    "phonetic": "gɪldz",
+    "tags": []
+  },
+  "ghilgai": {
+    "meaning": "n. <澳>(蓄有雨水的)黏土小洼地(亦作ghilgai)[土著语]",
+    "phonetic": "'^il,^ai",
+    "tags": []
+  },
+  "gilgai": {
+    "meaning": "[网络] gilgai土壤",
+    "phonetic": "",
+    "tags": []
+  },
+  "gilchrist": {
+    "meaning": " [人名] [苏格兰人姓氏] 吉尔克斯取自父名, 来源于Gilchrist,含义是“吉尔克里斯特之子”(son of Gilchrist)",
+    "phonetic": "",
+    "tags": []
+  },
+  "gillen": {
+    "meaning": "(gillen 的复数)  [人名] 吉伦",
+    "phonetic": "",
+    "tags": []
+  },
+  "gillett": {
+    "meaning": " [人名] [英格兰人姓氏] 吉勒特 Gillett的变体",
+    "phonetic": "",
+    "tags": []
+  },
+  "gilley": {
+    "meaning": "n. (Gilley)人名；(英)吉利",
+    "phonetic": "",
+    "tags": []
+  },
+  "gillick": {
+    "meaning": "n. (Gillick)人名；(英)吉利克",
+    "phonetic": "",
+    "tags": []
+  },
+  "gilfillan": {
+    "meaning": " [人名] [苏格兰人姓氏] 吉利兰 Gilfillan的变体",
+    "phonetic": "",
+    "tags": []
+  },
+  "gilling": {
+    "meaning": "(gilling 的复数) 针梳",
+    "phonetic": "",
+    "tags": []
+  },
+  "gilmore": {
+    "meaning": " [人名] [苏格兰人、爱尔兰人姓氏] 吉尔摩 Gilmore的变体",
+    "phonetic": "",
+    "tags": []
+  },
+  "gillot": {
+    "meaning": "锌版蚀刻画法(发明者为基洛特 Gillot)",
+    "phonetic": "'dʒilɔtәdʒ",
+    "tags": []
+  },
+  "gill": {
+    "meaning": "n. 腮下肉；吉耳；菌褶；鱼鳃（gill的复数）",
+    "phonetic": "",
+    "tags": []
+  },
+  "gilman": {
+    "meaning": "n. (Gilman)人名；(英、俄)吉尔曼；(西)希尔曼",
+    "phonetic": "",
+    "tags": []
+  },
+  "gilmour": {
+    "meaning": "n. (Gilmour)人名；(英)吉尔摩",
+    "phonetic": "",
+    "tags": []
+  },
+  "gilberto": {
+    "meaning": "abbr. Gilberto 吉尔伯特（男子名）",
+    "phonetic": "",
+    "tags": []
+  },
+  "giloacchino": {
+    "meaning": "[网络] Giloacchino安东尼奥·罗西尼",
+    "phonetic": "",
+    "tags": []
+  },
+  "gilpin": {
+    "meaning": "n. (Gilpin)人名；(英)吉尔平",
+    "phonetic": "",
+    "tags": []
+  },
+  "gilroy": {
+    "meaning": "n. 吉尔罗伊（美国加利福尼亚州城市）；吉尔罗伊（人名）\\nn. (Gilroy)人名；(英)吉尔罗伊",
+    "phonetic": "",
+    "tags": []
+  },
+  "gilson": {
+    "meaning": "n. (Gilson)人名；(西)希尔松；(法、德)吉尔松；(英)吉尔森",
+    "phonetic": "",
+    "tags": []
+  },
+  "gimlet": {
+    "meaning": "n. 手钻( gimlet的复数形式 )",
+    "phonetic": "ˈɡimlits",
+    "tags": []
+  },
+  "gimmer": {
+    "meaning": "(gimmer 的复数) 小母羊",
+    "phonetic": "",
+    "tags": []
+  },
+  "gimmick": {
+    "meaning": "n. 花招, 诡计, 骗人的玩意儿( gimmick的复数形式 )",
+    "phonetic": "ˈgɪmɪks",
+    "tags": []
+  },
+  "guinep": {
+    "meaning": "[网络] guinep",
+    "phonetic": "",
+    "tags": []
+  },
+  "ginette": {
+    "meaning": "n. (Ginette)人名；(法)吉内特",
+    "phonetic": "",
+    "tags": []
+  },
+  "ginevra": {
+    "meaning": "n. (Ginevra)人名；(英)吉尼芙拉；(意)吉内芙拉",
+    "phonetic": "",
+    "tags": []
+  },
+  "gingerbready": {
+    "meaning": "n. 姜饼；华而不实的装饰(如家具、墙壁等上的俗气的雕塑品)；俗艳而无用的饰物\\na. [亦作gingerbready]俗丽的,华而不实的",
+    "phonetic": "'dʒɪndʒəbred",
+    "tags": []
+  },
+  "ginger": {
+    "meaning": "n. 姜；姜黄色；精力；有姜味\\nvt. 用姜给…调味；使某人有活力\\na. 姜黄色的\\nn. (Ginger)人名；(法)然热；(英)金杰",
+    "phonetic": "'dʒɪndʒə",
+    "tags": []
+  },
+  "gingernut": {
+    "meaning": "(gingernut 的复数)  姜汁饼干",
+    "phonetic": "",
+    "tags": []
+  },
+  "ginglymus": {
+    "meaning": "n. 屈戌关节, 绞链关节( ginglymus的名词复数 )",
+    "phonetic": "ɡɪŋ'lɪmɪ",
+    "tags": []
+  },
+  "gingell": {
+    "meaning": " [人名] [英格兰人姓氏] 金戈尔德 Gingell的变体",
+    "phonetic": "",
+    "tags": []
+  },
+  "ginkgo": {
+    "meaning": "n. 银杏树( ginkgo的名词复数 )",
+    "phonetic": "'ɡɪŋkɡəʊz",
+    "tags": []
+  },
+  "ginko": {
+    "meaning": "n. 银杏\\nn. (Ginko)人名；(俄、德)金科",
+    "phonetic": "",
+    "tags": []
+  },
+  "ginee": {
+    "meaning": "n. [亦作G-]=ginee",
+    "phonetic": "'^ini:",
+    "tags": []
+  },
+  "giorno": {
+    "meaning": "n. (Giorno)人名；(意)焦尔诺",
+    "phonetic": "",
+    "tags": []
+  },
+  "gipper": {
+    "meaning": "n. (Gipper)人名；(德)吉佩尔",
+    "phonetic": "",
+    "tags": []
+  },
+  "gipp": {
+    "meaning": " [人名] [苏格兰人、英格兰人姓氏] 吉普森取自父名，来源于Gipp,含义是“吉普之子”(son of Gipp)",
+    "phonetic": "",
+    "tags": []
+  },
+  "gipsy": {
+    "meaning": "n. Gipsy的变形",
+    "phonetic": "",
+    "tags": []
+  },
+  "giraffe": {
+    "meaning": "n. 长颈鹿( giraffe的复数形式 )",
+    "phonetic": "dʒəˈræfs",
+    "tags": []
+  },
+  "girard": {
+    "meaning": "n. (Girard)人名；(英、德)吉拉德；(西)希拉尔德；(法)吉拉尔",
+    "phonetic": "",
+    "tags": []
+  },
+  "giraud": {
+    "meaning": "n. (Giraud)人名；(德、英)吉劳德；(法)吉罗",
+    "phonetic": "",
+    "tags": []
+  },
+  "gird": {
+    "meaning": "gird的过去式和过去分词",
+    "phonetic": "",
+    "tags": []
+  },
+  "gire": {
+    "meaning": "n. (Gire)人名；(法)吉尔",
+    "phonetic": "",
+    "tags": []
+  },
+  "girgenti": {
+    "meaning": "n. (Girgenti)人名；(意)吉尔真蒂",
+    "phonetic": "",
+    "tags": []
+  },
+  "girish": {
+    "meaning": "n. (Girish)人名；(印)吉里什",
+    "phonetic": "",
+    "tags": []
+  },
+  "girling": {
+    "meaning": "n. (Girling)人名；(英)格林",
+    "phonetic": "",
+    "tags": []
+  },
+  "girlish": {
+    "meaning": "n. girlish的变形",
+    "phonetic": "",
+    "tags": []
+  },
+  "giro": {
+    "meaning": "[网络] giro帐户",
+    "phonetic": "",
+    "tags": []
+  },
+  "girocheque": {
+    "meaning": "(girocheque 的复数)  转账支票",
+    "phonetic": "",
+    "tags": []
+  },
+  "girona": {
+    "meaning": "n. (Girona)人名；(西)希罗纳；(法)吉罗纳",
+    "phonetic": "",
+    "tags": []
+  },
+  "girouard": {
+    "meaning": "n. (Girouard)人名；(法)吉鲁阿尔",
+    "phonetic": "",
+    "tags": []
+  },
+  "giroud": {
+    "meaning": "n. (Giroud)人名；(法)吉鲁；(西)希罗德",
+    "phonetic": "",
+    "tags": []
+  },
+  "girth": {
+    "meaning": "n. 周长, （马等的）肚带, 腰身( girth的名词复数 )",
+    "phonetic": "ɡə:θs",
+    "tags": []
+  },
+  "gantline": {
+    "meaning": "n. 【航海学】 = gantline",
+    "phonetic": "'ɡə:tlain",
+    "tags": []
+  },
+  "girton": {
+    "meaning": "n. (Girton)人名；(英)格顿",
+    "phonetic": "",
+    "tags": []
+  },
+  "giselle": {
+    "meaning": "n. 吉塞拉（女子名, 等于Giselle）",
+    "phonetic": "'gi:zələ",
+    "tags": []
+  },
+  "gittens": {
+    "meaning": "n. (Gittens)人名；(西)希滕斯；(法)吉唐",
+    "phonetic": "",
+    "tags": []
+  },
+  "gittings": {
+    "meaning": "n. (Gittings)人名；(英)吉廷斯",
+    "phonetic": "",
+    "tags": []
+  },
+  "giudice": {
+    "meaning": "n. (Giudice)人名；(意、葡、法)朱迪切",
+    "phonetic": "",
+    "tags": []
+  },
+  "giuliana": {
+    "meaning": "n. (Giuliana)人名；(意)朱利亚娜 (女名), 朱利亚纳",
+    "phonetic": "",
+    "tags": []
+  },
+  "giulio": {
+    "meaning": "n. (Giulio)人名；(法、意、葡、汤加)朱利奥",
+    "phonetic": "",
+    "tags": []
+  },
+  "giveaway": {
+    "meaning": "n. 泄漏, 免费样品( giveaway的复数形式 )",
+    "phonetic": "ˈɡivəweiz",
+    "tags": []
+  },
+  "gizzard": {
+    "meaning": "n. （鸟的）砂囊( gizzard的复数形式 ); （鸟的）胃; <俗>喉咙; （人的）胃",
+    "phonetic": "ˈɡizədz",
+    "tags": []
+  },
+  "glacial": {
+    "meaning": " [医][=glacial]冰的，冰样的",
+    "phonetic": "ɡ'læk",
+    "tags": []
+  },
+  "glaciate": {
+    "meaning": "vt. 使结冰（glaciate的第三人称单数形式）",
+    "phonetic": "",
+    "tags": []
+  },
+  "glacier": {
+    "meaning": "n. 冰河, 冰川( glacier的复数形式 )",
+    "phonetic": "ɡ'læsɪəz",
+    "tags": []
+  },
+  "glad": {
+    "meaning": "v. 高兴的( glad的过去式和过去分词 ); 感激; 乐意的; 使人高兴的",
+    "phonetic": "ɡlædid",
+    "tags": []
+  },
+  "gladden": {
+    "meaning": "v. 使高兴, 使快乐( gladden的过去式和过去分词 )",
+    "phonetic": "ˈglædnd",
+    "tags": []
+  },
+  "gladdon": {
+    "meaning": "[网络] gladdon虹膜",
+    "phonetic": "",
+    "tags": []
+  },
+  "glade": {
+    "meaning": "n. 林中空地( glade的复数形式 )",
+    "phonetic": "gleɪdz",
+    "tags": []
+  },
+  "gladhand": {
+    "meaning": "(gladhand 的现在分词)  软管接头",
+    "phonetic": "",
+    "tags": []
+  },
+  "gladiator": {
+    "meaning": "n. <史>斗剑士, 格斗士( gladiator的复数形式 )",
+    "phonetic": "ˈglædi:ˌeɪtəz",
+    "tags": []
+  },
+  "gladius": {
+    "meaning": "n. 古罗马军队之短剑 (gladius的变形)",
+    "phonetic": "",
+    "tags": []
+  },
+  "gladiolus": {
+    "meaning": "n. 剑兰, 唐菖蒲( gladiolus的名词复数 )",
+    "phonetic": "ˌɡlædɪ'əʊlaɪ",
+    "tags": []
+  },
+  "gladiolas": {
+    "meaning": "abbr. gladiolas 唐菖蒲",
+    "phonetic": "",
+    "tags": []
+  },
+  "gladsome": {
+    "meaning": "n. gladsome的变形",
+    "phonetic": "",
+    "tags": []
+  },
+  "gladwin": {
+    "meaning": " [人名] [英格兰人姓氏] 格拉德温 Gladwin的变体",
+    "phonetic": "",
+    "tags": []
+  },
+  "glair": {
+    "meaning": "n. , vt. glaired, glairing = glair",
+    "phonetic": "ɡlεə",
+    "tags": []
+  },
+  "glamorize": {
+    "meaning": "v. 粉饰, 渲染( glamorize的过去式和过去分词 )",
+    "phonetic": "ˈglæməˌraɪzd",
+    "tags": []
+  },
+  "glamorous": {
+    "meaning": "n. glamorous的变形",
+    "phonetic": "",
+    "tags": []
+  },
+  "glance": {
+    "meaning": "v. 一瞥( glance的过去式和过去分词 ); 略视; 闪耀; 浏览",
+    "phonetic": "ɡlɑ:nst",
+    "tags": []
+  },
+  "glandular": {
+    "meaning": "adv. glandular的变形",
+    "phonetic": "",
+    "tags": []
+  },
+  "glanville": {
+    "meaning": "n. (Glanville)人名；(英)格兰维尔",
+    "phonetic": "",
+    "tags": []
+  },
+  "glare": {
+    "meaning": "v. 怒目而视( glare的过去式和过去分词 ); 发强光",
+    "phonetic": "ɡlɛəd",
+    "tags": []
+  },
+  "glary": {
+    "meaning": "n. glary的变形",
+    "phonetic": "",
+    "tags": []
+  },
+  "glasgo": {
+    "meaning": "(glasgo 的现在分词)  [地名] [美国] 格拉斯戈",
+    "phonetic": "",
+    "tags": []
+  },
+  "glaspell": {
+    "meaning": "n. (Glaspell)人名；(英)格拉斯佩尔",
+    "phonetic": "",
+    "tags": []
+  },
+  "glascott": {
+    "meaning": " [人名] [英格兰人、威尔士人姓氏] 格拉斯科克 Glascott的变体",
+    "phonetic": "",
+    "tags": []
+  },
+  "glasshouse": {
+    "meaning": "n. 玻璃暖房, 温室( glasshouse的复数形式 )",
+    "phonetic": "ˈglæsˌhaʊsiz",
+    "tags": []
+  },
+  "glaucous": {
+    "meaning": "n. glaucous的变形",
+    "phonetic": "",
+    "tags": []
+  },
+  "glaude": {
+    "meaning": "n. (Glaude)人名；(法)格洛德",
+    "phonetic": "",
+    "tags": []
+  },
+  "geldanamycin": {
+    "meaning": " [医][=geldanamycin]格尔德霉素",
+    "phonetic": "d'ʒi:'eld'i:",
+    "tags": []
+  },
+  "gleam": {
+    "meaning": "v. （使）闪烁, （使）闪亮( gleam的过去式和过去分词 )",
+    "phonetic": "ɡli:md",
+    "tags": []
+  },
+  "glean": {
+    "meaning": "a. glean的变形",
+    "phonetic": "",
+    "tags": []
+  },
+  "gleave": {
+    "meaning": " [人名] [英格兰人姓氏] 格利夫斯 Gleave的变体",
+    "phonetic": "",
+    "tags": []
+  },
+  "gleb": {
+    "meaning": "n. (Gleb)人名；(法、罗、塞)格莱布；(俄、乌克)格列布",
+    "phonetic": "",
+    "tags": []
+  },
+  "glebe": {
+    "meaning": "a. glebe的变形",
+    "phonetic": "",
+    "tags": []
+  },
+  "gle": {
+    "meaning": "(gle 的过去分词)  气液平衡",
+    "phonetic": "",
+    "tags": []
+  },
+  "gledhill": {
+    "meaning": "n. (Gledhill)人名；(英)格莱德希尔",
+    "phonetic": "",
+    "tags": []
+  },
+  "gleeful": {
+    "meaning": "n. gleeful的变形",
+    "phonetic": "",
+    "tags": []
+  },
+  "gleeman": {
+    "meaning": "n. 吟游诗人( gleeman的名词复数 )",
+    "phonetic": "",
+    "tags": []
+  },
+  "gleen": {
+    "meaning": "n. (Gleen)人名；(荷)赫伦",
+    "phonetic": "",
+    "tags": []
+  },
+  "gleesan": {
+    "meaning": " [人名] [爱尔兰姓氏] 格利森 Gleesan的变体; [地名] [美国] 格利森",
+    "phonetic": "",
+    "tags": []
+  },
+  "gliwice": {
+    "meaning": "<德>=Gliwice",
+    "phonetic": "'^laivits",
+    "tags": []
+  },
+  "gebhard": {
+    "meaning": "[网络] 格伦·格堡（Glen Gebhard）",
+    "phonetic": "",
+    "tags": []
+  },
+  "glendinning": {
+    "meaning": " [人名] [苏格兰人姓氏] 格伦德宁 Glendinning的变体",
+    "phonetic": "",
+    "tags": []
+  },
+  "glenlivat": {
+    "meaning": "(=glenlivat)格伦利物威士忌酒",
+    "phonetic": "^len'livәt",
+    "tags": []
+  },
+  "glen": {
+    "meaning": "n. 峡谷, 幽谷( glen的复数形式 )",
+    "phonetic": "ɡlenz",
+    "tags": []
+  },
+  "glenys": {
+    "meaning": "n. (Glenys)人名；(英、西)格莱尼丝",
+    "phonetic": "",
+    "tags": []
+  },
+  "glew": {
+    "meaning": "(glew 的过去分词)  [人名] 格鲁; [地名] [阿根廷] 格柳",
+    "phonetic": "",
+    "tags": []
+  },
+  "gliocyte": {
+    "meaning": "(=gliocyte)(神经)胶质细胞",
+    "phonetic": "'^laiә,sait",
+    "tags": []
+  },
+  "glib": {
+    "meaning": "a. 口齿伶俐的, 油嘴滑舌的 (glib的变形)",
+    "phonetic": "",
+    "tags": []
+  },
+  "glidden": {
+    "meaning": "n. (Glidden)人名；(英)格利登",
+    "phonetic": "",
+    "tags": []
+  },
+  "glide": {
+    "meaning": "v. 滑动( glide的过去式和过去分词 ); 掠过; （鸟或飞机 ） 滑翔",
+    "phonetic": "ɡlaidid",
+    "tags": []
+  },
+  "glidewell": {
+    "meaning": "n. (Glidewell)人名；(英)格莱德韦尔",
+    "phonetic": "",
+    "tags": []
+  },
+  "glimmer": {
+    "meaning": "v. 发闪光, 发微光( glimmer的过去式和过去分词 )",
+    "phonetic": "ˈglɪməd",
+    "tags": []
+  },
+  "glimmering": {
+    "meaning": "n. 微光, 一丝光线; 微光, 隐约的一瞥( glimmering的复数形式 )",
+    "phonetic": "ɡ'lɪmərɪŋz",
+    "tags": []
+  },
+  "glimpse": {
+    "meaning": "v. 瞥见( glimpse的过去式和过去分词 ); 开始领悟到, 开始认识到",
+    "phonetic": "ɡlimpst",
+    "tags": []
+  },
+  "glint": {
+    "meaning": "v. （使）闪烁, 闪光( glint的过去式和过去分词 )",
+    "phonetic": "glɪntid",
+    "tags": []
+  },
+  "glissade": {
+    "meaning": "v. 下滑( glissade的过去式和过去分词 )",
+    "phonetic": "ɡliˈsɑ:did",
+    "tags": []
+  },
+  "glissando": {
+    "meaning": "glissando的复数形",
+    "phonetic": "",
+    "tags": []
+  },
+  "glisten": {
+    "meaning": "v. 湿物闪耀, 闪亮( glisten的过去式和过去分词 )",
+    "phonetic": "ˈglɪsənd",
+    "tags": []
+  },
+  "glister": {
+    "meaning": "v. <古>灿烂, 光辉( glister的过去式和过去分词 )",
+    "phonetic": "ˈɡlistəd",
+    "tags": []
+  },
+  "glitch": {
+    "meaning": "n. 小过失, 差错( glitch的复数形式 )",
+    "phonetic": "ɡlitʃiz",
+    "tags": []
+  },
+  "glitter": {
+    "meaning": "v. 闪烁, 闪耀, 闪光( glitter的过去式和过去分词 ); 眼睛闪现（某种强烈情感）",
+    "phonetic": "ˈɡlitəd",
+    "tags": []
+  },
+  "glitzy": {
+    "meaning": "n. glitzy的变形",
+    "phonetic": "",
+    "tags": []
+  },
+  "gloat": {
+    "meaning": "v. 幸灾乐祸地看[想], 贪婪地看[想]( gloat的过去式和过去分词 )",
+    "phonetic": "gləʊtid",
+    "tags": []
+  },
+  "gloating": {
+    "meaning": "(gloating 的复数) 心满意足的, 沾沾自喜的",
+    "phonetic": "",
+    "tags": []
+  },
+  "globalization": {
+    "meaning": "n. 全球化, =globalization",
+    "phonetic": ",gləubəlai'zeiʃən",
+    "tags": []
+  },
+  "globalise": {
+    "meaning": "(globalise 的过去分词) 使全球化（英式英语）",
+    "phonetic": "",
+    "tags": []
+  },
+  "globalize": {
+    "meaning": "v. （使）全球化, 全世界化( globalize的过去式和过去分词 )",
+    "phonetic": "ˈɡləubəlaizd",
+    "tags": []
+  },
+  "globate": {
+    "meaning": "a. = globate",
+    "phonetic": "'ɡləʊbeɪtɪd",
+    "tags": []
+  },
+  "globetrot": {
+    "meaning": "vi. 周游世界 (globetrot的变形)",
+    "phonetic": "",
+    "tags": []
+  },
+  "globe": {
+    "meaning": "v. （使）成球状（globe的过去式与过去分词形式）",
+    "phonetic": "",
+    "tags": []
+  },
+  "globigii": {
+    "meaning": "[化] 格鲁比型杆菌素\\n[医] 格洛比辛(抗菌素,获自枯草杆菌的变种Bacillus globigii)",
+    "phonetic": "",
+    "tags": []
+  },
+  "globose": {
+    "meaning": "adv. globose的变形",
+    "phonetic": "",
+    "tags": []
+  },
+  "glob": {
+    "meaning": "n. 一滴, 一小滴水珠, （可塑性物质的）一团( glob的复数形式 )",
+    "phonetic": "ɡlɔbz",
+    "tags": []
+  },
+  "globular": {
+    "meaning": "adv. globular的变形",
+    "phonetic": "",
+    "tags": []
+  },
+  "globule": {
+    "meaning": "n. 小球, 水珠( globule的复数形式 )",
+    "phonetic": "ˈɡlɔbju:lz",
+    "tags": []
+  },
+  "glochidium": {
+    "meaning": "glochidium的复数",
+    "phonetic": "^lәj'kidiә",
+    "tags": []
+  },
+  "glomus": {
+    "meaning": "glomus的复数",
+    "phonetic": "'^lɔmәrә,'^lәj-",
+    "tags": []
+  },
+  "glom": {
+    "meaning": "v. <俚>偷( glom的过去式和过去分词 ); 抢; 看; 瞪",
+    "phonetic": "ɡlɔmd",
+    "tags": []
+  },
+  "gloom": {
+    "meaning": "v. 昏暗( gloom的过去式和过去分词 ); 阴暗; 忧郁; 沮丧",
+    "phonetic": "ɡlu:md",
+    "tags": []
+  },
+  "gloop": {
+    "meaning": "(gloop 的现在分词)  难看（或味道差、感觉不舒服）的半流体物质；黏稠物",
+    "phonetic": "",
+    "tags": []
+  },
+  "glop": {
+    "meaning": "v. 软胶质物，浓流体物( glop的过去式和过去分词 )",
+    "phonetic": "ɡlɔpt",
+    "tags": []
+  },
+  "glorify": {
+    "meaning": "v. 赞美( glorify的第三人称单数 ); 颂扬; 美化; 使光荣",
+    "phonetic": "ˈglɔ:rəˌfaɪz",
+    "tags": []
+  },
+  "glorious": {
+    "meaning": "n. glorious的变形",
+    "phonetic": "",
+    "tags": []
+  },
+  "glossarial": {
+    "meaning": "adv. glossarial的变形",
+    "phonetic": "",
+    "tags": []
+  },
+  "glossary": {
+    "meaning": "n. （书尾的）词汇表, 难词汇编( glossary的复数形式 )",
+    "phonetic": "ˈglɔ:səri:z",
+    "tags": []
+  },
+  "glossarist": {
+    "meaning": "(=glossarist)评注者, 注解者, 注释者",
+    "phonetic": "^lɔ'seitә",
+    "tags": []
+  },
+  "gloss": {
+    "meaning": "v. 注解( gloss的过去式和过去分词 ); 掩饰（错误）; 粉饰; 把…搪塞过去",
+    "phonetic": "glɔ:st",
+    "tags": []
+  },
+  "glossographer": {
+    "meaning": "a. glossographer的变形",
+    "phonetic": "",
+    "tags": []
+  },
+  "glossolalia": {
+    "meaning": "n. 语意不清；言语不清 (glossolalia的变形)",
+    "phonetic": "",
+    "tags": []
+  },
+  "glossology": {
+    "meaning": "a. glossology的变形",
+    "phonetic": ",ɡlɒsəʊ'lɒdʒɪkəl",
+    "tags": []
+  },
+  "glossop": {
+    "meaning": "n. (Glossop)人名；(英、德)格洛索普",
+    "phonetic": "",
+    "tags": []
+  },
+  "gloster": {
+    "meaning": "(gloster 的复数)  [人名] 格洛斯特; [地名] [美国、牙买加] 格洛斯特",
+    "phonetic": "",
+    "tags": []
+  },
+  "glottis": {
+    "meaning": "a. glottis的变形",
+    "phonetic": "ɡlɔ'tidiən",
+    "tags": []
+  },
+  "glossitis": {
+    "meaning": "(=glossitis)舌炎",
+    "phonetic": ",^lɔti'daitis",
+    "tags": []
+  },
+  "glottochronology": {
+    "meaning": "a. glottochronology（语言年代学）的变形",
+    "phonetic": "'ɡlɔtəu,krɔnə'lɔdʒikəli",
+    "tags": []
+  },
+  "glow": {
+    "meaning": "v. （无焰地）燃烧( glow的过去式和过去分词 ); 脸红; 尤指热的物体发出微弱而稳定的光; 喜形于色",
+    "phonetic": "ɡləud",
+    "tags": []
+  },
+  "glower": {
+    "meaning": "v. 怒视( glower的过去式和过去分词 )",
+    "phonetic": "ˈglaʊəd",
+    "tags": []
+  },
+  "gloze": {
+    "meaning": "v. （原指）注释( gloze的过去式和过去分词 ); 解释; 掩饰; 文饰",
+    "phonetic": "ɡləuzd",
+    "tags": []
+  },
+  "glycemia": {
+    "meaning": "(=glycemia)糖血",
+    "phonetic": "^lu:'si:miә",
+    "tags": []
+  },
+  "glucinum": {
+    "meaning": "a. glucinum的变形",
+    "phonetic": "",
+    "tags": []
+  },
+  "glycocyamine": {
+    "meaning": "(=glycocyamine)胍乙酸",
+    "phonetic": ",^lu:kәu'saiәmi:n",
+    "tags": []
+  },
+  "glycogen": {
+    "meaning": "(=glycogen)糖原",
+    "phonetic": "'^lu:kәudʒen",
+    "tags": []
+  },
+  "glucoside": {
+    "meaning": "a. glucoside（葡糖苷）的变形",
+    "phonetic": ",ɡlu:kəu'sidik",
+    "tags": []
+  },
+  "glucosinolate": {
+    "meaning": "(glucosinolate 的复数)  葡糖异硫氰酸盐",
+    "phonetic": "",
+    "tags": []
+  },
+  "glipizide": {
+    "meaning": " [医]利糖妥片（含 glipizide）<降血糖药>",
+    "phonetic": "",
+    "tags": []
+  },
+  "glycuronide": {
+    "meaning": "n. [生化]葡(萄)糖苷酸( 亦作glycuronide)",
+    "phonetic": "^lu:'kjjәrәnaid",
+    "tags": []
+  },
+  "glueing": {
+    "meaning": "(glueing 的复数)  胶合；施胶；涂胶",
+    "phonetic": "",
+    "tags": []
+  },
+  "gluer": {
+    "meaning": "涂胶器 tail gluer 胶粘机",
+    "phonetic": "'^lu:ә",
+    "tags": []
+  },
+  "gluey": {
+    "meaning": "adv. gluey的变形",
+    "phonetic": "",
+    "tags": []
+  },
+  "glum": {
+    "meaning": "a. 闷闷不乐的, 忧郁的( glum的比较级 )",
+    "phonetic": "glʌmə",
+    "tags": []
+  },
+  "gluteus": {
+    "meaning": "gluteus的复数",
+    "phonetic": "'^lu:tiai,-'ti:ai",
+    "tags": []
+  },
+  "glutinosum": {
+    "meaning": "[化] 粘霉菌素\\n[医] 胶粘[绿僵]菌素(抗菌素,获自胶粘绿僵菌Metarrhizium glutinosum)",
+    "phonetic": "",
+    "tags": []
+  },
+  "glutinous": {
+    "meaning": "adv. glutinous的变形",
+    "phonetic": "",
+    "tags": []
+  },
+  "glut": {
+    "meaning": "n. <经>供过于求( glut的名词复数 ); 过量供应; 放纵; 尽量\\nv. 吃得过多( glut的第三人称单数 ); （对胃口、欲望等）纵情满足; 使厌腻; 塞满",
+    "phonetic": "glʌts",
+    "tags": []
+  },
+  "gluttonize": {
+    "meaning": "vt., vi. [主英国英语]= gluttonize",
+    "phonetic": "'ɡlʌtənaiz",
+    "tags": []
+  },
+  "gluttonous": {
+    "meaning": "adv. gluttonous的变形",
+    "phonetic": "",
+    "tags": []
+  },
+  "glutton": {
+    "meaning": "n. 贪食者( glutton的复数形式 ); <口>贪图者; 酷爱…的人; 狼獾",
+    "phonetic": "ˈglʌtnz",
+    "tags": []
+  },
+  "glycerin": {
+    "meaning": "(=glycerin)甘油, 丙三醇",
+    "phonetic": ":",
+    "tags": []
+  },
+  "glyceride": {
+    "meaning": "a. glyceride的变形",
+    "phonetic": ",ɡlise'ridik",
+    "tags": []
+  },
+  "glycerophosphate": {
+    "meaning": "(glycerophosphate 的复数) 甘油磷酸",
+    "phonetic": "",
+    "tags": []
+  },
+  "glycoalkaloid": {
+    "meaning": "(glycoalkaloid 的复数) [化] 配糖碱; 配糖生物碱; 生物碱苷(类名)",
+    "phonetic": "",
+    "tags": []
+  },
+  "guanidinoaceticacid": {
+    "meaning": "(=guanidinoaceticacid)胍基乙酸",
+    "phonetic": ",^laikә'saiәmi:n",
+    "tags": []
+  },
+  "glycolipin": {
+    "meaning": "(=glycolipin)糖脂",
+    "phonetic": "^laikә'lipaid",
+    "tags": []
+  },
+  "glycosidic": {
+    "meaning": "adv. glycosidic的变形",
+    "phonetic": "",
+    "tags": []
+  },
+  "glydrs": {
+    "meaning": "(=glydrs)岩屑锥",
+    "phonetic": "'^lidәs",
+    "tags": []
+  },
+  "glynn": {
+    "meaning": " [人名] [康沃尔人、威尔士人姓氏] 格林 Glynn的变体",
+    "phonetic": "",
+    "tags": []
+  },
+  "glyph": {
+    "meaning": "(glyph 的复数) [计] 符号, 点符",
+    "phonetic": "",
+    "tags": []
+  },
+  "glyptography": {
+    "meaning": "a. glyptography的变形",
+    "phonetic": "",
+    "tags": []
+  },
+  "gnarly": {
+    "meaning": "adj. gnarly（ 多瘤的，粗糙的）的变形",
+    "phonetic": "",
+    "tags": []
+  },
+  "gnar": {
+    "meaning": "v. （狗等）吠, 吼, 咆哮( gnar的过去式和过去分词 )",
+    "phonetic": "",
+    "tags": []
+  },
+  "gnash": {
+    "meaning": "adv. gnash的变形",
+    "phonetic": "",
+    "tags": []
+  },
+  "gnathostome": {
+    "meaning": "(gnathostome 的复数) 有颌类",
+    "phonetic": "",
+    "tags": []
+  },
+  "gnat": {
+    "meaning": "n. 叮人小虫( gnat的复数形式 )",
+    "phonetic": "næts",
+    "tags": []
+  },
+  "gnaw": {
+    "meaning": "gnaw的过去分词",
+    "phonetic": "nɔ:n",
+    "tags": []
+  },
+  "gneissic": {
+    "meaning": "a. [地质](=gneissic)片麻岩的, 像片麻岩的",
+    "phonetic": "'naisәus",
+    "tags": []
+  },
+  "gniezno": {
+    "meaning": "<德>=Gniezno",
+    "phonetic": "'^neizən",
+    "tags": []
+  },
+  "gnetophyta": {
+    "meaning": "[网络] Gnetophyta",
+    "phonetic": "",
+    "tags": []
+  },
+  "gnome": {
+    "meaning": "n. 矮子( gnome的复数形式 ); 侏儒; <口>（尤指金融市场上搞投机的）银行家; 守护神",
+    "phonetic": "nəʊmz",
+    "tags": []
+  },
+  "gnomical": {
+    "meaning": "adv. gnomical的变形",
+    "phonetic": "",
+    "tags": []
+  },
+  "gnomology": {
+    "meaning": "a. gnomology的变形",
+    "phonetic": "",
+    "tags": []
+  },
+  "gnostic": {
+    "meaning": "(gnostic 的复数) [医] 认识的, 感悟的",
+    "phonetic": "",
+    "tags": []
+  },
+  "gnotobiotic": {
+    "meaning": "adv. gnotobiotic的变形",
+    "phonetic": "",
+    "tags": []
+  },
+  "gunnery": {
+    "meaning": "abbr. goods not received 未收到货物; gunnery 射击手",
+    "phonetic": "",
+    "tags": []
+  },
+  "gnu": {
+    "meaning": "[网络] gnu山羊",
+    "phonetic": "",
+    "tags": []
+  },
+  "getter": {
+    "meaning": "n. <俚>非常积极能干的人, 老手( go-getter的复数形式 ); 志在必得的人",
+    "phonetic": "",
+    "tags": []
+  },
+  "goto": {
+    "meaning": "[计] 无GOTO程序设计",
+    "phonetic": "",
+    "tags": []
+  },
+  "goad": {
+    "meaning": "v. 刺激( goad的过去式和过去分词 ); 激励; （用尖棒）驱赶; 驱使（或怂恿、刺激）某人",
+    "phonetic": "gəʊdid",
+    "tags": []
+  },
+  "goaf": {
+    "meaning": "n. 废矿 (goaf的变形)",
+    "phonetic": "",
+    "tags": []
+  },
+  "goalie": {
+    "meaning": "n. 守门员( goalie的复数形式 )",
+    "phonetic": "ˈɡəuliz",
+    "tags": []
+  },
+  "goalkeeper": {
+    "meaning": "n. <英><非正>（足球队的）守门员( goalkeeper的复数形式 )",
+    "phonetic": "ˈgəʊlki:pəz",
+    "tags": []
+  },
+  "goalpost": {
+    "meaning": "n. （足球、曲棍球的）球门柱( goalpost的复数形式 )",
+    "phonetic": "ˈgəʊpəʊsts",
+    "tags": []
+  },
+  "goalscorer": {
+    "meaning": "(goalscorer 的复数)  [体]得分者",
+    "phonetic": "",
+    "tags": []
+  },
+  "goanna": {
+    "meaning": "(goanna 的复数) [澳]巨蜥",
+    "phonetic": "",
+    "tags": []
+  },
+  "goatee": {
+    "meaning": "n. 山羊胡子, （只留于下颚的）胡子( goatee的复数形式 )",
+    "phonetic": "ɡəuˈti:z",
+    "tags": []
+  },
+  "goatfish": {
+    "meaning": "n. 绯鲵鲣（一种海鱼）( goatfish的名词复数 )",
+    "phonetic": "",
+    "tags": []
+  },
+  "goatowl": {
+    "meaning": "(=goatowl)蚊母鸟",
+    "phonetic": "'^әutmikә",
+    "tags": []
+  },
+  "gobbet": {
+    "meaning": "n. 团块, 一口, 小片( gobbet的复数形式 )",
+    "phonetic": "",
+    "tags": []
+  },
+  "gob": {
+    "meaning": "v. 吐唾沫( gob的现在分词 ); 充填",
+    "phonetic": "'ɡɒbɪŋ",
+    "tags": []
+  },
+  "gobble": {
+    "meaning": "v. 狼吞虎咽地吃( gobble的过去式和过去分词 ); （火鸡）咯咯地叫; 赶快吃; 很快耗掉（尤指金钱）",
+    "phonetic": "ˈgɔbəld",
+    "tags": []
+  },
+  "gobelin": {
+    "meaning": "(Gobelin 的复数) (哥白林厂制)壁饰挂毯, 仿哥白林挂毯",
+    "phonetic": "",
+    "tags": []
+  },
+  "godbold": {
+    "meaning": " [人名] [英格兰人姓氏] 戈布尔 Godbold的变体",
+    "phonetic": "",
+    "tags": []
+  },
+  "goblet": {
+    "meaning": "n. 高脚酒杯( goblet的复数形式 )",
+    "phonetic": "ˈgɔblɪts",
+    "tags": []
+  },
+  "goblin": {
+    "meaning": "n. 小妖精, 丑妖精( goblin的复数形式 )",
+    "phonetic": "ˈgɔblɪnz",
+    "tags": []
+  },
+  "gobshite": {
+    "meaning": "(gobshite 的复数)  胡说八道的傻瓜；无聊的蠢人",
+    "phonetic": "",
+    "tags": []
+  },
+  "goda": {
+    "meaning": "n. (Goda)人名；(西、塞、捷、阿拉伯)戈达",
+    "phonetic": "",
+    "tags": []
+  },
+  "godchild": {
+    "meaning": "n. 教子, 名义上的儿子( godchild的复数形式 )",
+    "phonetic": "ˈgɒdtʃɪldrən",
+    "tags": []
+  },
+  "goddaughter": {
+    "meaning": "n. 教女( goddaughter的复数形式 )",
+    "phonetic": "",
+    "tags": []
+  },
+  "godden": {
+    "meaning": "n. (Godden)人名；(葡、英)戈登",
+    "phonetic": "",
+    "tags": []
+  },
+  "godde": {
+    "meaning": "(godde 的复数)  [人名] 戈德",
+    "phonetic": "",
+    "tags": []
+  },
+  "goddess": {
+    "meaning": "n. 女神( goddess的复数形式 ); 被崇拜的女人",
+    "phonetic": "ˈgɔdɪsiz",
+    "tags": []
+  },
+  "godefroy": {
+    "meaning": "n. (Godefroy)人名；(德、西、英)戈德弗罗伊；(法)戈德弗鲁瓦",
+    "phonetic": "",
+    "tags": []
+  },
+  "godesberg": {
+    "meaning": "n. (Godesberg)人名；(德)戈德斯贝格",
+    "phonetic": "",
+    "tags": []
+  },
+  "godfather": {
+    "meaning": "n. 教父( godfather的复数形式 )",
+    "phonetic": "ˈgɔdˌfɑ:ðəz",
+    "tags": []
+  },
+  "godfried": {
+    "meaning": "n. (Godfried)人名；(荷)霍德弗里德",
+    "phonetic": "",
+    "tags": []
+  },
+  "godless": {
+    "meaning": "n. godless的变形",
+    "phonetic": "",
+    "tags": []
+  },
+  "godley": {
+    "meaning": "n. (Godley)人名；(英)戈德利",
+    "phonetic": "",
+    "tags": []
+  },
+  "godly": {
+    "meaning": "adv. godly的变形",
+    "phonetic": "",
+    "tags": []
+  },
+  "godmother": {
+    "meaning": "n. 教母( godmother的复数形式 ); 意想不到的恩人, 危难时提供帮助的救星",
+    "phonetic": "ˈgɔdˌmʌðəz",
+    "tags": []
+  },
+  "godot": {
+    "meaning": "n. (Godot)人名；(法)戈多",
+    "phonetic": "",
+    "tags": []
+  },
+  "godoy": {
+    "meaning": "n. (Godoy)人名；(英、德、西、意、葡)戈多伊",
+    "phonetic": "",
+    "tags": []
+  },
+  "godparent": {
+    "meaning": "n. 教父, 教母( godparent的复数形式 )",
+    "phonetic": "ˈgɔdˌpeərənts",
+    "tags": []
+  },
+  "gutteridge": {
+    "meaning": " [人名] [英格兰人姓氏] 戈德里奇 Gutteridge的变体",
+    "phonetic": "",
+    "tags": []
+  },
+  "godson": {
+    "meaning": "n. 教子, （天主教）代子( godson的复数形式 )",
+    "phonetic": "ˈgɔdˌsʌnz",
+    "tags": []
+  },
+  "goebbel": {
+    "meaning": "n. (Goebbel)人名；(德)格贝尔",
+    "phonetic": "",
+    "tags": []
+  },
+  "goe": {
+    "meaning": "(goe 的过去时) 海蚀洞",
+    "phonetic": "",
+    "tags": []
+  },
+  "goel": {
+    "meaning": "n. (Goel)人名；(西)戈埃尔",
+    "phonetic": "",
+    "tags": []
+  },
+  "goemon": {
+    "meaning": "n. (Goemon)人名；(日)五右卫门(名)",
+    "phonetic": "",
+    "tags": []
+  },
+  "gotzenite": {
+    "meaning": "(=gotzenite)氟硅钙钛矿",
+    "phonetic": "'^ә:tsә,nait",
+    "tags": []
+  },
+  "goffer": {
+    "meaning": "a. 具[起]皱的\\nv. 作皱褶, 使皱起( goffer的过去式和过去分词 )",
+    "phonetic": "'ɡəʊfəd",
+    "tags": []
+  },
+  "goff": {
+    "meaning": "(Goff 的复数) 戈夫（地名）",
+    "phonetic": "",
+    "tags": []
+  },
+  "goggle": {
+    "meaning": "a. 戴护目镜的\\nv. 睁大眼睛瞪视, （惊讶的）转动眼珠( goggle的过去式和过去分词 )",
+    "phonetic": "'ɡɒɡld",
+    "tags": []
+  },
+  "gurglet": {
+    "meaning": "(=guglet, gurglet)[印]冷水瓶",
+    "phonetic": "'^ɔ^lit",
+    "tags": []
+  },
+  "goi": {
+    "meaning": "n. goi的变形",
+    "phonetic": "",
+    "tags": []
+  },
+  "goiter": {
+    "meaning": "a. goiter的变形",
+    "phonetic": "",
+    "tags": []
+  },
+  "goitre": {
+    "meaning": "a. goitre的变形",
+    "phonetic": "",
+    "tags": []
+  },
+  "goku": {
+    "meaning": "n. (Goku)人名；(日)后久 (姓)",
+    "phonetic": "",
+    "tags": []
+  },
+  "goddamn": {
+    "meaning": "int. ,n.,adj.,adv.,v.<美口><婉>=goddamn",
+    "phonetic": "'^ɔl'dɑ:n",
+    "tags": []
+  },
+  "goddamned": {
+    "meaning": "a. & adv.<美口><婉>=goddamned",
+    "phonetic": "'^ɔl'dɑ:nd",
+    "tags": []
+  },
+  "goldblum": {
+    "meaning": "n. (Goldblum)人名；(法、德、以、英)戈德布卢姆",
+    "phonetic": "",
+    "tags": []
+  },
+  "goldbrick": {
+    "meaning": "v. 称病( goldbrick的过去式和过去分词 ); 欺诈; 假金砖; 懒汉",
+    "phonetic": "ˈɡəuldbrikt",
+    "tags": []
+  },
+  "golde": {
+    "meaning": "n. (Golde)人名；(德、波、俄、英)戈尔德",
+    "phonetic": "",
+    "tags": []
+  },
+  "goldfarb": {
+    "meaning": "n. (Goldfarb)人名；(英、法)戈德法布",
+    "phonetic": "",
+    "tags": []
+  },
+  "goldmine": {
+    "meaning": "n. 金矿；大财源；宝库\\nn. (Goldmine)人名；(法)戈德米纳",
+    "phonetic": "'gəuldmain",
+    "tags": []
+  },
+  "goldplate": {
+    "meaning": "(goldplate 的过去时)  金（制容）器",
+    "phonetic": "",
+    "tags": []
+  },
+  "goldsmith": {
+    "meaning": "n. 金匠, 金器商( goldsmith的复数形式 )",
+    "phonetic": "ˈgəʊldˌsmɪθs",
+    "tags": []
+  },
+  "goldsworthy": {
+    "meaning": "n. (Goldsworthy)人名；(英)戈兹沃西",
+    "phonetic": "",
+    "tags": []
+  },
+  "goldwyn": {
+    "meaning": "n. (Goldwyn)人名；(英)戈尔德温",
+    "phonetic": "",
+    "tags": []
+  },
+  "goldilocks": {
+    "meaning": "n. =goldilocks(1.)",
+    "phonetic": "'ɡəʊldɪlɒks",
+    "tags": []
+  },
+  "gole": {
+    "meaning": "(gole 的复数)  水沟；水门",
+    "phonetic": "",
+    "tags": []
+  },
+  "golfball": {
+    "meaning": "(golfball 的复数) [计] 高尔夫球, 可移动的打字球",
+    "phonetic": "",
+    "tags": []
+  },
+  "golf": {
+    "meaning": "vi. 打高尔夫球（golf的过去式与过去分词形式）",
+    "phonetic": "",
+    "tags": []
+  },
+  "golfer": {
+    "meaning": "n. 高尔夫球手( golfer的复数形式 )",
+    "phonetic": "ˈgɔlfəz",
+    "tags": []
+  },
+  "goli": {
+    "meaning": "n. (Goli)人名；(俄)戈雷；(挪)戈利",
+    "phonetic": "",
+    "tags": []
+  },
+  "golightly": {
+    "meaning": "n. (Golightly)人名；(英)戈莱特利",
+    "phonetic": "",
+    "tags": []
+  },
+  "golilla": {
+    "meaning": "(golilla 的复数)  大翻领",
+    "phonetic": "",
+    "tags": []
+  },
+  "goll": {
+    "meaning": "n. (Goll)人名；(法、德、塞、捷、匈)戈尔",
+    "phonetic": "",
+    "tags": []
+  },
+  "golly": {
+    "meaning": "n. 神；（澳）唾沫；怪人（等于golliwog）\\nint. 天哪！（表示惊奇、困惑、高兴等, God的委婉语）\\nv. （澳）吐痰\\nn. (Golly)人名；(法)戈利",
+    "phonetic": "'gɒlɪ",
+    "tags": []
+  },
+  "galosh": {
+    "meaning": "n. = galosh",
+    "phonetic": "ɡə'lɔʃ",
+    "tags": []
+  },
+  "goman": {
+    "meaning": "n. (Goman)人名；(日)五万 (姓)；(俄、芬、罗)戈曼",
+    "phonetic": "",
+    "tags": []
+  },
+  "gome": {
+    "meaning": "(gome 的复数)  滑润油的积炭",
+    "phonetic": "",
+    "tags": []
+  },
+  "gompers": {
+    "meaning": "n. (Gompers)人名；(英)冈珀斯",
+    "phonetic": "",
+    "tags": []
+  },
+  "gonadectomy": {
+    "meaning": "a. gonadectomy的变形",
+    "phonetic": "",
+    "tags": []
+  },
+  "gonad": {
+    "meaning": "n. [解剖] 生殖腺；内性器（gonad的复数）",
+    "phonetic": "",
+    "tags": []
+  },
+  "gonangium": {
+    "meaning": "n. gonangium的变形",
+    "phonetic": "",
+    "tags": []
+  },
+  "gondola": {
+    "meaning": "n. 狭长小船( gondola的复数形式 ); 货架（一般指商店, 例如化妆品店）; 吊船工作台",
+    "phonetic": "ˈɡɔndələz",
+    "tags": []
+  },
+  "gondor": {
+    "meaning": "n. (Gondor)人名；(匈)贡多尔",
+    "phonetic": "",
+    "tags": []
+  },
+  "goner": {
+    "meaning": "n. <俗>将死者, 落魄的人, 无望的人( goner的复数形式 )",
+    "phonetic": "ˈɡɔnəz",
+    "tags": []
+  },
+  "gonfalon": {
+    "meaning": "n. <废>=gonfalon",
+    "phonetic": "'^ɔnfәnәn",
+    "tags": []
+  },
+  "gongorism": {
+    "meaning": "n. （西班牙诗人）贡戈拉-阿尔戈特的写作风格；贡戈拉主义 (Gongorism的变形)",
+    "phonetic": "",
+    "tags": []
+  },
+  "gong": {
+    "meaning": "n. 锣( gong的复数形式 )",
+    "phonetic": "gɔ:ŋz",
+    "tags": []
+  },
+  "gongster": {
+    "meaning": "(gongster 的复数) [俚]用锣声指挥交通的警察",
+    "phonetic": "",
+    "tags": []
+  },
+  "gonne": {
+    "meaning": "(gonne 的复数)  [人名] 冈尼",
+    "phonetic": "",
+    "tags": []
+  },
+  "gonococcide": {
+    "meaning": "(=gonococcide)杀淋(球)菌剂",
+    "phonetic": ",^ɔnә'kɔkәsaid",
+    "tags": []
+  },
+  "gonopod": {
+    "meaning": "(gonopod 的复数) [医] 生殖肢",
+    "phonetic": "",
+    "tags": []
+  },
+  "gonepoiesis": {
+    "meaning": "(=gonepoiesis)精液生成, 精液分泌",
+    "phonetic": ",^ɔnәpɔi'i:sis",
+    "tags": []
+  },
+  "gonorrhoea": {
+    "meaning": "a. gonorrhoea的变形",
+    "phonetic": "",
+    "tags": []
+  },
+  "gonys": {
+    "meaning": "a. gonys的变形",
+    "phonetic": "",
+    "tags": []
+  },
+  "gonzaga": {
+    "meaning": "n. (Gonzaga)人名；(西、葡)贡萨加；(俄)贡扎加",
+    "phonetic": "",
+    "tags": []
+  },
+  "goodall": {
+    "meaning": " [人名] [英格兰人姓氏] 古德尔 Goodall的变体",
+    "phonetic": "",
+    "tags": []
+  },
+  "goodchild": {
+    "meaning": "n. (Goodchild)人名；(英)古德柴尔德",
+    "phonetic": "",
+    "tags": []
+  },
+  "goodey": {
+    "meaning": " [人名] [英格兰人姓氏] 古迪夫 Goodey的变体; [地名] [加拿大] 古迪夫",
+    "phonetic": "",
+    "tags": []
+  },
+  "goodfellow": {
+    "meaning": "n. (Goodfellow)人名；(英)古德费洛",
+    "phonetic": "",
+    "tags": []
+  },
+  "goodheart": {
+    "meaning": "(goodheart 的过去分词)  [人名] 古德哈特",
+    "phonetic": "",
+    "tags": []
+  },
+  "goodhue": {
+    "meaning": "n. (Goodhue)人名；(英)古德休",
+    "phonetic": "",
+    "tags": []
+  },
+  "goodier": {
+    "meaning": "n. (Goodier)人名；(英)古迪尔",
+    "phonetic": "",
+    "tags": []
+  },
+  "goodlad": {
+    "meaning": "n. (Goodlad)人名；(英、意)古德拉德",
+    "phonetic": "",
+    "tags": []
+  },
+  "goodlatte": {
+    "meaning": "n. (Goodlatte)人名；(英)古德拉特",
+    "phonetic": "",
+    "tags": []
+  },
+  "goodenough": {
+    "meaning": " [人名] [英格兰人姓氏] 古德纳 Goodenough的变体",
+    "phonetic": "",
+    "tags": []
+  },
+  "goodson": {
+    "meaning": "n. (Goodson)人名；(英)古德森",
+    "phonetic": "",
+    "tags": []
+  },
+  "goodwife": {
+    "meaning": "n. 女主人，女子的敬称( goodwife的名词复数 )",
+    "phonetic": "",
+    "tags": []
+  },
+  "goody": {
+    "meaning": "n. 伪善者( goody-goody的复数形式 ); 善于伪装以讨好（家长或老师等）的人, 会巴结的人",
+    "phonetic": "",
+    "tags": []
+  },
+  "goofup": {
+    "meaning": "n. (因粗心大意、不负责任等)经常把事情搞糟的人[亦作 goofup]",
+    "phonetic": "'ɡu:fʌp",
+    "tags": []
+  },
+  "goof": {
+    "meaning": "v. 弄糟( goof的过去式和过去分词 ); 混; 打发时间; 出大错",
+    "phonetic": "ɡu:ft",
+    "tags": []
+  },
+  "goofy": {
+    "meaning": "a. 愚笨的, 傻瓜的( goofy的比较级 )",
+    "phonetic": "ˈɡu:fiə",
+    "tags": []
+  },
+  "googleheimer": {
+    "meaning": "[网络] Googleheimer的",
+    "phonetic": "",
+    "tags": []
+  },
+  "gooey": {
+    "meaning": "a. 胶粘的, 感伤的( gooey的比较级 )",
+    "phonetic": "ˈɡu:iə",
+    "tags": []
+  },
+  "goon": {
+    "meaning": "n. 受雇暴徒, 呆子, 愚笨者( goon的复数形式 )",
+    "phonetic": "ɡu:nz",
+    "tags": []
+  },
+  "gooney": {
+    "meaning": "n. =gooney bird [亦作 gooney]",
+    "phonetic": "'ɡu:ni",
+    "tags": []
+  },
+  "gopalan": {
+    "meaning": "n. (Gopalan)人名；(印、德)高普兰",
+    "phonetic": "",
+    "tags": []
+  },
+  "gor": {
+    "meaning": "abbr. 气油比（gas oil ratio）；普通操作要求（general operational requirement）\\nn. (Gor)人名；(西)戈尔",
+    "phonetic": "ɡɔ:",
+    "tags": []
+  },
+  "gorah": {
+    "meaning": "(=gorah)哥拉弓琴",
+    "phonetic": "'^әurә",
+    "tags": []
+  },
+  "gorby": {
+    "meaning": "n. (Gorby)人名；(法)戈尔比",
+    "phonetic": "",
+    "tags": []
+  },
+  "gordin": {
+    "meaning": "n. (Gordin)人名；(法)戈尔丹；(俄)戈尔金；(英)戈丁；(塞、瑞典、芬)戈尔丁",
+    "phonetic": "",
+    "tags": []
+  },
+  "gordo": {
+    "meaning": "n. (Gordo)人名；(西、葡)戈多；(俄、塞)戈尔多",
+    "phonetic": "",
+    "tags": []
+  }
+}

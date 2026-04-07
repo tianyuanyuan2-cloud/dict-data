@@ -1,0 +1,137 @@
+[
+  {
+    "letter": "a",
+    "file": "a.json",
+    "count": 3911
+  },
+  {
+    "letter": "b",
+    "file": "b.json",
+    "count": 3546
+  },
+  {
+    "letter": "c",
+    "file": "c.json",
+    "count": 4167
+  },
+  {
+    "letter": "d",
+    "file": "d.json",
+    "count": 2436
+  },
+  {
+    "letter": "e",
+    "file": "e.json",
+    "count": 1791
+  },
+  {
+    "letter": "f",
+    "file": "f.json",
+    "count": 1643
+  },
+  {
+    "letter": "g",
+    "file": "g.json",
+    "count": 1670
+  },
+  {
+    "letter": "h",
+    "file": "h.json",
+    "count": 1981
+  },
+  {
+    "letter": "i",
+    "file": "i.json",
+    "count": 1504
+  },
+  {
+    "letter": "j",
+    "file": "j.json",
+    "count": 510
+  },
+  {
+    "letter": "k",
+    "file": "k.json",
+    "count": 776
+  },
+  {
+    "letter": "l",
+    "file": "l.json",
+    "count": 1649
+  },
+  {
+    "letter": "m",
+    "file": "m.json",
+    "count": 2927
+  },
+  {
+    "letter": "n",
+    "file": "n.json",
+    "count": 1158
+  },
+  {
+    "letter": "o",
+    "file": "o.json",
+    "count": 1160
+  },
+  {
+    "letter": "p",
+    "file": "p.json",
+    "count": 3637
+  },
+  {
+    "letter": "q",
+    "file": "q.json",
+    "count": 201
+  },
+  {
+    "letter": "r",
+    "file": "r.json",
+    "count": 2135
+  },
+  {
+    "letter": "s",
+    "file": "s.json",
+    "count": 4588
+  },
+  {
+    "letter": "t",
+    "file": "t.json",
+    "count": 2278
+  },
+  {
+    "letter": "u",
+    "file": "u.json",
+    "count": 637
+  },
+  {
+    "letter": "v",
+    "file": "v.json",
+    "count": 746
+  },
+  {
+    "letter": "w",
+    "file": "w.json",
+    "count": 950
+  },
+  {
+    "letter": "x",
+    "file": "x.json",
+    "count": 69
+  },
+  {
+    "letter": "y",
+    "file": "y.json",
+    "count": 200
+  },
+  {
+    "letter": "z",
+    "file": "z.json",
+    "count": 188
+  },
+  {
+    "letter": "other",
+    "file": "other.json",
+    "count": 0
+  }
+]
